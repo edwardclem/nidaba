@@ -1,0 +1,4395 @@
+&Q001920 = Išbi-Erra 1 [E4.1.1.1]
+@composite
+#project: etcsri
+#link: source P225529 = RIME 4.01.01.01, ex. 01
+
+1.        {d}en-lil2
+#lem: Enlil[1]DN
+
+2.        lugal kur-kur-ra
+#lem: lugal[king]; kur[mountain]
+
+3.        lugal-a-ni-ir
+#lem: lugal[king]
+
+4.        {d}isz-bi-er3-ra#
+#lem: Išbierra[1]RN
+
+5.        lugal kalag-ga
+#lem: lugal[king]; kalag[strong]
+
+6.        lugal ma#-da-<na>-ke4
+#lem: lugal[king]; mada[land]
+
+7.        balaj mah#
+#lem: balaŋ[instrument]; mah[great]
+
+8.        szag4 tu-x#-da
+#lem: szag[heart]\abs; u
+
+9.        mu-na-an-dim2
+#lem: dim[create] +.
+
+10.        nam-til3-la-ni-<sze3>
+#lem: namtil[life]
+
+11.        a mu-na-ru
+#lem: a[water]\abs; ru[cvve] +.
+
+12.        balaj-ba
+#lem: balaj[instrument]
+
+13.        {d}isz-bi-er3-ra
+#lem: Išbierra[1]RN\abs
+
+14.        {d}en-lil2-da nir#-jal2
+#lem: Enlil[1]DN; nirjal[authoritative]\abs
+
+15.        mu-bi-im#
+#lem: mu[name] +.
+
+@translation unitary en project
+@unit 1
+@span 1 - 11
+For Enlil, king of all land, his master, Išbi-Erra, the powerful king, the king of his land, fashioned a lofty @balaĝ-drum, which ... the heart, and dedicated it to him for his well-being. 
+
+@unit 2
+@span 12 - 15
+The name of this @balaĝ-drum is “Išbi-Erra puts (his) trust in Enlil.”
+
+@translation unitary hun project
+@unit 1
+@span 1 - 11
+Enlilnek, minden ország királyának, urának, Isbi-Erra, az erős király, országának királya, egy fenséges @balag-dobot, mely ... a szívet, készített, és az életéért ajánlotta fel neki.
+
+@unit 2
+@span 12 - 15
+Ennek a @balag-dobnak “Isbi-Erra Enlilben bízik” a neve.
+
+
+&Q001934 = Šu-ilišu 1 [E4.1.2.1]
+@composite
+#project: etcsri
+#link: source P269855 = RIME 4.01.02.01, ex. 1
+
+1.	{d}nanna
+#lem: Nanna[1]DN
+
+2.	saj il2 mah
+#lem: saj[head]\abs; il[raise]; mah[great]
+
+3.	{d}a-nun-na-ke4-ne
+#lem: Anunak[1]DN
+
+4. 	lugal-a-ni-ir
+#lem: lugal[king]
+
+5.	{d}szu-i3-li2-szu
+#lem: Šuilišu[1]RN
+
+6.	nita kalag-ga
+#lem: nita[male]; kalag[strong]
+
+7.	lugal urim5{ki}-ma-ke4
+#lem: lugal[king]; Urim[1]SN
+
+8.	ud {d}nanna
+#lem: ud[sun]; Nanna[1]DN
+
+9. 	an-sza-an{ki}-ta
+#lem: Anšan[1]SN
+
+10. 	urim5{ki}-sze3
+#lem: Urim[1]SN
+
+11. 	mu-un-tum2-ma-a
+#lem: tum[lead]
+
+12. 	dub-la2-mah
+#lem: Dublamah[1]TN
+
+13.	ki di kud-da-ni
+#lem: ki[place]; did[lawsuit]\abs; kud[cut]\abs
+
+14.	mu-na-du3
+#lem: du[build] +.
+
+15. 	{jesz}ig zag mi2-ma gun3-a
+#lem: ig[door]; zag[side]; min[two]; gunu[speckled]\abs
+
+16.	mu-na-an-gub
+#lem: gub[stand] +.
+
+17.	nam-til3-la-ni-sze3
+#lem: namtil[life]
+
+18.	a mu-na-ru
+#lem: a[water]\abs; ru[cvve] +.
+
+19. 	lu2 a2 nij2-hul dim2-ma
+#lem: lu[person]; a[arm]; nijhulu[evil]\abs; dim[create]\abs
+
+20.	ib2-szi-aj2-ja2-a
+#lem: aj[measure]
+
+21.	e2-nij2-gur11-ra
+#lem: enijGA[depot]
+
+22.	i-ni-ib-ku4-ku4-a
+#lem: kur[enter]
+
+23.	asz2 bala-a-ba-ke4-esz
+#lem: asz[curse]\abs; bala[turn]
+
+24.	lu2-kur2
+#lem: lukur[stranger]\abs
+
+25. 	szu ba-an-zi-zi-a
+#lem: szu[hand]\abs; zig[rise]
+
+26. 	lu2-ba
+#lem: lu[person]\dem2
+
+27. 	{d}nanna
+#lem: Nanna[1]DN
+
+28. 	lugal-ju10
+#lem: lugal[king]
+
+29.	{d}nin-gal
+#lem: Ningal[1]DN
+
+30. 	nin-ju10
+#lem: nin[lady]\erg
+
+31. 	nam ha-ba-an-da-ku5-ru-ne
+#lem: nam[fate]\abs; kud[cut] +.
+
+@translation unitary en project
+@unit 1
+@span 1 - 18
+When Šu-ilišu, the powerful man, king of Urim, brought home (the statue of) Nanna from Anšan to Urim, then for Nanna, the most outstanding among the Anuna gods, his master, he built the Dublamah, his place of rendering judgement. He installed for him a decorated @?two-wing?@ door, and dedicated it to him for his well-being. 
+
+@unit 2
+@span 19 - 31
+Whoever gives order to perform a misdeed against this (door), transfers it to a storehouse, or makes another man raise his hand against it on account of this curse, may Nanna, my master, and Ningal, my lady, curse him!
+
+@translation unitary hun project
+@unit 1
+@span 1 - 18
+Amikor Su-ilisu, az erős király, Ur király, Nanna (szobrát) Ansanból Urba hazahozta, akkor Nannának, a legkiválóbbnak az Anuna istenek között, urának, felépítette a Dublamahot, itélethozatalának helyét. Felállított neki egy @?kétszárnyú?@ díszes ajtót, és az életéért ajánlotta fel neki.
+
+@unit 2
+@span 19 - 31
+Aki ez ellen (az ajtó elleni) bűntettre ad parancsot, vagy egy raktárba szállítja át, vagy e miatt az átok miatt valaki mást vesz rá arra, hogy kezet emeljen rá, azt Nanna, az én uram, és Ningal, az én úrnőm, sújtsa átokkal! 
+
+&Q001936 = Šu-ilišu 3 [E4.1.2.3]
+@composite
+#project: etcsri
+#link: source P225728 = RIME 4.01.02.03, ex. 01-02
+#link: source P387684 = RIME 4.01.02.03b, ex. 01
+#link: source P387686 = RIME 4.01.02.03b, ex. 01
+
+1.        {d}szu-i3-li2-szu
+#lem: Šuilišu[1]RN
+
+2.        lugal kalag-ga
+#lem: lugal[king]; kalag[strong]
+
+3.        lugal ki-en-gi ki-uri-ke4
+#lem: lugal[king]; Kiengir[1]GN; Akkad[1]GN
+
+4.        nam gal ki aj2
+#lem: nam[fate]; gal[big]; ki[place]\abs; aj[measure]
+
+5.        {d}nin-isin2{si}-na-ta
+#lem: Ninisinak[1]DN\gen\abl
+
+6.        i3-si-in{ki}-da
+#lem: Isin[1]SN
+
+7.        ma-da sig nim sag2 dug4-ga
+#lem: mada[land]; sig[low//lands]'N; nim[high//lands]'N; sag[scatter]\abs; !dug[speak]\abs
+
+8.        ki-tusz-ba gen6-ne2-de3
+#lem: kitusz[dwelling]; gin[establish]
+
+9.        bad3 gal me-lem4-ba gu3 lu2 nu-ja2-ja2
+#lem: bad[wall]; gal[big]; melim[splendor]; gu[voice]\abs; lu[person]\erg; jar[place]\abs
+
+10.        mu-du3
+#lem: du[build] +.
+
+11.        bad3-ba
+#lem: bad[wall]\dem2\gen
+
+12.        {d}szu-i3-li2-szu ri#-im esz4-tar2#
+#lem: Šuilišu[1]RN; L; Eštar[1]DN
+
+13.        mu-bi-im#
+#lem: mu[name] +.
+
+@translation unitary en project
+@unit 1
+@span 1 - 13
+Because of his great love for Ninisina, Šu-ilišu, the powerful king, king of Sumer and Akkad, built a great city wall whose fearsome radiance silences everyone in order to make the scattered people of the south and highlands secure in their dwellings around Isin. The name of this city wall is “Šu-ilišu is the beloved of Eštar.”   
+
+@translation unitary hun project
+@unit 1
+@span 1 - 13
+Su-ilisu, az erős király, Sumer és Akkád királya, Niniszina iránti nagy szeretete miatt,hogy a déli és a hegyi területek szétzavart népei biztonságba kerüljenek lakóhelyeiken Iszin körül, egy nagy várososfalat épített, melynek félelmetes ragyogása mindenkit elnémít. Ennek a falnak “Su-ilisu Istar kegyeltje” a neve. 
+
+
+&Q001937 = Šu-ilišu 4 [E4.1.2.4]
+@composite
+#project: etcsri
+#link: source P423440 = RIME 4.01.02.04, ex. 01
+
+1.        [{d}szu]-i3-li2-szu#
+#lem: Šuilišu[1]RN
+
+2.        lugal kalag-ga
+#lem: lugal[king]; kalag[strong]
+
+3.        [lugal] urim5#{ki}-ma#
+#lem: lugal[king]; Urim[1]SN
+
+4.        ki [aj2] {d}en#-[lil2]
+#lem: ki[place]\abs; aj[measure]; Enlil[1]DN
+
+5.        u3 {d}nin#-isin2{si}-na
+#lem: u[and]; Ninisinak[1]DN\gen\abs +.
+
+@translation unitary en project
+@unit 1
+@span 1 - 5
+Šu-ilišu, the powerful king, king of Urim, the beloved of Enlil and Ninisina. 
+
+@translation unitary hun project
+@unit 1
+@span 1 - 5
+Su-ilisu, az erős király, Ur királya, Enlil és Niniszina kedveltje. 
+
+&Q001938 = Šu-ilišu 2001 [E4.1.2.2001]
+@composite
+#project: etcsri
+
+1.  	{d}szu-i3-li2-szu
+#lem: Šuilišu[1]RN
+
+2.  	lugal kalag-ga
+#lem: lugal[king]; kalag[strong]
+
+3.  	lugal ma-da-na
+#lem: lugal[king]; mada[land]\gen\abs
+
+4.  	ir11#-ra#-x-x-ni
+#lem: Irra-X-ni[1]PN
+
+5.  	dub-sar
+#lem: dubsar[scribe]
+
+6. 	dumu lu2-bala-sag9-ga
+#lem: dumu[child]; Lubalasaga[1]PN\gen\abs +.
+
+@translation unitary en project
+@unit 1
+@span 1 - 6
+Šu-ilišu, the powerful king, king of his land: ..., the scribe, the child of Lu-balasaga. 
+
+@translation unitary hun project
+@unit 1
+@span 1 - 6
+Su-ilisu, az erős király, országának királya: ..., az írnok, Lu-balasaga gyermeke. 
+
+&Q001939 = Šu-ilišu 2002 [E4.1.2.2002]
+@composite
+#project: etcsri
+
+1.	{d}szu-i3-li2-szu
+#lem: Šuilišu[1]RN
+
+2.        nita kalag-ga
+#lem: nita[male]; kalag[strong]
+
+3.        [lugal ma]-da#-[na]
+#lem: lugal[king]; mada[land]\gen\abs
+
+4.	{d}szara2-mu-tum2
+#lem: Šaramutum[1]PN
+
+5.	dub-sar
+#lem: dubsar[scribe]
+
+6. 	dumu ur-{d}szul-pa-e3
+#lem: dumu[child]; Uršulpae[2]PN\gen\abs +.
+
+@translation unitary en project
+@unit 1
+@span 1 - 6
+Šu-ilišu, the powerful man, king of his land: Šara-mutum, the scribe, son of Ur-Šulpae.
+
+@translation unitary hun project
+@unit 1
+@span 1 - 6
+Su-ilisu, az erős férfi, országának királya: Sara-mutum, az írnok, Ur-Sulpae gyermeke. 
+
+&Q001940 = Šu-ilišu 2003 [E4.1.2.2003]
+@composite
+#project: etcsri
+#link: source P423441 = RIME 4.01.02.2003, ex. 01
+
+1.	lu2-[...]
+#lem: LU₂.X[2]PN
+
+2.	dumu [...]
+#lem: dumu[child]; u
+
+3.	arad {d}szu-i3-[li2-szu]
+#lem: arad[slave]; Šuilišu[1]RN\gen\abs +.
+
+@translation unitary en project
+@unit 1
+@span 1 - 3
+..., child  of ..., servant of Šu-ilišu.
+
+@translation unitary hun project
+@unit 1
+@span 1 - 3
+..., ... gyermeke, Su-ilisu szolgája.
+
+&Q001941 = Iddin-Dagan 1 [E4.1.3.1]
+@composite
+#project: etcsri
+#link: source P423442 = RIME 4.01.03.01, ex. 01
+
+1.        [{d}nin-isin2{si}]-na
+#lem: Ninisinak[1]DN
+
+2.        nin-a-ni-ir
+#lem: nin[lady]
+
+3.        {d}i-din-{d}da-gan
+#lem: Iddindagan[1]RN
+
+4.        lugal kalag-ga
+#lem: lugal[king]; kalag[strong]
+
+5.        lugal i3-si-in{ki}-na
+#lem: lugal[king]; Isin[1]
+
+6.        lugal ki-en-gi ki-uri-ke4
+#lem: lugal[king]; Kiengir[1]; Akkad[1]GN
+
+7.        nam-til3-la-ni-sze3
+#lem: namtil[life]
+
+8.        a mu-na-ru
+#lem: a[water]\abs; ru[cvve] +.
+
+9.        lu2 a2 nij2-hul [dim2-ma]
+#lem: lu[person]; a[arm]; nijhulu[evil]\abs; dim[create]\abs
+
+
+$ broken
+
+1'.        {d}nin-isin2{si}-na
+#lem: Ninisinak[1]DN
+
+2'.        nin-ju10
+#lem: nin[lady]
+
+3'.        {d}da-mu
+#lem: Damu[1]DN
+
+4'.        lugal-ju10
+#lem: lugal[king]\erg
+
+5'.        nam ha-ba-an-da-ku5-ru-ne
+#lem: nam[fate]\abs; kud[cut] +.
+
+@translation unitary en project
+@unit 1
+@span 1 - 8
+To Ninisina, his lady, Iddin-Dagan, the powerful king, king of Isin, king of Sumer and Akkad, dedicated this (statue) for his well-being.
+
+@unit 2
+@span 9 - 5'
+Whoever ...  order to perform a misdeed ..., may Ninisina, my lady, and Damu, may master, curse him!
+
+@translation unitary hun project
+@unit 1
+@span 1 - 8
+Niniszinának, úrnőjének, az életéért ajánlotta fel ezt a (szobrot) Iddin-Dagan, az erős király, Iszin királya, Sumer és Akkád királya.
+
+@unit 2
+@span 9 - 5'
+Aki (a szobor elleni) bűntettre ... parancsot, azt Niniszina, úrnőm, és Damu, uram, sújtsa átokkal!
+
+&Q001943 = Iddin-Dagan 3 [E4.1.3.3]
+@composite
+#project: etcsri
+#link: source P342802 = RIME 4.01.03.03
+
+1.        {d}nin-lil2 nin dijir-re-e-ne-ra
+#lem: Ninlil[1]DN; nin[lady]; dijir[deity]
+
+2.        {d}i-din-{d}da-gan lugal kalag-ga
+#lem: Iddindagan[1]RN; lugal[king]; kalag[strong]\erg
+
+3.        {urud}alan kesze2-da-na  mu-na-dim2
+#lem: alan[statue]; keszed[bind]\abs; dim[create] +.
+
+4.        igi-ni-sze3 in-gub
+#lem: igi[face]; gub[stand] +.
+
+5.        nam-til3-la-ni-sze3 a mu-na-ru
+#lem: namtil[life]; a[water]\abs; ru[cvve] +.
+
+6.        lu2 a2 nij2-hul dim2-ma ib2-szi-aj2-[ja2-a]
+#lem: lu[person]\abs; a[arm]; nijhulu[evil]\abs; dim[create]\abs; aj[measure]
+
+7.        nij2 dim2-ma-ju10 ib2-x#-be2-<a>
+#lem: nij[thing]; dim[create]\abs; u
+
+8.        mu-sar-ra-ba <szu bi2-ib2-uru12-a> mu-ni bi2-<ib2-sar-a>
+#lem: musara[inscription]\l2; szu[hand]\abs; ur[drag]; mu[name]\abs; sar[write]
+
+9.        asz2 bala-ba-a-ke4-esz
+#lem: asz[curse]\abs; bala[turn]
+
+10.        <lu2-kur2 szu ba-an-zi-zi-a>
+#lem: lukur[stranger]\abs; szu[hand]\abs; zig[rise]
+
+11.        lu2-ba {d}en-lil2 lugal-ju10 {d}nin-lil2 nin-ju10
+#lem: lu[person]\dem2; Enlil[1]DN; lugal[king]; Ninlil[1]DN; nin[lady]
+
+12.        {d}da-gan dijir-je26 nam ha-ba-an-da-ku5-ru-ne
+#lem: Dagan[1]DN; dijir[deity]; nam[fate]\abs; kud[cut] +.
+
+@translation unitary en project
+@unit 1
+@span 1 - 5
+For Ninlil, the lady of the gods, Iddin-Dagan, the powerful king, fashioned a @?composite?@ copper statue, set it up before her, and dedicated it to her for his well-being. 
+
+@unit 2
+@span 6 - 12
+Whoever gives order to perform a misdeed against this (statue), ... my handiwork, erases this inscription and writes his own name there, or makes another man raise his hand against it on account of this curse, may Nanna, my master, Ninlil, my lady, and Dagan, my personal god, curse him!
+
+@translation unitary hun project
+@unit 1
+@span 1 - 12
+Ninlilnek, az istenek úrnőjének, Iddin-Dagan, az erős király, egy @?összetett?@ réz szobrot készített, felállította előtte, és életéért ajánlotta fel neki.
+
+@unit 2
+@span 6 - 12
+Aki ez ellen (a szobor elleni) bűntettre ad parancsot, ... az én alkotásomat, ezt a feliratot eltávolítja és helyébe saját nevét írja, vagy e miatt az átok miatt valaki mást vesz rá arra, hogy kezet emeljen rá, azt Enlil, az én uram, Ninlil, az én úrnőm, és Dagan, a védőistenem, sújtsa átokkal!
+
+
+&Q001944 = Iddin-Dagan 2001 [E4.1.3.2001]
+@composite
+#project: etcsri
+
+1.        {d}i-din-{d}da-gan
+#lem: Iddindagan[1]RN
+
+2.        nita kalag-ga
+#lem: nita[male]; kalag[strong]
+
+$ blank line
+
+4.        [...]
+#lem: u
+
+5.        dumu [...]
+#lem: dumu[child]; u
+
+
+6.        dub-[sar]
+#lem: dubsar[scribe]\gen\abs
+
+7.        arad2-[zu]
+#lem: arad[slave]\abs +.
+
+@translation unitary en project
+@unit 1
+@span 1 - 7
+Iddin-Dagan, the powerful man, ...: ..., child of ..., the scribe, is your servant.
+
+@translation unitary hun project
+@unit 1
+@span 1 - 7
+Iddin-Dagan, az erős férfi, ...: ..., ..., az írnok gyermeke, a te szolgád.
+
+&Q001945 = Išme-Dagan 1 [E4.1.4.1]
+@composite
+#project: etcsri
+#link: source P423444 = RIME 4.01.04.01, ex. 01
+#link: source P423445 = RIME 4.01.04.01, ex. 02
+#link: source P423446 = RIME 4.01.04.01, ex. 03
+#link: source P423447 = RIME 4.01.04.01, ex. 05
+#link: source P423448 = RIME 4.01.04.01, ex. 06
+#link: source P423449 = RIME 4.01.04.01, ex. 07
+#link: source P423450 = RIME 4.01.04.01, ex. 08
+#link: source P423451 = RIME 4.01.04.01, ex. 09
+#link: source P423452 = RIME 4.01.04.01, ex. 10
+#link: source P423453 = RIME 4.01.04.01, ex. 11
+#link: source P423454 = RIME 4.01.04.01, ex. 12
+#link: source P423455 = RIME 4.01.04.01, ex. 13
+#link: source P423456 = RIME 4.01.04.01, ex. 14
+#link: source P423457 = RIME 4.01.04.01, ex. 15
+#link: source P423458 = RIME 4.01.04.01, ex. 25
+#link: source P423459 = RIME 4.01.04.01, ex. 26
+#link: source P423460 = RIME 4.01.04.01, ex. 27
+#link: source P423461 = RIME 4.01.04.01, ex. 28
+
+1.    {d}isz-me-{d}da-gan
+#lem: Išmedagan[1]RN
+
+2.    u2-a nibru{ki}
+#lem: ua[provisioner]; Nibru[1]SN\gen  
+
+3.    saj-us2
+#lem: sajus[constant]
+
+4.    urim5{ki}-ma
+#lem: Urim[1]SN
+
+5.    ud-da gub
+#lem: ud[sun]; gub[stand]
+
+6.    eridug{ki}-ga
+#lem: Eridug[1]SN
+
+7.    en unug{ki}-ga
+#lem: en[priest]; Unug[1]SN
+
+8.    lugal i3-si-in{ki}-na
+#lem: lugal[king]; Isin[1]SN
+
+9.    lugal ki-en-gi ki-uri
+#lem: lugal[king]; Kiengir[1]GN; Akkad[1]GN\gen
+
+10.   dam ki aj2
+#lem: dam[spouse]; ki[place]\abs; aj[measure]
+
+11.   {d}inana
+#lem: Inanak[1]\gen\abs +.
+
+@translation unitary en project
+@unit 1
+@span 1 - 11
+Išme-Dagan, provider of Nibru, steadfast supporter of Urim, tireless servant of Eridug, @en priest of Unug, king of Isin, king of Sumer and Akkad, the beloved spouse of Inana. 
+
+@translation unitary hun project
+@unit 1
+@span 1 - 11
+Isme-Dagan, Nippur fenntartója, Ur állhatatos támogatója, Eridug fáradhatatlan szolgálója, Uruk @en papja, Iszin királya, Sumer és Akkád királya, Inana szeretett házastársa.
+ 
+&Q001946 = Išme-Dagan 2 [E4.1.4.2]
+@composite
+#project: etcsri 
+#link: source P428305 = RIME 4.01.04.02, ex. 10
+#link: source P428779 = RIME 4.01.04.02, ex. 11
+
+1.    {d}isz-me-{d}da-gan
+#lem: Išmedagan[1]RN
+
+2.    u2-a nibru{ki}
+#lem: ua[provisioner]; Nibru[1]SN\gen
+
+3.    saj-us2
+#lem: sajus[constant]
+
+4.    urim5{ki}-ma
+#lem: Urim[1]SN
+
+5.    ud-da gub
+#lem: ud[sun]; gub[stand]
+
+6.    eridug{ki}-ga
+#lem: Eridug[1]SN
+
+7.    en unug{ki}-ga
+#lem: en[priest]; Unug[1]SN
+
+8.    lugal kalag-ga
+#lem: lugal[king]; kalag[strong]
+
+9.    lugal i3-si-in{ki}-na
+#lem: lugal[king]; Isin[1]SN
+
+10.   lugal ki-en-gi ki-uri
+#lem: lugal[king]; Kiengir[1]GN; Akkad[1]GN\gen
+
+11.   dam ki aj2
+#lem: dam[spouse]; ki[place]\abs; aj[measure]
+
+12.   {d}inana-ka
+#lem: Inanak[1]\abs +.
+
+@translation unitary en project
+@unit 1
+@span 1 - 12
+Išme-Dagan, provider of Nibru, steadfast supporter of Urim, tireless servant of Eridug, @en priest of Unug, powerful king, king of Isin, king of Sumer and Akkad, the beloved spouse of Inana.
+
+@translation unitary hun project
+@unit 1
+@span 1 - 12
+Isme-Dagan, Nippur fenntartója, Ur állhatatos támogatója, Eridug fáradhatatlan szolgálója, Uruk @en papja, az erős király, Iszin királya, Sumer és Akkád királya, Inana szeretett házastársa. 
+
+&Q001947 = Išme-Dagan 3 [E4.1.4.3]
+@composite
+#project: etcsri
+#link: source P428511 = RIME 4.01.04.03, ex. 02
+
+1.   en-an-na-tum2-ma
+#lem: Enanatuma[1]PN
+
+2.    zirrux(|EN.SAL.ME.NUNUZ.ZI.AN.SZESZ.KI|)
+#lem: zirru[priestess]
+
+3.    en {d}nanna
+#lem: en[priest]; Nanna[1]DN\gen
+
+4.    szag4 urim5{ki}-ma
+#lem: szag[heart//middle]; Urim[1]SN\gen\l1
+
+5.    dumu {d}isz-me-{d}da-gan
+#lem: dumu[child]; Išmedagan[1]RN
+
+6.    lugal ki-en-gi ki-uri
+#lem: lugal[king]; Kiengir[1]GN; Akkad[1]GN\gen\gen\abs +.
+
+@translation unitary en project
+@unit 1
+@span 1 - 6
+En-ana-tuma, @zirru priestess, @en priestess of Nanna in Urim, child of Išme-Dagan, king of Sumer and Akkad. 
+
+@translation unitary hun project
+@unit 1
+@span 1 - 6
+En-ana-tuma, @zirru papnő, Nanna @en papnője Urban, Isme-Dagan, Sumer és Akkád királyának gyermeke. 
+
+&Q001948 = Išme-Dagan 4 [E4.1.4.4]
+@composite
+#project: etcsri
+#link: source P428513 = RIME 4.01.04.04, ex. 09
+#link: source P428539 = RIME 4.01.04.04, ex. 10
+#link: source P428540 = RIME 4.01.04.04, ex. 12
+
+1.    en-an-na-tum2-ma
+#lem: Enanatuma[1]PN
+
+2.    en ki aj2 {d}nanna
+#lem: en[priest]; ki[place]\abs; aj[measure]; Nanna[1]DN\gen
+
+3.    en {d}nanna
+#lem: en[priest]; Nanna[1]DN\gen
+
+4.    szag4 urim5{ki}-ma
+#lem: szag[heart//middle]; Urim[1]SN\gen\l1
+
+5.    dumu {d}isz-me-{d}da-gan
+#lem: dumu[child]; Išmedagan[1]RN
+
+6.    lugal ki-en-gi ki-uri
+#lem: lugal[king]; Kiengir[1]GN; Akkad[1]GN\gen\gen\abs +.
+
+@translation unitary en project
+@unit 1
+@span 1 - 6
+En-ana-tuma, the beloved @en priestess of Nanna in Urim, @en priestess of Nanna in Urim, child of Išme-Dagan, king of Sumer and Akkad. 
+
+@translation unitary hun project
+@unit 1
+@span 1 - 6
+En-ana-tuma, Nanna szeretett @en papnője, Nanna @en papnője Urban, Isme-Dagan, Sumer és Akkád királyának gyermeke.
+
+&Q001949 = Išme-dagan 5 [E4.1.4.5]
+@composite
+#project: etcsri
+#link: source P274855 = RIME 4.01.04.05, ex. 21
+#link: source P325008 = RIME 4.01.04.05, ex. add17
+#link: source P272788 = RIME 4.01.04.05, ex. add18
+#link: source P274116 = RIME 4.01.04.05, ex. add19
+#link: source P315271 = RIME 4.01.04.05, ex. add20
+#link: source P253771 = RIME 4.01.04.05, ex. add21
+#link: source P423480 = RIME 4.01.04.05, ex. add22
+#link: source P393123 = RIME 4.01.04.05, ex. add23
+#link: source P423599 = RIME 4.01.04.05, ex. add24
+#link: source P355613 = RIME 4.01.04.05, ex. add25
+#link: source P355614 = RIME 4.01.04.05, ex. add26
+#link: source P388138 = RIME 4.01.04.05, ex. add27
+#link: source P388139 = RIME 4.01.04.05, ex. add28
+#link: source P388142 = RIME 4.01.04.05, ex. add29
+#link: source P388393 = RIME 4.01.04.05, ex. add30
+#link: source P388395 = RIME 4.01.04.05, ex. add31
+#link: source P390483 = RIME 4.01.04.05, ex. add32
+#link: source P274857 = RIME 4.01.04.05, ex. add33
+#link: source P433185 = RIME 4.01.04.05, ex. add34
+#link: source P452315 = RIME 4.01.04.05, ex. add36
+
+
+1.        {d}isz-me-{d}da-gan
+#lem: Išmedagan[1]RN
+
+2.        nita kalag-ga
+#lem: nita[male]; kalag[strong]
+
+3.        lugal i3-si-in{ki}-na
+#lem: lugal[king]; Isin[1]SN
+
+4.        lugal an-ub-da limmu2-ba-ke4
+#lem: lugal[king]; anubda[quarter]; limmu[four]
+
+5.        ud nibru{ki}
+#lem: ud[sun]; Nibru[1]SN
+
+6.        iri ki aj2
+#lem: iri[city]; ki[place]\abs; aj[measure]
+
+7.        {d}en-lil2-la2
+#lem: Enlil[1]DN\gen\gen
+
+8.        gun2-bi
+#lem: gun[load]\abs
+
+9.        mu-un-du8
+#lem: duh[loosen] +.
+
+10.        erin2-bi kaskal-ta
+#lem: erin[people]\abs; kaskal[way//service]
+
+11.        ba-ra-an-zig3-ga-a
+#lem: zig[rise]\v5nh3 +.
+
+12.        bad3 gal
+#lem: bad[wall]; gal[big]
+
+13.        i3-si-in{ki}-na
+#lem: Isin[1]SN\gen\abs
+
+14.        mu-un-du3
+#lem: du[build] +.
+
+15.        bad3-ba
+#lem: bad[wall]\dem2\gen
+
+16.        {d}isz-me-{d}da-gan
+#lem: 	   Išmedagan[1]RN\abs
+
+17.        {d}en-lil2-da a2-an-gal
+#lem: Enlil[1]DN; ajal[strong]\abs
+
+18.        mu-bi-im
+#lem: 	   mu[name] +.
+
+@translation unitary en project
+@unit 1
+@span 1 - 14
+When Išme-Dagan, the powerful man, king of Isin, king of the four quarters, cancelled the taxes on Nibru, Enlil's beloved city, and exempted its men from military service, then he built the great wall of Isin. 
+
+@unit 2
+@span 15 - 18
+The name of this wall is: "With Enlil Išme-Dagan is strong".
+
+@translation unitary hun project
+@unit 1
+@span 1 - 14
+Amikor Isme-Dagan, az erős férfi, Iszin királya, a négy világtáj királya, elengedte Nippurnak, Enlil szeretett városának adóit és felmentette férfiait a katonai szolgálat alól, akkor megépítette Iszin nagy falát. 
+
+@unit 2
+@span 15 - 18
+Ez a fal az "Enlillel erős Isme-Dagan" nevet viseli. 
+
+
+&Q001951 = Išme-Dagan 7 [E4.1.4.7]
+@composite
+#project: etcsri
+#link: source P263439 = CBS 08641 + CBS 08649 + CBS 08650
+#link: source P263434 = CBS 08634
+#link: source P428577 = RIME 4.01.04.07, ex. 02
+
+
+1.	{d}isz-me-{d}da-gan
+#lem: Išmedagan[1]RN
+
+2.	lugal ki-en-gi ki-uri-ra
+#lem: lugal[king]; Kiengir[1]GN; Akkad[1]GN
+
+3. 	ud {d}en-lil2-le
+#lem: ud[sun]; Enlil[1]DN
+
+4.	{d}nin-urta
+#lem: Ninurta[1]DN
+
+5.	ur-saj kalag-ga-ni
+#lem: ursaj[hero]; kalag[strong]\abs
+
+6. 	maszkim-sze3
+#lem: maszkim[administrator//commissioner]
+
+7.	mu-ni-in-tuku-a
+#lem: tuku[acquire]\v10l3
+
+8. 	szita2 mi-tum saj ninnu
+#lem: szita[weapon]; mitum[weapon]; saj[head]; ninnu[fifty]\abs
+
+9. 	mu-na-dim2
+#lem: dim[create] +.
+
+10.	szeg12 al-ur3-ra
+#lem: szeg[brick]; ur[bake]\n5al2
+
+11.	{jesz}tukul ki aj2-a-ni
+#lem: tukul[weapon]; ki[place]\abs; aj[measure]\abs
+
+12. 	mu-na-an-gub-ba-am3
+#lem: gub[stand] +.
+
+@translation unitary en project
+@unit 1
+@span 1 - 12
+When Enlil appointed Ninurta, his powerful warrior, as commissioner to Išme-Dagan, king of Sumer and Akkad, then (Išme-Dagan) fashioned the @šita weapon, the fifty-headed mace for (Ninurta), and displayed his beloved weapon on (a platform of) fired bricks for him. 
+
+@translation unitary hun project
+@unit 1
+@span 1 - 12
+Amikor Enlil kinevezte meghatalmazottként Ninurtát, erős harcosát, Isme-Dagan, Sumer és Akkád királya mellé, akkor (Isme-Dagan) elkészítette (Ninurtának) a @šita fegyvert, az ötven tüskés buzogányt és szeretett fegyverét egy égetett agyagtéglákból (épült emelvényen) kiállította.
+
+&Q001952 = Išme-Dagan 10 [E4.1.4.10]
+@composite
+#project: etcsri
+@m column 1
+
+$  broken
+1'.	[...] x
+#lem: u; u
+
+2'.   [...]-zu-ta
+#lem: u
+
+3'.   [...]-ta
+#lem: u
+
+$     broken 
+
+@m column 2
+
+$  broken
+
+1'.	{d#}isz-me-{d#}da#-gan-e
+#lem: Išmedagan[1]RN
+
+3'.   kij2 [x x] x x ma#-[...]
+#lem: kij[work]; u; u; u; u; u
+
+$     broken
+
+@m column 3
+
+$  	  broken
+1'.	BI# [...]
+#lem: u; u
+
+2'.   kij2# [...]
+#lem: kij[work]; u
+
+$     broken
+
+@translation unitary en project
+@unit 1
+@span i 1' - iii 2'
+... Išme-Dagan ....
+
+@translation unitary hun project
+@unit 1
+@span i 1' - iii 2'
+... Isme-Dagan ....
+
+&Q001953 = Išme-Dagan 11 [E4.1.4.11]
+@composite
+#project: etcsri
+
+1.    {d}isz-me-{d}da-gan
+#lem: Išmedagan[1]RN
+
+2.    u2-a nibru{ki}
+#lem: ua[provisioner]; Nibru[1]SN\gen
+
+3.    saj-us2
+#lem: sajus[constant]
+
+4.    urim5{ki}-ma
+#lem: Urim[1]SN
+
+5.    ud-da gub
+#lem: ud[sun]; gub[stand]
+
+6.    eridug{ki}-ga
+#lem: Eridug[1]SN
+
+7.    en unug{ki}-ga
+#lem: en[priest]; Unug[1]SN
+
+8.    lugal i3-si-in{ki#}-<na>
+#lem: lugal[king]; Isin[1]SN
+
+9.    lugal ki-en-gi ki#-uri
+#lem: lugal[king]; Kiengir[1]GN; Akkad[1]GN\gen
+
+10.   dam ki aj2#
+#lem: dam[spouse]; ki[place]\abs; aj[measure]
+
+11.   {d}inana-ka-ke4
+#lem: Inanak[1]DN
+
+12.   bad3 gal durum{ki}
+#lem: bad[wall]; gal[big]; Durum[1]SN
+
+13.   iri{ki} nam-szagina
+#lem: iri[city]; namszakkanak[governorship]
+
+14.   nam-dumu-na-ka-ni
+#lem: namdumu[status//prince]\abs
+
+15.   mu-un-du3
+#lem: du[build] +.
+
+@translation unitary en project
+@unit 1
+@span 1 - 15
+Išme-Dagan, provider of Nibru, steadfast supporter of Urim, tireless servant of Eridug, @en priest of Unug, king of Isin, king of Sumer and Akkad, the beloved spouse of Inana, built the great wall of Dūrum, his city of military governorship as crown prince.
+
+@translation unitary hun project
+@unit 1
+@span 1 - 15
+Isme-Dagan, Nippur fenntartója, Ur állhatatos támogatója, Eridug fáradhatatlan szolgálója, Uruk @en papja, Iszin királya, Sumer és Akkád királya, Inana szeretett házastársa, Durumnak, a városnak, ahol trónörökösként katonai kormányzó volt, nagy falát megépítette.
+
+&Q001954 = Išme-Dagan 12 [E4.1.4.12]
+@composite
+#project: etcsri
+
+1.    {d}nanna
+#lem: Nanna[1]DN
+
+2.    dumu-saj
+#lem: dumusaj[first-born]
+
+3.    {d}en-lil2-la2
+#lem: Enlil[1]DN
+
+4.    lugal-a-ni-ir
+#lem: lugal[king]
+
+5.    {d}isz-me-{d}da-gan
+#lem: Išmedagan[1]
+
+6.    u2-a nibru{ki}
+#lem: ua[provisioner]; Nibru[1]SN\gen
+
+7.    saj-us2
+#lem: sajus[constant]
+
+8.    urim5{ki}-ma
+#lem: Urim[1]SN
+
+9.    ud-da gub
+#lem: ud[sun]; gub[stand]
+
+10.   eridug{ki}-ga
+#lem: Eridug[1]SN
+
+11.   en unug{ki}-ga
+#lem: en[priest]; Unug[1]SN
+
+12.   lugal# i3-si-in{ki}-na
+#lem: lugal[king]; Isin[1]SN
+
+13.   lugal# ki-en-gi ki-uri
+#lem: lugal[king]; Kiengir[1]GN; Akkad[1]GN\gen
+
+14.   dam# ki aj2#
+#lem: dam[spouse]; ki[place]\abs; aj[measure]
+
+15.   [{d}]inana-ka-ke4
+#lem: Inanak[1]DN
+
+16.   [nam]-til3#-la-ni-sze3
+#lem: namtil[life]
+
+17.   [a mu-na]-ru
+#lem: a[water]\abs; ru[cvve] +.
+
+@translation unitary en project
+@unit 1
+@span 1 - 17
+To Nanna, the firstborn child of Enlil, his master, Išme-Dagan, provider of Nibru, steadfast supporter of Urim, tireless servant of Eridug, @en priest of Unug, king of Isin, king of Sumer and Akkad, the beloved spouse of Inana, dedicated this (vase) for his well-being.
+
+@translation unitary hun project
+@unit 1
+@span 1 - 17
+Nannának, Enlil elsőszülött gyermekének, urának, Isme-Dagan, Nippur fenntartója, Ur állhatatos támogatója, Eridug fáradhatatlan szolgálója, Uruk @en papja, Iszin királya, Sumer és Akkád királya, Inana szeretett házastársa, az életéért ajánlotta fel ezt (az edényt).
+
+&Q001956 = Išme-Dagan 14 [E4.1.4.14]
+@composite
+#project: etcsri
+#link: source P305999 = YOS 05, 046
+
+1.        a-ab-ba
+#lem: Aaba[1]PN
+
+2.        dumu en-an-[na]-tum2#-ma
+#lem: dumu[child]; Enanatuma[1]PN
+
+3.        en {d}nanna
+#lem: en[priest]; Nanna[1]DN\gen\gen\abs +.
+
+@translation unitary en project
+@unit 1
+@span 1 - 3
+A-aba, the child of En-ana-tuma, @en priestess of Nanna. 
+
+@translation unitary hun project
+@unit 1
+@span 1 - 3
+A-aba, En-ana-tumának, Nanna @en papnőjének gyermeke.
+
+&Q001958 = Išme-Dagan 2001 [E4.1.4.2001]
+@composite
+#project: etcsri
+#link: source P269572 = CBS 14948
+
+1.        {d}[...]
+#lem: X[3]DN\dat
+
+2.        lugal-a-[ni-ir]
+#lem: lugal[king]
+
+3.        nam-[til3]
+#lem: namtil[life]
+
+4.        {d}isz-me-{d}[da-gan]
+#lem: Išmedagan[1]RN
+
+5.        lugal kalag#-[ga]
+#lem: lugal[king]; kalag[strong]
+
+6.        lugal urim5#[{ki}-ma-ka-sze3]
+#lem: lugal[king]; Urim[1]SN
+
+7.        mu-da-da-[x-(x)]
+#lem: Mudada-X[1]PN
+
+8.        dumu szar-ru-um-[x-(x)]
+#lem: dumu[child]; Šarrum-X[1]PN
+
+9.        arad2-da-a-[ne2]
+#lem: arad[slave]
+
+10.        a mu-na-[ru]
+#lem: a[water]\abs; ru[cvve] +.
+
+@translation unitary en project
+@unit 1
+@span 1 - 10
+To ..., ..., child of ..., his servant, dedicated this (bowl) for the well-being of Išme-Dagan, the powerful king, king of Urim.
+
+@translation unitary hun project
+@unit 1
+@span 1 - 10
+..., ..., ... gyermeke, szolgája, Isme-Dagan, az erős király, Ur királya életéért ajánlotta fel ezt (az edényt).
+
+&X002002 = Išme-Dagan 2002add
+@composite
+#project: etcsri
+#link: source P459157 = RIME 4.01.04.add2002, ex. 01
+##2001.11.07. Christie's (Lot 229 Sale 9244)
+
+1. {d}ne3-eri11-gal
+#lem: Nergal[1]DN
+
+2. al?-da?-ak?{ki}
+#lem: Aldak[1]GN\gen
+
+3. lugal-a-ni-ir
+#lem: lugal[king]
+
+4. nam-til3
+#lem: namtil[life]
+
+5. {d}isz-me-{d}da-gan
+#lem: Išmedagan[1]RN
+
+6. lugal kalag-ga
+#lem: lugal[king]; kalag[strong]
+
+7. lugal i3-si-in{ki}-na
+#lem: lugal[king]; Isin[1]SN
+
+8. lugal ki-en-gi ki-uri-ka-sze3
+#lem: lugal[king]; Kiengir[1]GN; Akkad[1]GN
+
+9. IR11-er3-ra
+#lem: Waraderra[1]PN
+
+10. gudu4 {d}ne3-eri11-gal
+#lem: gudug[priest]; Nergal[1]DN\gen
+
+11. dumu a-da-lal3 gudu4-ge2
+#lem: dumu[child]; Adalal[6]PN; gudug[priest]\gen
+
+12. arad2-da-ne2
+#lem: arad[slave]
+
+13. a mu-na-ru
+#lem: a[water]\abs; ru[cvve] +.
+
+@translation unitary en project
+@unit 1
+@span 1 - 13
+To Nergal of Aldak, his master, Warad-Erra, @gudug priest of Nergal, son of Adalal, the @gudug priest, his servant, dedicated this (mace) for the well-being of Išme-Dagan, the powerful king, king of Isin, king of Sumer and Akkad.
+
+@translation unitary hun project
+@unit 1
+@span 1 - 13
+Az aldaki Nergalnak, urának, Warad-Erra, Nergal @gudug papja, Adalal, a @gudug pap gyermeke, Isme-Dagan, az erős király, Iszin királya, Sumer és Akkád királya életéért ajánlotta fel ezt (a buzogányt).
+
+&Q000613 = Laws of Lipit-Eštar
+@composite
+#project: etcsri
+1. [ud an] gal
+#lem: ud[sun]; An[1]DN; gal[big]
+
+2. [a-a dijir-re]-ne-ke4 
+#lem: aya[father]; diŋir[deity]
+
+3. [{d}en]-lil2
+#lem: Enlil[1]DN
+
+4. [lugal kur-kur]-ra-ke4
+#lem: lugal[king]; kur[mountain]
+
+5. [nam tar-tar]-re-de3
+#lem: nam[fate]\abs; tar[cut]
+
+6. [{d}nin]-i3-si-na
+#lem: Ninisinak[1]DN
+
+7. [dumu] an#-na-ra
+#lem: dumu[child]; An[1]DN
+
+8. [nin] sun5#-na
+#lem: nin[lady]; sun[humble]\gen
+
+9. [nam-nir]-jal2#-la-ni-sze3
+#lem: namnirjal[authority]
+
+10. [igi] hul2-la
+#lem: igi[eye]; hul[rejoice]
+
+11. saj#-ki# zalag-ga-ni-sze3
+#lem: saŋki[forehead]; zalag[shine]
+
+12. mu-un-szi-in-bar#-re#-esz#-a#
+#lem: bar[cvve]
+
+13. i3-si-in{ki}
+#lem: Isin[1]SN
+
+14. in-dub-ba
+#lem: induba[boundary]
+
+15. an-ne2 jar-ra-na
+#lem: An[1]DN; ŋar[place]
+
+16. bala sag9-ga
+#lem: bala[turn//reign]N; sag[good]
+
+17. nam-lugal
+#lem: namlugal[kingship]
+
+18. ki-en-gi ki-uri
+#lem: Kiengir[1]GN; Akkad[1]GN\gen\abs
+
+19. im#-ma#-an#-szum2#-mu-usz-a
+#lem: szum[give]\l1
+
+20. ud-[ba]
+#lem: ud[sun]
+
+21. {d}li-pi2-it-esz4#-tar2#
+#lem: Lipiteštar[1]RN
+
+22. sipad jesz tuku
+#lem: sipad[shepherd]; jesz[tree]\abs; !tuku[acquire]
+
+23. mu pad3-da
+#lem: mu[name]\abs; pad[find]
+
+24. {d}nu-nam#-nir#-ra#
+#lem: Nunamnir[1]DN\gen\abs
+
+25. nij2-si-sa2
+#lem: nijsisa[justice]\abs
+
+26. kalam-ma ja2-ja2-[de3]
+#lem: kalam[land]\l1; jar[put]
+
+27. i-{d}utu
+#lem: iʾutu[complaint]\abs
+
+28. ka-ta ha-lam-e-de3
+#lem: kag[mouth]; halam[forsake]
+
+29. nij2-erim2 nij2-a2-zig3
+#lem: niŋerim[evil]; niŋazig[violence]\abs
+
+30. {jesz}tukul gi4-gi4-de3
+#lem: tukul[weapon]\abs; gi[turn]
+
+31. ki-en#-gi ki-uri
+#lem: Kiengir[1]GN; Akkad[1]GN\abs
+
+32. su#-ba dug3-ge-de3
+#lem: su[flesh]\l1; dug[good]
+
+33. an-ne2
+#lem: An[1]DN
+
+34. {d}en-lil2-le
+#lem: Enlil[1]DN
+
+35. [{d}]li-pi2-it-esz4-tar2
+#lem: Lipiteštar[1]RN\abs
+
+36. nam-nun kalam-ma-sze3
+#lem: namnun[magnificence//princedom]; kalam[land]
+
+37. mu-un-pad3-de3-esz-a-ba
+#lem: pad[find]
+
+38. ud-ba
+#lem: ud[sun]
+
+39.	{d}li-pi2-it-esz4-tar2
+#lem: Lipiteštar[1]RN
+
+40. 	sipad sun5-na
+#lem: sipad[shepherd]; sun[humble]
+
+41.	nibru{ki}
+#lem: Nibru[1]SN\gen
+
+42.	engar zid
+#lem: engar[farmer]; zid[right]
+
+43. 	urim2{ki}-ma
+#lem: Urim[1]SN
+
+44.	musz3 nu-tum2-mu
+#lem: musz[face]\abs; tum[lead]
+
+45. 	eridug{ki}-ga
+#lem: Eridug[1]SN
+
+46.	en me-te
+#lem: en[priest]; mete[appropriate thing]
+
+47.	unug{ki}-ga
+#lem: Unug[1]SN
+
+48.	[lugal] i3-[si-in{ki}-na]
+#lem: lugal[king]; Isin[1]SN
+
+49.	lugal# ki-en#-[gi ki-uri]
+#lem: lugal[king]; Kiengir[1]GN; Akkad[1]GN\gen
+
+50. 	szag4-ge de6-[a]
+#lem: szag[heart]\n5el3; de[bring]
+
+51. 	{d}inana-ka-me-[en]
+#lem: Inanak[1]DN\gen\cop +.
+
+52.	inim {d}en-lil2-la2-ta
+#lem: inim[word]; Enlil[1]DN
+
+53. 	nij2#-si-sa2
+#lem: nijsisa[justice]\abs
+
+54. 	[ki]-en-gi ki-uri
+#lem: Kiengir[1]GN; Akkad[1]GN\l1
+
+55.	[mu]-ni-jar-ra-asz
+#lem: jar[place]\v11sg1a
+
+@translation unitary en project
+@unit 1
+@span 1 - 19
+When the great An, father of the gods, and Enlil, king of all lands, who decides the fates, looked joyfully with a radiant smile at Ninisina, An’s child, because of the authority of the humble lady, and gave a propitious reign and the kingship of Sumer and Akkad to Isin, the border territory founded by An; 
+
+@unit 2
+@span 20 - 37
+at the time, when An and Enlil chose Lipit-Eštar, the observant shepherd, whose name was proclaimed by Nunamnir, as the prince of the Land to establish justice in the Land, to eliminate complaints from (the people’s) mouth, to push back wickedness and violence with weapons, and to make Sumer and Akkad feel content;
+
+@unit 3
+@span 38 - 55
+at that time, because I, Lipit-Eštar, the humble shepherd of Nibru, the true farmer of Urim, ceaseless provider of Eridug, the @en priest suitable for Unug, king of Isin, king of Sumer and Akkad, the favourite of Inana, established justice in Sumer and Akkad by Enlil’s command, 
+
+@translation unitary hun project
+@unit 1
+@span 1 - 19
+Amikor a nagy An, az istenek atyja, és Enlil, minden országok királya, aki a sorsokat szabja, Niniszinára, An gyermekére kedvtelve barátságos mosollyal tekintett az alázatos úrnő fenségessége miatt, és Sumer és Akkád királyságát Iszinnek, az An által alapított határ területnek adta, 
+
+@unit 2
+@span 20 - 37
+abban az időben, amikor An és Enlil Lipit-Estárt, az istenfélő pásztort, akinek Nunamnir hirdette ki a nevét az Ország hercegének kiválasztotta, hogy (Lipit-Estár) az Országban igazságot teremtsen, okafogyottá tegye az (emberek) panaszszavát, fegyverrel visszaverje a gonoszságot és a erőszakot, és Sumert és Akkádot elégedetté tegye,
+
+@unit 3
+@span 38 - 55
+Abban az időben, mivel én, Lipit-Estar, Nippur alázatos pásztora, Ur hűséges földművese, Eridug állhatatos fenntartója, az Urukhoz méltó @en pap, Iszin királya, Sumer és Akkád királya, Inana szíve választottja, Enlil parancsára igazságot teremtettem Sumerben és Akkádban,
+
+&Q001959 = Lipit-Eštar 1 [E4.1.5.1]
+@composite
+#project: etcsri
+#link: source P428510 = RIME 4.01.05.01, ex. 09
+
+1.	{d}li-pi2-it-esz4-tar2
+#lem: Lipiteštar[1]RN
+
+2. 	sipad sun5-na
+#lem: sipad[shepherd]; sun[humble]
+
+3. 	nibru{ki}
+#lem: Nibru[1]SN\gen
+
+4.	engar zid
+#lem: engar[farmer]; zid[right]
+
+5.	urim2{ki}-ma
+#lem: Urim[1]SN
+
+6.	musz3 nu-tum2-mu
+#lem: musz[face]\abs; tum[lead]
+
+7. 	eridug{ki}-ga
+#lem: Eridug[1]SN
+
+8.	en me-te
+#lem: en[priest]; mete[appropriate thing]
+
+9.	unug{ki}-ga
+#lem: Unug[1]SN
+
+10.	lugal i3-si-in{ki}-na
+#lem: lugal[king]; Isin[1]SN
+
+11.	lugal ki-en-gi ki-uri
+#lem: lugal[king]; Kiengir[1]GN; Akkad[1]GN\gen
+
+12.	szag4-ge de6-a
+#lem: szag[heart]\n5el3; de[bring]
+
+13.	{d}inana
+#lem: Inanak[1]DN\gen
+
+14.	lugal nij2-si-sa2
+#lem: lugal[king]; nijsisa[justice]\abs
+
+15.	ki-en-gi ki-uri-a
+#lem: Kiengir[1]GN; Akkad[1]GN
+
+16.	i3-ni-in-jar-ra
+#lem: jar[place]\abs +.
+
+@translation unitary en project
+@unit 1
+@span 1 - 16
+Lipit-Eštar, the humble shepherd of Nibru, the true farmer of Urim, ceaseless provider of Eridug, the @en priest suitable for Unug, king of Isin, king of Sumer and Akkad, the favourite of Inana, the king who established justice in Sumer and Akkad. 
+
+@translation unitary hun project
+@unit 1
+@span 1 - 16
+Lipit-Estar, Nippur alázatos pásztora, Ur hűséges földművese, Eridug állhatatos fenntartója, az Urukhoz méltó @en pap, Iszin királya, Sumer és Akkád királya, Inana szíve választottja, a király, aki igazságot teremtett Sumerben és Akkádban.
+
+&Q001960 = Lipit-Eštar 2 [E4.1.5.2]
+@composite
+#project: etcsri
+#link: source P431458 = RIME 4.01.05.02, ex. 01
+
+1.	{d}li-pi2-it-esz4-tar2
+#lem: Lipiteštar[1]RN
+
+2. 	sipad sun5-na
+#lem: sipad[shepherd]; sun[humble]
+
+3.	nibru{ki}
+#lem: Nibru[1]SN\gen
+
+4.	engar zid
+#lem: engar[farmer]; zid[right]
+
+5. 	[urim2]{ki}-ma
+#lem: Urim[1]SN
+
+6.	[musz3 nu]-tum2#-mu
+#lem: musz[face]\abs; tum[lead]
+
+7. 	eridug{ki}-ga
+#lem: Eridug[1]SN
+
+8.	en me-te
+#lem: en[priest]; mete[appropriate thing]
+
+9.	unug{ki}-ga
+#lem: Unug[1]SN
+
+10.	lugal i3-si-in{ki}-na
+#lem: lugal[king]; Isin[1]SN
+
+11.	lugal ki-en-gi ki-uri
+#lem: lugal[king]; Kiengir[1]GN; Akkad[1]GN\gen
+
+12. 	szag4-ge de6-a
+#lem: szag[heart]\n5el3; de[bring]
+
+13. 	{d}inana-me-en
+#lem: Inanak[1]DN\gen\cop +.
+
+14.	ud nij2-si-sa2
+#lem: ud[sun]; nijsisa[justice]\abs
+
+15. 	ki-en-gi ki-uri-a
+#lem: Kiengir[1]GN; Akkad[1]GN
+
+16.	i-ni-in-jar-[ra-a]
+#lem: jar[place]\v11sg1a\l1
+
+17.	e2-me-te-nam-lugal-[la]
+#lem: Emetenamlugalak[1]TN
+
+18. 	e2 ki-tusz# gu-la-ju10
+#lem: e[house]; kitusz[dwelling]; gal[big]\abs
+
+19.	mu-du3
+#lem: du[build]\v11sg1a +.
+
+@translation unitary en project
+@unit 1
+@span 1 - 19
+When I, Lipit-Eštar, the humble shepherd of Nibru, the true farmer of Urim, ceaseless provider of Eridug, the @en priest suitable for Unug, king of Isin, king of Sumer and Akkad, the favourite of Inana, established justice in Sumer and Akkad, then I built the E-mete-namlugala, my great residence. 
+
+@translation unitary hun  project
+@unit 1
+@span 1 - 19
+Amikor, én, Lipit-Estar, Nippur alázatos pásztora, Ur hűséges földművese, Eridug állhatatos fenntartója, az Urukhoz méltó @en pap, Iszin királya, Sumer és Akkád királya, Inana szíve választottja, igazságot teremtettem Sumerben és Akkádban, akkor felépítettem az E-mete-namugalát, fenséges lakóhelyemet.
+
+&Q001961 = Lipit-Eštar 4 [E4.1.5.4]
+@composite
+#project: etcsri
+#link: source P274915 = RIME 4.01.05.04, ex. 1
+#link: source P421710 = RIME 4.01.05.04, ex. 58
+#link: source P373978 = RIME 4.01.05.04, ex. add7
+#link: source P416099 = RIME 4.01.05.04, ex. add093
+#link: source P235346 = RIME 4.01.05.04, ex. add094
+#link: source P273608 = RIME 4.01.05.04, ex. add095
+#link: source P281690 = RIME 4.01.05.04, ex. add096
+#link: source P281691 = RIME 4.01.05.04, ex. add097
+#link: source P423361 = RIME 4.01.05.04, ex. add098
+#link: source P423416 = RIME 4.01.05.04, ex. add099
+#link: source P423417 = RIME 4.01.05.04, ex. add100
+#link: source P416306 = RIME 4.01.05.04, ex. add101
+#link: source P421692 = RIME 4.01.05.04, ex. add102
+#link: source P424433 = RIME 4.01.05.04, ex. add103
+#link: source P416312 = RIME 4.01.05.04, ex. add104
+#link: source P416395 = RIME 4.01.05.04, ex. add105
+#link: source P423546 = RIME 4.01.05.04, ex. add106
+#link: source P430053 = RIME 4.01.05.04, ex. add107
+#link: source P430081 = RIME 4.01.05.04, ex. add108
+#link: source P431331 = RIME 4.01.05.04, ex. add109
+#link: source P416494 = RIME 4.01.05.04, ex. add110
+#link: source P281659 = RIME 4.01.05.04, ex. add111
+#link: source P415784 = RIME 4.01.05.04, ex. add112
+#link: source P416520 = RIME 4.01.05.04, ex. add113
+#link: source P433132 = RIME 4.01.05.04, ex. add114
+#link: source P433133 = RIME 4.01.05.04, ex. add115
+#link: source P433173 = RIME 4.01.05.04, ex. add116
+#link: source P452316 = RIME 4.01.05.04, ex. add118
+
+
+1.	{d}li-pi2-it-esz4-tar2
+#lem: Lipiteštar[1]RN
+
+2.	sipad sun5-na
+#lem: sipad[shepherd]; sun[humble]
+
+3.	nibru{ki}
+#lem: Nibru[1]SN\gen
+
+4.	engar zid
+#lem: engar[farmer]; zid[right]
+
+5.	urim5{ki}-ma
+#lem: Urim[1]SN
+
+6.	musz3 nu-tum2-mu
+#lem: musz[face]\abs; tum[lead]
+
+7. 	eridug{ki}-ga
+#lem: Eridug[1]SN
+
+8.	en me-te
+#lem: en[priest]; mete[appropriate thing]
+
+9.	unug{ki}-ga
+#lem: Unug[1]SN
+
+10.	lugal i3-si-in{ki}-na
+#lem: lugal[king]; Isin[1]SN
+
+11.	lugal ki-en-gi ki-uri
+#lem: lugal[king]; Kiengir[1]GN; Akkad[1]GN\gen
+
+12.	szag4-ge de6-a
+#lem: szag[heart]\n5el3; de[bring]
+
+13.	{d}inana-me-en
+#lem: Inanak[1]DN\gen\cop +.
+
+14.	ud nij2-si-sa2
+#lem: ud[sun]; nijsisa[justice]\abs
+
+15.	ki-en-gi ki-uri-a
+#lem: Kiengir[1]GN; Akkad[1]GN
+
+16.	i-ni-in-jar-ra-a
+#lem: jar[place]\v11sg1a\l1
+
+17.	nam-ka3-ru-um
+#lem: Namkarum[1]GN
+
+18.	ki rib-ba
+#lem: ki[place]; rib[surpassing]
+
+19.	dijir-re-e-ne-ka
+#lem: dijir[deity]
+
+20.	e2-nij2-si-sa2-a
+#lem: Eniŋsisak[1]TN\abs
+
+21.	mu-du3
+#lem: du[build]\v11sg1a +.
+
+@translation unitary en project
+@unit 1
+@span 1 - 21
+When I, Lipit-Eštar, the humble shepherd of Nibru, the true farmer of Urim, ceaseless provider of Eridug, the @en priest suitable for Unug, king of Isin, king of Sumer and Akkad, the favourite of Inana, established justice in Sumer and Akkad, then I built the E-niĝsisa at Namkarum, the supreme place of the gods. 
+
+@translation unitary hun  project
+@unit 1
+@span 1 - 21
+Amikor én, Lipit-Estar, Nippur alázatos pásztora, Ur hűséges földművese, Eridug állhatatos fenntartója, az Urukhoz méltó @en pap, Iszin királya, Sumer és Akkád királya, Inana szíve választottja, igazságot teremtettem Sumerben és Akkádban, akkor felépítettem Namkarumban, az istenek legfelségesebb helyén, az E-nigsisát. 
+
+&Q001962 = Lipit-Eštar 5 [E4.1.5.5]
+@composite
+#project: etcsri
+
+1. 	{d}li-pi2-it-esz4-tar2
+#lem: Lipiteštar[1]RN
+
+2. 	sipad sun5-na
+#lem: sipad[shepherd]; sun[humble]
+
+3. 	nibru{ki}
+#lem: Nibru[1]SN\gen
+
+4. 	engar zid
+#lem: engar[farmer]; zid[right]
+
+5. 	urim2{ki}-ma
+#lem: Urim[1]SN
+
+6. 	musz3 nu-tum2-mu
+#lem: musz[face]\abs; tum[lead]
+
+7.  	eridug{ki}-ga
+#lem: Eridug[1]SN
+
+8.  	en me-te
+#lem: en[priest]; mete[appropriate thing]
+
+9. 	unug{ki}-ga
+#lem: Unug[1]SN
+
+10. 	lugal i3-si-in{ki}-<na>
+#lem: lugal[king]; Isin[1]SN
+
+11. 	lugal ki-en-gi ki-uri
+#lem: lugal[king]; Kiengir[1]GN; Akkad[1]GN\gen
+
+12. 	szag4-ge de6-a
+#lem: szag[heart]\n5el3; de[bring]
+
+13. 	{d}inana-me-en
+#lem: Inanak[1]DN\gen\cop +.
+
+14. 	ud nij2-si-sa2
+#lem: ud[sun]; nijsisa[justice]\abs
+
+15. 	ki-en-gi ki-uri-<a>
+#lem: Kiengir[1]GN; Akkad[1]GN
+
+16. 	mu-ni-jar-ra-a
+#lem: jar[place]\v11sg1a\l1
+
+17.	inim dug4-ga
+#lem: inim[word]; dug[speak]
+
+18.	{d}en-lil2
+#lem: Enlil[1]DN
+
+19.	{d}nanna-ta
+#lem: Nanna[1]DN
+
+20. 	urim5{ki}
+#lem: Urim[1]SN\abs
+
+21. 	ki-be2 he2-bi2-gi4
+#lem: ki[place]\n5el3; gi[turn]\v11sg1a +.
+
+22.	hi-ri-tum-bi
+#lem: hiritum[ditch]\abs
+
+23.	hu-mu-ba-al
+#lem: bal[dig]\v11sg1a +.
+
+@translation unitary en project
+@unit 1
+@span 1 - 23
+When I, Lipit-Eštar, the humble shepherd of Nibru, the true farmer of Urim, ceaseless provider of Eridug, the @en priest suitable for Unug, king of Isin, king of Sumer and Akkad, the favourite of Inana, established justice in Sumer and Akkad, then by the command of Enlil and Nanna I restored Urim and dug its moat. 
+
+@translation unitary hun project
+@unit 1
+@span 1 - 23
+Amikor én, Lipit-Estar, Nippur alázatos pásztora, Ur hűséges földművese, Eridug állhatatos fenntartója, az Urukhoz méltó @en pap, Iszin királya, Sumer és Akkád királya, Inana szíve választottja, igazságot teremtettem Sumerben és Akkádban, akkor Enlil és Nanna parancsára Urt helyreállítottam, sáncárkát kiástam. 
+
+&Q001964 = Lipit-Eštar 7 [E4.1.5.7]
+@composite
+#project: etcsri
+
+1.        {d}inana
+#lem: Inanak[1]DN
+
+2.        mu-ur5{ki}
+#lem: Mur[1]SN\gen
+
+3.        {d}inana-ka-ni-ir
+#lem: Inanak[1]DN
+
+4.        nam-til3
+#lem: namtil[life]
+
+5.        {d}li-pi2-it-esz4-tar2
+#lem: Lipiteštar[1]RN
+
+6.        sipad jesz tuku
+#lem: sipad[shepherd]; jesz[tree]\abs; !tuku[acquire]
+
+7.        dijir-re-e-ne
+#lem: dijir[deity]\gen
+
+8.        lugal ki-en-gi ki-uri
+#lem: lugal[king]; Kiengir[1]GN; Akkad[1]GN\gen
+
+9.        dam {d}inana-ka-sze3
+#lem: dam[spouse]; Inanak[1]DN
+
+10.        la-ma-sa3-tum
+#lem: Lamassatum[1]PN
+
+11.        ama-ne2
+#lem: ama[mother]
+
+12.        u3 nam-til3-la-ni-sze3
+#lem: u[and]; namtil[life]
+
+13.        e2-mar-uru5
+#lem: Emaruru[1]TN
+
+14.        szutum2 ki aj2-ja2-ni
+#lem: szutum[storehouse]; ki[place]\abs; aj[measure]\abs
+
+15.        szag4 i3-si-in{ki}-na-ka
+#lem: szag[heart//middle]; Isin[1]SN
+
+16.        mu-na-du3
+#lem: du[build] +.
+
+@translation unitary en project
+@unit 1
+@span 1 - 16
+For Inana of Mur, her Inana, Lamassatum, (Lipit-Estar's) mother built the E-maruru, her beloved storehouse in Isin for the well-being of Lipit-Eštar, the shepherd who heeds the gods, king of Sumer and Akkad, spouse of Inana, and also for her (own) well-being.
+
+@translation unitary hun project
+@unit 1
+@span 1 - 16
+A muri Inanának, az ő Inanájának, (Lipit-Estar) anyja, Lipit-Estar, az isteneket félő pásztor, Sumer és Akkád királya, Inana házastársa életéért, valamint (saját) éleéért megépítette az E-marurut, (Inana) szeretett raktárát Iszinben.
+
+&Q001965 = Lipit-Eštar 8 [E4.1.5.8]
+@composite
+#project: etcsri
+
+1.        {d}nin-lil2
+#lem: Ninlil[1]DN
+
+2.        nin dijir-re-e-ne
+#lem: nin[lady]; dijir[deity]\gen
+
+3.        {d}inana saj du-ja2
+#lem: Inanak[1]DN; saj[head]\abs; du[build]
+
+4.        ama tu2-ju10-ra
+#lem: ama[mother]; utud[bear]
+
+5.        {d}li-pi2-it-esz4-tar2
+#lem: Lipiteštar[1]RN
+
+6.        lugal ki-en-gi ki-uri-me-en
+#lem: lugal[king]; Kiengir[1]GN; Akkad[1]GN\gen\cop +.
+
+7.        ud nij2-si-sa2
+#lem: ud[sun]; nijsisa[justice]\abs
+
+8.        ki-en-gi ki-uri-a
+#lem: Kiengir[1]GN; Akkad[1]GN
+
+9.        i-ni-in-jar-ra-a
+#lem: jar[place]\v11sg1a\l1
+
+10.        nam-til3-ju10-sze3
+#lem: namtil[life]
+
+11.        a mu-na-ru
+#lem: a[water]\abs; ru[cvve]\v11sg1a +.
+
+@translation unitary en project
+@unit 1
+@span 1 - 11
+When I, Lipit-Eštar, the king of Sumer and Akkad, established justice in Sumer and Akkad, then I dedicated this (eye-stone) for Ninlil, lady of the gods, the Inana who created me, my mother who bore me, for my well-being. 
+
+@translation unitary hun project
+@unit 1
+@span 1 - 11
+Amikor én, Lipit-Estar, Sumer és Akkád királya, igazságot teremtettem Sumerben és Akkádban, akkor Ninlilnek, az istenek úrnőjének, az engem teremtő Inanának, szülőanyámnak az életemért ajánlottam fel ezt (a szem-követ).
+
+&Q004103 = Lipit-Eštar 10 
+@composite
+#project: etcsri
+
+@m column 1
+1.	{d}na-na-a
+#lem: Nanaya[1]DN
+
+2.	dumu ki aj2 {d}inana
+#lem: dumu[child]; ki[place]; aŋ[measure]; Inanak[1]DN\gen
+
+3.	nin-ju10-ra
+#lem: nin[lady]
+
+4.	{d}li-pi2-it-esz4-tar2
+#lem: Lipiteštar[1]RN
+
+5.	sipad sun5-na
+#lem: sipad[shepherd]; sun[humble]
+
+6.	nibru{ki}
+#lem: Nibru[1]SN\gen
+
+7.	engar zid
+#lem: engar[farmer]; zid[right]
+
+8.	urim2{ki}-ma
+#lem: Urim[1]SN
+
+9.	musz3 nu-tum2-mu
+#lem: muš[face]\abs; tum[lead]
+
+10.	eridug{ki}-ga
+#lem: Eridug[1]SN
+
+11.	en me-te
+#lem: en[priest]; mete[appropriate thing]
+
+12.	unug{ki}-ga
+#lem: Unug[1]SN
+
+13.	lugal i3-si-in{ki}-na
+#lem: lugal[king]; Isin[1]SN
+
+14.	lugal ki-en-gi ki-uri
+#lem: lugal[king]; Kiengir[1]GN; Akkad[1]GN\gen
+
+@m column 2
+1.	szag4-ge de6-a
+#lem: šag[heart]\n5el3; de[bring]
+
+2.	{d}inana-me-en
+#lem: Inanak[1]DN\gen\cop +.
+
+3.	e2-me-ur4-ur4
+#lem: Emeurur[1]TN
+
+4.    szutumx(|E2.GI.NA.AB.TUM|)
+#lem: szutum[storehouse]
+
+5.	ki aj2-ja2-ni
+#lem: ki[place]; aŋ[measure]\abs
+
+6.	szag4 i3-si-in{ki}-na-ka
+#lem: šag[heart]; Isin[1]SN
+
+7.	ud nij2-si-sa2
+#lem: ud[sun]; niŋsisa[justice]\abs
+
+8.	ki-en-gi ki-uri-a
+#lem: Kiengir[1]GN; Akkad[1]GN
+
+9.	i-ni-in-jar-ra-a
+#lem: jar[place]\v11sg1a\l1
+
+10.	mu-na-du3
+#lem: du[build]\v11sg1a +.
+
+@translation unitary en project
+@unit 1
+@span i 1  - ii 10
+When I, Lipit-Eštar, the humble shepherd of Nibru, the true farmer of Urim, ceaseless provider of Eridug, the @en priest suitable for Unug, king of Isin, king of Sumer and Akkad, the favourite of Inana, established justice in Sumer and Akkad, then for Nanaya, the beloved child of Inana, my lady, I built the E-me-urur, her beloved storehouse in Isin. 
+
+@translation unitary hun project
+@unit 1
+@span i 1  - ii 10
+Amikor, én, Lipit-Estar, Nippur alázatos pásztora, Ur hűséges földművese, Eridug állhatatos fenntartója, az Urukhoz méltó @en pap, Iszin királya, Sumer és Akkád királya, Inana szíve választottja, igazságot teremtettem Sumerben és Akkádban, akkor Nanajának, Inana szeretett gyermekének, úrnőmnek, felépítettem az E-meururt, szeretett raktárát Iszinben. 
+
+&Q004104 = Lipit-Eštar 11
+@composite
+#project: etcsri
+#link: source P416102 = RIME 4.01.05.add11, ex. 1
+#link: source P393075 = RIME 4.01.05.add11, ex. 2
+
+@m column 1
+1.	{d}li-pi2-it-esz18-tar2
+#lem: Lipiteštar[1]RN
+
+2.	sipad sun5-na
+#lem: sipad[shepherd]; sun[humble]
+
+3.	nibru{ki}
+#lem: Nibru[1]SN\gen
+
+4.	engar zid
+#lem: engar[farmer]; zid[right]
+
+5.	urim5{ki}-ma
+#lem: Urim[1]SN
+
+6.	musz3 nu-tum2-mu
+#lem: muš[face]\abs; tum[lead]
+
+7.	eridug{ki}-ga
+#lem: Eridug[1]SN
+
+8.	en me-te
+#lem: en[priest]; mete[appropriate thing]
+
+9.	unug{ki}-ga
+#lem: Unug[1]SN
+
+10.	lugal i3-si-in{ki}-na
+#lem: lugal[king]; Isin[1]SN
+
+11.	lugal ki-en-gi ki-uri
+#lem: lugal[king]; Kiengir[1]GN; Akkad[1]GN\gen
+
+@m column 2
+1.	szag4-ge de6-a
+#lem: šag[heart]\n5el3; de[bring]
+
+2.	{d}inana-me-en
+#lem: Inanak[1]DN\gen\cop +.
+
+3.	hi-ri-tum
+#lem: hiritum[ditch]
+
+4.	i3-si-in{ki}-na
+#lem: Isin[1]SN
+
+5.	iri{ki} nam-lugal-ja2-ka
+#lem: iri[city]; namlugal[kingship]\abs
+
+6.	ud nij2-si-sa2
+#lem: ud[sun]; niŋsisa[justice]\abs
+
+7.	ki-en-gi ki-uri-a
+#lem: Kiengir[1]GN; Akkad[1]GN
+
+8.	i-ni-in-jar-ra-a
+#lem: jar[place]\v11sg1a\l1
+
+9.	mu-ba-al
+#lem: bal[dig]\v11sg1a +.
+
+@translation unitary en project
+@unit 1
+@span i 1  - ii 9
+When I, Lipit-Eštar, the humble shepherd of Nibru, the true farmer of Urim, ceaseless provider of Eridug, the @en priest suitable for Unug, king of Isin, king of Sumer and Akkad, the favourite of Inana, established justice in Sumer and Akkad, then I dug the moat of Isin, my royal city.
+
+@translation unitary hun project
+@unit 1
+@span i 1  - ii 9
+Amikor, én, Lipit-Estar, Nippur alázatos pásztora, Ur hűséges földművese, Eridug állhatatos fenntartója, az Urukhoz méltó @en pap, Iszin királya, Sumer és Akkád királya, Inana szíve választottja igazságot teremtettem Sumerben és Akkádban, akkor Iszin, királyi városom sáncárkát kiástam.
+
+&Q001967 = Lipit-Eštar 2001 [E4.1.5.2001]
+@composite
+#project: etcsri
+1. 	{d}li-pi2-it-esz4-tar2
+#lem: Lipiteštar[1]RN
+
+2.	lugal kalag-ga
+#lem: lugal[king]; kalag[strong]
+
+3.  	lugal urim5{ki}-ma
+#lem: lugal[king]; Urim[1]SN\abs
+
+4. 	a-a-dug3-ga
+#lem: Ayaduga[1]PN
+
+5. 	gudu4-abzu {d}nanna
+#lem: gudugabzuk[priest]; Nanna[1]DN\gen
+
+6. 	u3 szita-esz3
+#lem: u[and]; szita'esza[priest]
+
+7. 	dumu dug4-ga-zid-da
+#lem: dumu[child]; Dugazida[1]PN\gen\abs
+
+8.	arad2-zu
+#lem: arad[slave]\abs +.
+
+@translation unitary en project
+@unit 1
+@span 1 - 8
+Lipit-Eštar, the powerful king, king of Urim: Aya-duga, @gudug-@abzu priest of Nanna, @šita-@eša priest, child of Duga-zida, is your servant. 
+
+@translation unitary hun project
+@unit 1
+@span 1 - 8
+Lipit-Estar, az erős király, Ur királya: Aya-duga, Nanna @gudug-@abzu papja, @šita-@eša pap, Duga-zida gyermeke, a te a szolgád.
+
+&Q001968 = Lipit-Eštar 2002 [E4.1.5.2002]
+@composite
+#project: etcsri
+1.        {d}li-pi2-it-esz4-tar2
+#lem: Lipiteštar[1]RN
+
+2.        lugal kalag-ga
+#lem: lugal[king]; kalag[strong]
+
+3.        lugal ma-da-<na>
+#lem: lugal[king]; mada[land]\gen\abs
+
+4.        {d}i-din-{d}da-gan!-wa-qar
+#lem: Iddindaganwaqar[1]PN
+
+5.        esz3-a-ab-da
+#lem: ešabdu[profession]
+
+6.        dumu {d}nanna-i3-sag9
+#lem: dumu[child]; Nannaisag[1]PN\gen\abs
+
+7.        arad2-zu
+#lem: arad[slave]\abs +.
+
+@translation unitary en project
+@unit 1
+@span 1 - 7
+Lipit-Eštar, the powerful king, king of his land: Iddin-Dagan-waqar, the @ešabda official, child of Nanna-isag, is your servant. 
+
+@translation unitary hun project
+@unit 1
+@span 1 - 7
+Lipit-Estar, az erős király, országának királya: Iddin-Dagan-waqar, az @esabda tisztviselő, Nanna-isag gyermeke, a te szolgád.
+
+&Q001969 = Lipit-Eštar 2004 [E4.1.5.2003]
+@composite
+#project: etcsri 
+
+1.        {d}li-pi2-it-esz4-tar2
+#lem: Lipiteštar[1]RN
+
+2.        lugal kalag-ga
+#lem: lugal[king]; kalag[strong]
+
+3.        lugal urim5{ki}-ma
+#lem: lugal[king]; Urim[1]SN
+
+4.        ur-[...]
+#lem: Ur.X[6]PN
+
+5.        dub-sar
+#lem: dubsar[scribe]
+
+6.        dumu lu2-{d}inana
+#lem: dumu[child]; Luinanak[1]PN\gen\abs
+
+7.        arad2-zu
+#lem: arad[slave]\abs +.
+
+@translation unitary en project
+@unit 1
+@span 1 - 7
+Lipit-Eštar, the powerful king, king of Urim: ..., the scribe, child of Lu-Inana, is your servant.
+
+@translation unitary hun project
+@unit 1
+@span 1 - 7
+Lipit-Estar, az erős király, Ur királya: ..., az írnok, Lu-Inana gyermeke, a te szolgád.
+
+&Q001970 = Lipit-Eštar 2004 [E4.1.5.2004]
+@composite
+#project: etcsri
+
+1.        {d}li-pi2-it-esz4-tar2
+#lem: Lipiteštar[1]RN
+
+2.        lugal kalag-ga
+#lem: lugal[king]; kalag[strong]
+
+$ broken
+
+@translation unitary en project
+@unit 1
+@span 1 - 2
+Lipit-Eštar, the powerful king, ....
+
+@translation unitary hun project
+@unit 1
+@span 1 - 2
+Lipitn-Estar, az erős király, ....
+
+&Q001971 = Urninurta 1 [E4.1.6.1]
+@composite
+#project: etcsri
+#link: source P428309 = RIME 4, p. 66. E4.1.6.1, ex. 02
+#link: source P428310 = RIME 4, p. 66. E4.1.6.1, ex. 03
+#link: source P428311 = RIME 4, p. 66. E4.1.6.1, ex. 03
+#link: source P428312 = RIME 4, p. 66. E4.1.6.1, ex. 04
+#link: source P428313 = RIME 4, p. 66. E4.1.6.1, ex. 05
+#link: source P428309 = RIME 4, p. 66. E4.1.6.1, ex. 02
+#link: source P263447 = RIME 4, p. 66. E4.1.6.1, ex. 24
+#link: source P263448 = RIME 4, p. 66. E4.1.6.1, ex. 25
+#link: source P264457 = RIME 4, p. 66. E4.1.6.1, ex. 27
+#link: source P225523 = RIME 4, p. 66. E4.1.6.1, ex. 32
+#link: source P225537 = RIME 4, p. 66. E4.1.6.1, ex. 34
+#link: source P225428 = RIME 4, p. 66. E4.1.6.1, ex. 38
+#link: source P225575 = RIME 4, p. 66. E4.1.6.1, ex. 40
+#link: source P371185 = RIME 4, p. 66. E4.1.6.1, ex. 44
+#link: source P371186 = RIME 4, p. 66. E4.1.6.1, ex. 45
+
+1.        {d}ur-{d}nin-urta
+#lem: Urninurta[1]RN
+
+2.        sipad nij2-nam il2
+#lem: sipad[shepherd]; nijnam[anything]\abs; il[raise]
+
+3.        nibru{ki}
+#lem: Nibru[1]SN\gen
+
+4.        na-gada
+#lem: nagada[herdsman]
+
+5.        urim5{ki}-ma
+#lem: Urim[1]SN
+
+6.        iszib szu sikil
+#lem: iszib[priest]; szu[hand]; sikil[pure]
+
+7.        eridug{ki}-ga
+#lem: Eridug[1]SN
+
+8.        en sze-ga
+#lem: en[priest]; szeg[agree]
+
+9.        unug{ki}-ga
+#lem: Unug[1]SN
+
+10.        lugal i3-si-in{ki}-na
+#lem: lugal[king]; Isin[1]SN
+
+11.        lugal ki-en-gi ki-uri
+#lem: lugal[king]; Kiengir[1]GN; Akkad[1]GN\gen
+
+12.        dam igi il2-la
+#lem: dam[spouse]; igi[eye]\abs; il[raise]
+
+13.        {d}inana
+#lem: Inanak[1]DN\gen\abs +.
+
+@translation unitary en project
+@unit 1
+@span 1 - 13
+Ur-Ninurta, the shepherd, who provides Nibru with everything, the herdsman of Urim, the @išib priest of Eridug with pure hands, the favourite @en priest of Unug, king of Isin, king of Sumer and Akkad, the spouse chosen by Inana. 
+
+@translation unitary hun project
+@unit 1
+@span 1 - 13
+Ur-Ninurta, a pásztor, aki mindennel ellátja Nippurt, Ur csordása, Eridug tiszta kezű @isib papja, Uruk kedvenc @en papja, Iszin királya, Sumer és Akkád királya, Inana választott házastársa.
+
+&Q001973 = Bur-Suen 1 [E4.1.7.1]
+@composite
+#project: etcsri
+#link: source P263440 = RIME 4, p. 69. E4.1.7.1, ex. 1
+#link: source P416149 = RIME 4, p. 69. E4.1.7.1, ex. 4
+#link: source P225429 = RIME 4, p. 69. E4.1.7.1, ex. 6
+#link: source P225566 = RIME 4, p. 69. E4.1.7.1, ex. 7
+#link: source P416147 = RIME 4, p. 69. E4.1.7.1, ex. add09
+#link: source P250596 = RIME 4, p. 69. E4.1.7.1, ex. add10
+
+1.        {d}bur-{d}suen
+#lem: Bursuen[1]RN
+
+2.        sipad szag4 nibru{ki} dug3-dug3
+#lem: sipad[shepherd]; szag[heart]; Nibru[1]SN\gen\abs; dug[good]
+
+3.        engar kalag-ga
+#lem: engar[farmer]; kalag[strong]
+
+4.        urim2{ki}-ma
+#lem: Urim[1]SN
+
+5.        jesz-hur eridug{ki}-ga ki-be2 gi4
+#lem: jeszhur[plan]; Eridug[1]SN\abs; ki[place]\n5el3; gi[turn]
+
+6. 	en me-a tum2-ma
+#lem: en[priest]; me[Being]\n5al2; tum[suitable]
+
+7. 	unug{ki}-ga
+#lem: Unug[1]SN
+
+8. 	lugal i3-si-in{ki}-na
+#lem: lugal[king]; Isin[1]SN
+
+9. 	lugal ki-en-gi ki-uri
+#lem: lugal[king]; Kiengir[1]GN; Akkad[1]GN\gen
+
+10. 	 dam me-te ur2 kug {d}inana
+#lem: dam[spouse]; mete[appropriate thing]; ur[root//lap]; kug[pure]; Inanak[1]DN\gen\abs +.
+
+@translation unitary en project
+@unit 1
+@span 1 - 10
+Bur-Suen, the shepherd who makes Nibru utterly content, the powerful farmer of Urim, the restorer of Eridug’s divine design, the @en priest suitable for the divine powers of Unug, king of Isin, king of Sumer and Akkad, the spouse who befits Inana's holy lap. 
+
+@translation unitary hun project
+@unit 1
+@span 1 - 10
+Bur-Szuen, a pásztor, aki Nippurt tökéletesen elégedetté teszi, Ur erős földművese, aki helyreállítja Eridug isteni mintáját, az Uruk isteni erőihez méltó @en pap, Iszin királya, Sumer és Akkád királya, az Inana szent öléhez illő házastárs. 
+
+&Q001974 = Bur-Suen 2 [E4.1.7.2]
+@composite
+#project: etcsri
+
+1.        {d}inana
+#lem: Inanak[1]DN
+
+2.        nin-a-ni-ir
+#lem: nin[lady]
+
+3.        {d}bur-{d}suen
+#lem: Bursuen[1]RN
+
+4.        lugal kalag-ga
+#lem: lugal[king]; kalag[strong]
+
+5.        lugal ki-en-gi ki-uri
+#lem: lugal[king]; Kiengir[1]GN; Akkad[1]GN\gen\erg
+
+6.        mu-na-dim2#
+#lem: dim[create]
+
+7.        nam-til3-la-ni-sze3
+#lem: namtil[life]
+
+8.        a mu-na-[ru]
+#lem: a[water]\abs; ru[cvve] +.
+
+@translation unitary en project
+@unit 1
+@span 1 - 8
+For Inana, his lady, Bur-Suen, the powerful king, king of Sumer and Akkad, fashioned this (statuette), and dedicated it to her for his well-being. 
+
+@translation unitary hun project
+@unit 1
+@span 1 - 8
+Inanának, úrnőjének. Bur-Szuen, az erős király, Sumer és Akkád királya, formálta ezt (a szobrocskát), és az életéért ajánlotta fel neki.
+
+&Q001977 = Bur-Suen 2002 [E4.1.7.2002]
+@composite
+#project: etcsri
+#link: source P301890 = RIME 4, p. 72. E4.1.7.2002
+1.        {d}bur-{d}suen
+#lem: Bursuen[1]RN
+
+2.        lugal kalag-ga
+#lem: lugal[king]; kalag[strong]
+
+3.        lugal ki-en-gi ki-uri
+#lem: lugal[king]; Kiengir[1]GN; Akkad[1]GN\gen\abs
+
+4.        ab-ba-ju10
+#lem: Abbaŋu[1]PN
+
+5.        dub-sar
+#lem: dubsar[scribe]
+
+6.        dumu lu2-{d}utu
+#lem: dumu[child]; Luutu[5]PN\gen\abs
+
+7.        arad-zu
+#lem: arad[slave]\abs +.
+
+@translation unitary en project
+@unit 1
+@span 1 - 7
+Bur-Suen, the powerful king, king of Sumer and Akkad: Abbaĝu, the scribe, child of Lu-Utu, is your servant.
+
+@translation unitary hun project
+@unit 1
+@span 1 - 7
+Bur-Szuen, az erős király, Sumer és Akkád királya: Abbagu, az írnok, Lu-Utu gyermeke a te szolgád.
+
+&Q001978 = Bur-Suen 2003 [E4.1.7.2003]
+@composite
+#project: etcsri
+
+1.	IR3-{d}utu
+#lem: Waradšamaš[1]PN
+
+2. 	dumu zi-ya-tum
+#lem: dumu[child]; Ziyatum[1]PN\gen\abs
+
+3. 	arad bur-{d}suen
+#lem: arad[slave]; Bursuen[1]RN\gen\abs
+
+@translation unitary en project
+@unit 1
+@span 1 - 3
+Warad-Šamaš, child of Ziyatum, is the servant of Bur-Suen. 
+
+@translation unitary hun project
+@unit 1
+@span 1 - 3
+Warad-Samas, Zijatum gyermeke, Bur-Szuennek a szolgája.
+
+&Q001979 = Bur-Suen 2004 [E4.1.7.2004]
+@composite
+#project: etcsri
+1.        [ur]-{d}nin-[...]
+#lem: Urnin-X[1]PN
+
+$ 1 line missing
+
+3.        dumu {d}da-mu-GAL
+#lem: dumu[child]; Damurabi[1]PN\gen\abs
+
+4.        arad2 {d}bur-{d}suen
+#lem: arad[slave]; Bursuen[1]RN\gen\abs
+
+@translation unitary en project
+@unit 1
+@span 1 - 3
+..., child of Damu-rabi, is the servant of Bur-Suen.
+
+@translation unitary hun project
+@unit 1
+@span 1 - 3
+..., Damu-rabi gyermeke, Bur-Szuennek a szolgája.
+
+&Q001980 = Bur-Suen 2005 [E4.1.7.2005]
+@composite
+1.        {d}bur-{d}suen
+#lem: Bursuen[1]RN
+
+2.        lugal kalag-ga
+#lem: lugal[king]; kalag[strong]
+
+3.        lugal ki-en-gi ki-uri
+#lem: lugal[king]; Kiengir[1]GN; Akkad[1]GN\gen\abs
+
+4.        lu2-{d}en-lil2-la2
+#lem: Luenlilak[1]PN
+
+5.        dub-sar
+#lem: dubsar[scribe]
+
+6.        dumu lugal-ezen
+#lem: dumu[child]; Lugalezen[2]PN\gen\abs
+
+7.        arad-zu
+#lem: arad[slave]\abs +.
+@translation unitary en project
+@unit 1
+@span 1 - 7
+Bur-Suen, the powerful king, king of Sumer and Akkad: Lu-Enlila, the scribe, child of Lugal-ezen, is your servant.
+
+@translation unitary hun project
+@unit 1
+@span 1 - 7
+Bur-Szuen, az erős király,  Sumer és Akkád királya: Lu-Enlila, az írnok, Lugal-ezen gyermeke a te szolgád.
+
+&Q001981 = Bur-Suen 2006 [E4.1.7.2006]
+@composite
+#project: etcsri
+1.    DIJIR-a-hu-u2 [(X)]
+#lem: Ilumahu[1]PN; u
+
+2.    arad# bur#-{d#}suen#
+#lem: arad[slave]; Bursuen[1]RN\gen\abs
+
+@translation unitary en project
+@unit 1
+@span 1 - 2
+Ilum-ahu, ..., is the servant of Bur-Suen. 
+
+@translation unitary hun project
+@unit 1
+@span 1 - 2
+Ilum-ahu, ..., Bur-Szuen szolgája.
+
+&Q001982 = Erra-imitti 2001 [E4.1.9.2001]
+@composite
+#project: etcsri
+1.        i3-li2-isz-ka-u2-t,ul3
+#lem: Iliškauṭul[1]PN
+
+2.        dub-sar
+#lem: dubsar[scribe]
+
+3.        dumu {d}suen-en-nam
+#lem: dumu[child]; Suenennam[1]PN\gen\abs
+
+4.        arad {d}er3-ra-i-mit-ti
+#lem: arad[slave]; Erraimitti[1]RN\gen\abs
+
+@translation unitary en project
+@unit 1
+@span 1 - 4
+Iliška-uṭul, the scribe, child of Suen-ennam, is the servant of Erra-imitti. 
+
+@translation unitary hun project
+@unit 1
+@span 1 - 4
+Iliska-utul, az írnok, Szuen-ennam gyermeke, Erra-imitti szolgája. 
+
+&Q001983 = Enlil-bani 1 [E4.1.10.1]
+@composite
+#project: etcsri
+#link: source P225505 = RIME 4.01.10.01, ex. 3
+
+1.     {d}en-lil2-ba-ni
+#lem: Enlilbani[1]RN
+
+2.    sipad nij2-nam szar2-ra
+#lem: sipad[shepherd]; nijnam[anything]\abs; szar[3600]
+
+3.    nibru{ki}
+#lem: Nibru[1]SN\gen
+
+4.        engar sze mah
+#lem: engar[farmer]; sze[barley]\abs; mah[great]
+
+5.        urim5{ki}-ma
+#lem: Urim[1]SN
+
+6.        me eridug{ki}-ga
+#lem: me[Being]; Eridug[1]SN\abs
+
+7.        kug-kug-ge
+#lem: kug[pure]
+
+8.        en sze-ga
+#lem: en[lord]; szeg[agree]
+
+9.        unug{ki}-ga
+#lem: Unug[1]SN
+
+10.        lugal i3-si-in{ki}-na
+#lem: lugal[king]; Isin[1]SN
+
+11.        lugal ki-en-gi ki-uri
+#lem: lugal[king]; Kiengir[1]GN; Akkad[1]GN\gen
+
+12.        dam szag4-ge pad3-da
+#lem: dam[spouse]; szag[heart]\n5el3; pad[find]
+
+13.        {d}inana
+#lem: Inanak[1]DN\gen\abs +.
+
+@translation unitary en project
+@unit 1
+@span 1 - 13
+Enlil-bani, the shepherd, who makes everything abundant for Nibru, the farmer of Urim’s plentiful barley, who purifies all divine powers of Eridug, the favourite @en-priest of Unug, king of Isin, king of Sumer and Akkad, the spouse chosen in the heart by Inana. 
+
+@translation unitary hun project
+@unit 1
+@span 1 - 13
+Enlil-bani, a pásztor, aki mindent bőségessé tesz Nippur számára, Ur gazdag árpa termésének földművese, aki Eridug isteni erőit mind megtisztítja, Uruk kedvelt en papja, Isin királya, Sumer és Akkád királya, Inana kiválasztott házastársa.
+
+
+&Q001984 = Enlil-bani 2 [E4.1.10.2]
+@composite
+#project: etcsri
+#link: source P225574 = RIME 4.01.10.02, ex. 1
+#link: source P225578 = RIME 4.01.10.02, ex. 2
+#link: source P225595 = RIME 4.01.10.02, ex. 3
+#link: source P274915 = RIME 4.01.10.02, ex. 6
+#link: source P225467 = RIME 4.01.10.02, ex. 7
+#link: source P223407 = RIME 4.01.10.02, ex. 10
+#link: source P342632 = RIME 4.01.10.02, ex. add11
+#link: source P270010 = RIME 4.01.10.02, ex.
+#link: source P459153 = RIME 4.01.10.02, ex. add14
+
+
+1.        {d}en-lil2-ba-ni
+#lem: Enlilbani[1]RN
+
+2.        sipad nij2-nam szar2-ra
+#lem: sipad[shepherd]; nijnam[anything]\abs; szar[3600]
+
+3.        nibru{ki}
+#lem: Nibru[1]SN
+
+4.        lugal kalag-ga
+#lem: lugal[king]; kalag[strong]
+
+5.        lugal i3-si-in{ki}-na
+#lem: lugal[king]; Isin[1]SN
+
+6.        lugal ki-en-gi ki-uri
+#lem: lugal[king]; Kiengir[1]GN; Akkad[1]GN\gen
+
+7.        dam szag4-ge pad3-da
+#lem: dam[spouse]; szag[heart]\n5el3; pad[find]
+
+8.        {d}inana
+#lem: Inanak[1]DN\gen
+
+9.        ki aj2 {d}en-lil2
+#lem: ki[place]\abs; aj[measure]; Enlil[1]DN
+
+10.        u3 {d}nin-isin2{si}-na-ka-ke4
+#lem: u[and]; Ninisinak[1]DN
+
+11.        bad3 gal
+#lem: bad[wall]; gal[big]
+
+12.        i3-si-in{ki}-na
+#lem: Isin[1]SN\gen\abs
+
+13.        mu-du3
+#lem: du[build] +.
+
+14.        bad3-ba
+#lem: bad[wall]\dem2\gen
+
+15.        {d}en-lil2-ba-ni
+#lem: Enlilbani[1]RN
+
+16.        SUHUSZ ki-in
+#lem: L; L
+
+17.        mu-bi-im
+#lem: mu[name] +.
+
+@translation unitary en project
+@unit 1
+@span 1 - 17
+Enlil-bani, the shepherd, who makes everything abundant for Nibru, the powerful king, king of Isin, king of Sumer and Akkad, the spouse  chosen in the heart by Inana, the beloved of Enlil and Ninisina, built the great city wall of Isin. The name of this city wall is “Enlil-bani is a firm foundation.  
+
+@translation unitary hun project
+@unit 1
+@span 1 - 17
+Enlil-bani, a pásztor, aki mindent bőségessé tesz Nippur számára, az erős király, Iszin királya, Sumer és Akkád királya, Inana kiválasztott házastársa, Enlil és Niniszina kedveltje, Iszin nagy város falát felépítette. Ennek a városfalnak “Enlil-bani erős alapzat” a neve. 
+
+&Q001985 = Enlil-bani 3 [E4.1.10.3]
+@composite
+#project: etcsri
+#link: source P225339 = RIME 4.01.10.03, ex. 01
+#link: source P247891 = RIME 4.01.10.03, ex. 02-03
+#link: source P387687 = RIME 4.01.10.03, ex. add03
+1. 	{d}en-lil2-ba-ni
+#lem: Enlilbani[1]RN
+
+2.  	sipad nij2-nam szar2-ra
+#lem: sipad[shepherd]; nijnam[anything]\abs; szar[3600]
+
+3.  	nibru{ki}
+#lem: Nibru[1]SN\gen
+
+4.  	lugal kalag-ga
+#lem: lugal[king]; kalag[strong]
+
+5.  	lugal i3-si-in{ki}-na
+#lem: lugal[king]; Isin[1]SN
+
+6.  	lugal ki-en-gi ki-uri
+#lem: lugal[king]; Kiengir[1]GN; Akkad[1]GN\gen
+
+7.  	dam szag4-ge pad3-da
+#lem: dam[spouse]; szag[heart]\n5el3; pad[find]
+
+8.  	{d}inana
+#lem: Inanak[1]DN\gen
+
+9.  	ki aj2 {d}en-lil2
+#lem: ki[place]\abs; aj[measure]; Enlil[1]DN
+
+10. 	u3 {d}nin-isin2{si}-na-ka-ke4
+#lem: u[and]; Ninisinak[1]DN
+
+11. 	bad3 i3-si-in{ki}-na
+#lem: bad[wall]; Isin[1]SN
+
+12.   ba-sumun-a
+#lem: sumun[old]\abs
+
+13. 	gibil-be2-esz2
+#lem: gibil[new]
+
+14. 	in-du3
+#lem: du[build] +.
+
+@translation unitary en project
+@unit 1
+@span 1 - 14
+Enlil-bani, the shepherd, who makes everything abundant for Nibru, the powerful king, king of Isin, king of Sumer and Akkad, the spouse chosen in the heart by Inana, the beloved of Enlil and Ninisina, renovated the dilapidated wall of Isin. 
+
+@translation unitary hun project
+@unit 1
+@span 1 - 14
+Enlil-bani, a pásztor, aki mindent bőségessé tesz Nippur számára, az erős király, Iszin királya, Sumer és Akkád királya, Inana kiválasztott házastársa, Enlil és Niniszina kedveltje, Isin romossá vált falát felújította. 
+
+&Q001986 = Enlil-bani 4 [E4.1.10.4]
+@composite
+#project: etcsri
+1.        {d}nin-isin2{si}-na
+#lem: Ninisinak[1]DN
+
+2.        nin-a-ni-ir
+#lem: nin[lady]
+
+3.        {d}en-lil2-ba-ni
+#lem: Enlilbani[1]RN
+
+4.        sipad nij2-nam szar2-ra
+#lem: sipad[shepherd]; nijnam[anything]\abs; szar[3600]
+
+5.        nibru{ki}
+#lem: Nibru[1]SN\gen
+
+6.        engar sze mah
+#lem: engar[farmer]; sze[barley]\abs; mah[great]
+
+7.        urim5{ki}-ma
+#lem: Urim[1]SN
+
+8.        me eridug{ki}-ga kug-kug-ge
+#lem: me[Being]; Eridug[1]SN\abs; kug[pure]
+
+9.        en ki aj2
+#lem: en[priest]; ki[place]\abs; aj[measure]
+
+10.        unug{ki}-ga
+#lem: Unug[1]SN
+
+11.        lugal kalag-ga
+#lem: lugal[king]; kalag[strong]
+
+12.        lugal i3-si-in{ki}-na
+#lem: lugal[king]; Isin[1]SN
+
+13.        lugal ki-en-gi ki-uri
+#lem: lugal[king]; Kiengir[1]GN; Akkad[1]GN\gen
+
+14.        dam szag4-ge pad3-da
+#lem: dam[spouse]; szag[heart]\n5el3; pad[find]
+
+15.        {d}inana-ke4
+#lem: Inanak[1]DN
+
+16.        e2-ur-jir15-ra
+#lem: Eurŋira[1]TN\abs
+
+17.        mu-na-du3
+#lem: du[build] +.
+
+@translation unitary en project
+@unit 1
+@span 1 - 17
+For Ninisina, his lady, Enlil-bani, the shepherd, who makes everything abundant for Nibru, the farmer of Urim’s plentiful barley, who purifies all divine powers of Eridug, the beloved @en-priest of Unug, the powerful king, king of Isin, king of Sumer and Akkad, the spouse choosen in the heart by Inana, built the E-urĝira.  
+
+@translation unitary hun project
+@unit 1
+@span 1 - 17
+Niniszinának, úrnőjének, Enlil-bani, a pásztor, aki mindent bőségessé tesz Nippur számára, Ur gazdag árpa termésének földművese, aki Eridug isteni erőit mind megtisztítja, Uruk szeretett @en papja, Iszin királya, Sumer és Akkád királya, Inana kiválasztott házastársa, felépítette az E-urgirát.
+
+&Q001987 = Enlil-bani 5 [E4.1.10.5]
+@composite
+#project: etcsri
+#link: source P286598 = RIME 4.01.10.05, ex. 01-02
+
+1.        {d}nin-ib-gal
+#lem: Ninibgal[1]DN
+
+2.        nin szag4-la2 sug4
+#lem: nin[lady]; szala[pity]\abs; sug[full]
+
+3.        ga-til3-e ki aj2
+#lem: gatil[vow]; ki[place]\abs; aj[measure]
+
+4.        szud3 a-ra-zu-e jesz tuku
+#lem: szud[prayer]; arazu[supplication]; jesz[tree]\abs; tuku[acquire]
+
+5.        ama zalag-a-ni-ir
+#lem: ama[mother]; zalag[shine]
+
+6.        {d}en-lil2-ba-ni
+#lem: Enlilbani[1]RN
+
+7.        sipad nij2-nam szar2-ra
+#lem: sipad[shepherd]; nijnam[anything]\abs; szar[3600]
+
+8.        nibru{ki}
+#lem: Nibru[1]SN\gen
+
+9.        engar sze mah
+#lem: engar[farmer]; sze[barley]\abs; mah[great]
+
+10. 	urim2{ki}-ma
+#lem: Urim[1]SN
+
+11.  	me eridug{ki}-ga kug-kug-ge
+#lem: me[Being]; Eridug[1]SN\abs; kug[pure]
+
+12. 	en ki aj2
+#lem: en[lord]; ki[place]\abs; aj[measure]
+
+13. 	unug{ki}-ga
+#lem: Unug[1]SN
+
+14. 	lugal kalag-ga
+#lem: lugal[king]; kalag[strong]
+
+15. 	lugal i3-si-in{ki}-na
+#lem: lugal[king]; Isin[1]SN
+
+16. 	lugal ki-en-gi ki-uri
+#lem: lugal[king]; Kiengir[1]GN; Akkad[1]GN\gen 
+
+17. 	dam szag4-ge pad3-da
+#lem: dam[spouse]; szag[heart]\n5el3; pad[find]
+
+18. 	{d}inana-ke4
+#lem: Inanak[1]DN
+
+19.        e2 ki aj2-ja2-ni
+#lem: e[house]; ki[place]\abs; aj[measure]\abs
+
+20.        mu-na-du3
+#lem: du[build] +.
+
+@translation unitary en project
+@unit 1
+@span 1 - 20
+For Ninibgal, the compassionate lady, who loves votive offerings, who listens to prayers and supplications, her shining mother, Enlil-bani, the shepherd, who makes everything abundant for Nibru, the farmer of Urim’s plentiful barley, who purifies all divine powers of Eridug, the beloved @en-priest of Unug, the powerful king, king of Isin, king of Sumer and Akkad, the spouse choosen in the heart by Inana, built her beloved temple.    
+
+@translation unitary hun project
+@unit 1
+@span 1 - 20
+Ninibgalnak, a könyörületes úrnőnek, aki szereti a fogadalmi ajándékokat, aki meghallgatja az imákat és könyörgéseket, fénylő anyjának, Enlil-bani, a pásztor, aki mindent bőségessé tesz Nippur számára, Ur gazdag árpa termésének földművese, aki Eridug isteni erőit mind megtisztítja, Uruk szeretett @en papja, Iszin királya, Sumer és Akkád királya, Inana kiválasztott házastársa, szeretett templomát felépítette.
+
+&Q001988 = Enlil-bani 6 [E4.1.10.6]
+@composite
+#project: etcsri
+1.        {d}nin-tin-ug5-ga
+#lem: Nintinuga[1]DN
+
+2.        nin til3-la ug5-ga
+#lem: nin[lady]; til[live]; usz[die]\gen
+
+3.        nin-a-ni-ir
+#lem: nin[lady]
+
+4.        {d}en-lil2-ba-ni
+#lem: Enlilbani[1]RN
+
+5.        lugal kalag-ga
+#lem: lugal[king]; kalag[strong]
+
+6.        lugal i3-si-in{ki}-na
+#lem: lugal[king]; Isin[1]SN
+
+7.        lugal ki-en-gi ki-uri
+#lem: lugal[king]; Kiengir[1]GN; Akkad[1]GN\gen
+
+8.        ki aj2 {d}en-lil2
+#lem: ki[place]\abs; aj[measure]; Enlil[1]DN
+
+9.        u3 {d}nin-isin2{si}-na-ka-ke4
+#lem: u[and]; Ninisinak[1]DN
+
+10.        e2-ni2-dub2-bu
+#lem: Enidubu[1]TN
+
+11.        e2 ki aj2-ja2-ni
+#lem: e[house]; ki[place]\abs; aj[measure]\abs
+
+12.        mu-na-du3
+#lem: du[build] +.
+
+@translation unitary en project
+@unit 1
+@span 1 - 12
+For Nintinuga, lady of the living and the dead, his lady, Enlil-bani, the powerful king, king of Isin, king of Sumer and Akkad, the beloved of Enlil and Ninisina, built  the E-nidubu, his beloved temple. 
+
+@translation unitary hun project
+@unit 1
+@span 1 - 12
+Nintinugának, élők és holtak úrnőjének, Enlil-bani, az erős király, Iszin királya, Sumer és Akkád királya, Enlil és Niniszina kedveltje, felépítette az E-nidubut, szeretett templomát. 
+
+&Q001989 = Enlil-bani 7 [E4.1.10.7]
+@composite
+#project: etcsri
+#link: source P225579 = RIM E4.1.10.7.2-3
+#link: source P247887 = unpublished unassigned
+
+1.        {d}sud3
+#lem: Sud[1]DN
+
+2.        nin-a-ni-ir
+#lem: nin[lady]
+
+3.        {d}en-lil2-ba-ni
+#lem: Enlilbani[1]RN
+
+4.        lugal kalag-ga
+#lem: lugal[king]; kalag[strong]
+
+5.        lugal i3-si-in{ki}-na-ke4
+#lem: lugal[king]; Isin[1]SN
+
+6.        e2-dim-gal-an-na
+#lem: Edimgalana[1]TN
+
+7.        e2 ki aj2-ja2-ni
+#lem: e[house]; ki[place]\abs; aj[measure]\abs
+
+8.        mu-na-du3
+#lem: du[build] +.
+
+@translation unitary en project
+@unit 1
+@span 1 - 8
+For Sud, his lady, Enlil-bani, the powerful king, king of Isin, built the E-dimgal-ana, her beloved temple.
+
+@translation unitary hun project
+@unit 1
+@span 1 - 8
+Szudnak, úrnőjének, Enlil-bani, az erős király, Iszin királya, az E-dimgal-anát, szeretett templomát felépítette.
+
+&Q001990 = Enlil-bani 8 [E4.1.10.8]
+@composite
+#project: etcsri
+#was Q021115
+1.        {d}en-lil2 lugal kur-kur-[ra]
+#lem: Enlil[1]DN; lugal[king]; kur[mountain]
+
+2.        lugal-a-ni-[ir]
+#lem: lugal[king]
+
+3.        {d}en-lil2-ba-ni#
+#lem: Enlilbani[1]RN
+
+4.        lugal kalag-ga lugal i3-si-in#[{ki}-na]
+#lem: lugal[king]; kalag[strong]; lugal[king]; Isin[1]SN
+
+5.        lugal ki-en-[gi ki-uri]
+#lem: lugal[king]; Kiengir[1]GN; Akkad[1]GN\gen
+
+6.        ki aj2 [{d}en-lil2]
+#lem: ki[place]\abs; aj[measure]; Enlil[1]DN
+
+7.        u3 {d}[nin-isin2{si}-na-ka-ke4]
+#lem: u[and]; Ninisinak[1]DN
+
+8.        nij2# [...]
+#lem: nij[thing]; u
+
+$     broken
+
+@translation unitary en project
+@unit 1
+@span 1 - 8
+For Enlil, king of all lands, his master, Enlil-bani, the powerful king, king of Isin, king of Sumer and Akkad, the beloved of Enlil and Ninisina, ....
+
+@translation unitary hun project
+@unit 1
+@span 1 - 8
+Enlilnek, minden ország királyának, urának, Enlil-bani, az erős király, Iszin királya, Sumer és Akkád királya, Enlil és Niniszina kedveltje, ....
+
+&Q001991 = Enlilbani 9 [E4.1.10.9]
+@composite
+#project: etcsri
+#link: source P225431 = RIME 4.01.10.09, ex. 01
+#link: source P253651 = RIME 4.01.10.09, ex. add02
+
+1.        {d}en-lil2-ba-ni
+#lem: Enlilbani[1]RN
+
+2.        sipad nij2-nam szar2-ra
+#lem: sipad[shepherd]; nijnam[anything]\abs; szar[3600]
+
+3.        nibru{ki}
+#lem: Nibru[1]SN\gen
+
+4.        engar sze mah
+#lem: engar[farmer]; sze[barley]\abs; mah[great]
+
+5.        urim2{ki}-ma
+#lem: Urim[1]SN
+
+6.        en# me-te unug{ki}-ga#
+#lem: en[lord]; mete[appropriate thing]; Unug[1]SN
+
+7.  	musz3 nu-tum2-mu
+#lem: musz[face]\abs; tum[lead]
+
+8.        eridug{ki}-ga
+#lem: Eridug[1]SN
+
+9.        dam szag4-ge pad3-da
+#lem: dam[spouse]; szag[heart]\n5el3; pad[find]
+
+10.        {d}inana-me-en
+#lem: Inanak[1]DN\gen\cop +.
+
+11.        ud nij2-si-sa2
+#lem: ud[sun]; nijsisa[justice]\abs
+
+12.        ki-en-gi ki-uri
+#lem: Kiengir[1]GN; Akkad[1]GN\l1
+
+13.        i-ni-in-jar-ra
+#lem: jar[place]\v11sg1a\l1
+
+14.        e2-gal ussu-bi
+#lem: egal[palace]; ussu[eight]
+
+15.        lugal-e-ne
+#lem: lugal[king]\gen\abs
+
+16.        mu-du3
+#lem: du[build]\v11sg1a +.
+
+@translation unitary en project
+@unit 1
+@span 1 - 16
+When I, Enlil-bani, the shepherd, who makes everything abundant for Nibru, the farmer of Urim’s plentiful barley, the @en priest suitable for Unug, ceaseless provider of Eridug, the spouse chosen in the heart by Inana, established justice in Sumer and Akkad, then I built the eight palaces of the kings.
+
+@translation unitary hun project
+@unit 1
+@span 1 - 16
+Amikor én, Enlil-bani, a pásztor, aki mindent bőségessé tesz Nippur számára, Ur gazdag árpa termésének földművese,  az Urukhoz méltó @en pap, Eridug állhatatos fenntartója, Inana kiválasztott házastársa, igazságot teremtettem Sumerben és Akkádban, akkor felépítettem a királyok nyolc palotáját.
+
+&Q001992 = Enlil-bani 10 [E4.1.10.10]
+@composite
+#project: etcsri
+1.        e2-gal
+#lem: egal[palace]
+
+2.        {d}en-lil2-ba-ni
+#lem: Enlilbani[1]RN\gen\abs +.
+
+@translation unitary en project
+@unit 1
+@span 1 - 2
+The palace of Enlil-bāni.
+
+@translation unitary hun project
+@unit 1
+@span 1 - 2
+Enlil-bani palotája.
+
+&Q001994 = Enlil-bani 1001 [E4.1.10.1001]
+@composite
+#project: etcsri
+#link: source P268919 = RIME 4.01.10.1001, ex. 01
+
+@m column 1
+1.        [...]
+#lem: u
+
+2.        [...] x#
+#lem: u; u
+
+3.        [...] x-me-en
+#lem: u; u
+
+4.        esz3?# nibru{ki}
+#lem: esz[shrine]; Nibru[1]SN\gen
+
+5.        dur#-an-ki-a-sze3
+#lem: Durankik[1]TN
+
+6.        gu3 zid-de3-esz ma-an-de2
+#lem: gu[voice]; zid[right]; de[pour]
+
+7.        saj-ki zalag-ga-ni
+#lem: sajki[forehead]; zalag[shine]\abs
+
+8.        mu-szi-in-bar
+#lem: bar[cvve]
+
+9.        nam dug3 mu-un-tar
+#lem: nam[fate]; dug[good]\abs; tar[cut]
+
+10.        {d}en-<lil2-ba-ni>
+#lem: Enlilbani[1]RN\abs
+
+11.        szu dug4-ga-ju10-me-en
+#lem: szu[hand]\abs; dug[speak]
+
+12.        a2# nun
+#lem: a[arm]; nun[prince]\abs
+
+13.        hu-mu-ta-jal2
+#lem: jal[be]
+
+
+&Q001997 = Urdukuga 2 [E4.1.13.2]
+@composite
+#project: etcsri
+1.        ur#-du3#-kug#-[ga]
+#lem: Urdukuga[1]RN
+
+2.        sipad# nij2#-nam# tumu3#
+#lem: sipad[shepherd]; nijnam[anything]\abs; de[bring]
+
+3.        nibru#{ki#}
+#lem: Nibru[1]SN\gen
+
+4.        engar# mah#
+#lem: engar[farmer]; mah[great]
+
+5.        an# {d#}en#-lil2#-la2#
+#lem: An[1]DN; Enlil[1]DN
+
+6.        u2#-a# e2#-kur#-ra#
+#lem: ua[provisioner]; Ekur[1]TN +.
+
+$ broken
+
+@translation unitary en project
+@unit 1
+@span 1 - 6
+Urdu-kuga, the shepherd, who provides Nibru with everything, the great farmer of An and Enlil, the provider of the E-kur, ....
+
+@translation unitary hun project
+@unit 1
+@span 1 - 6
+Urdu-kuga, a pásztor, aki mindennel ellátja Nippurt, An és Enlil nagyszerű földművese, az E-kur ellátója, ....
+
+&Q001998 = Urdukuga 3 [E4.1.13.3]
+@composite
+#project: etcsri
+#link: source P225729 = RIME 4, p. 96. E4.1.13.3
+1.        [{d}]lu2#-lal3
+#lem: Lulal[1]DN
+
+2.        [du6]-eden#?-na
+#lem: Dueden[1]GN
+
+3.        [lugal-a]-ni#-ir
+#lem: lugal[king]
+
+4.        [ur-du6-kug]-ga
+#lem: Urdukuga[1]RN
+
+5.        [sipad nij2-nam] tumu3#
+#lem: sipad[shepherd]; nijnam[anything]\abs; de[bring]
+
+6.        [nibru]{ki#}
+#lem: Nibru[1]SN\gen
+
+$ broken
+
+1'.        [dam igi zid bar-ra]
+#lem: dam[spouse]; igi[eye]; zid[right]\abs; bar[cvve]
+
+2'.        [{d}inana]-ke4
+#lem: Inanak[1]DN
+
+3'.        [e2 ki] aj2#-ja2-ni
+#lem: e[house]; ki[place]\abs; aj[measure]
+
+4'.        [mu-na]-du3
+#lem: du[build] +.
+
+@translation unitary en project
+@unit 1
+@span 1 - 4'
+For Lulal of Du-eden, his master, Urdu-kuga, the shepherd, who provides Nibru with everything, ..., the spouse looked upon favourably by Inana, built his beloved temple.
+
+@translation unitary hun project
+@unit 1
+@span 1 - 4'
+A du-edeni Lulalnak, urának, Urdu-kuga, a pásztor, aki mindennel ellátja Nippurt, ..., Inana házastársa, akire kegyesen tekint, felépítette szeretett templomát. 
+
+&Q002001 = Sin-magir 3 [E4.1.14.3]
+@composite
+#project: etcsri
+#link: source P225576 = RIME 4, p. 99. E4.1.14.3
+
+1.        e2-gal
+#lem: egal[palace]
+
+2.        {d}suen-ma-gir
+#lem: Sinmagir[1]RN\gen\abs +.
+
+@translation unitary en project
+@unit 1
+@span 1 - 2
+The palace of Sin-magir.
+
+@translation unitary hun project
+@unit 1
+@span 1 - 2
+Szin-magir palotája.
+
+&Q002002 = Sinmagir 2001 [E4.1.14.2001]
+@composite
+#project: etcsri
+
+1.        i-din-{d}da-mu
+#lem: Iddindamu[1]PN
+
+2.        szidim-gal
+#lem: szidimgal[builder]
+
+3.        dumu ia-a
+#lem: dumu[child]; Iaya[1]PN\gen\abs
+
+4.        arad {d}en-ki
+#lem: arad[slave]; Enkik[1]DN
+
+5.        u3 {d}suen-ma-gir
+#lem: u[and]; Sinmagir[1]RN\gen\abs +.
+
+@translation unitary en project
+@unit 1
+@span 1 - 5
+Iddin-damu, the chief builder, child of Iaya, is the servant of Enki and Sin-magir. 
+
+@translation unitary hun project
+@unit 1
+@span 1 - 5
+Iddin-damu, a főépítész, Iaya gyermeke, Enki és Szin-magir szolgája. 
+
+&Q002003 = Sinmagir 2002 [E4.1.14.2002]
+@composite
+#project: etcsri
+1.        im-gur-{d}suen
+#lem: Imgursin[1]PN
+
+2.        szabra
+#lem: szabra[administrator]
+
+3.        dumu {d}suen-i-di2-na-am
+#lem: dumu[child]; Siniddinam[1]PN\gen\abs
+
+4.        arad {d}suen-ma-gir
+#lem: arad[slave]; Sinmagir[1]RN\gen\abs +.
+
+@translation unitary en project
+@unit 1
+@span 1 - 4
+Imgur-Sin, the temple administrator, child of Sin-iddinam, is the servant of Sin-magir.  
+
+@translation unitary hun project
+@unit 1
+@span 1 - 4
+Imgur-Szuen, a templomgazdaság vezető, Szin-iddinam gyermeke, Szin-magir szolgája.
+
+&Q002004 = Sinmagir 2003 [E4.1.14.2003]
+@composite
+#project: etcsri
+#link: source P298365 = RIME 4, p. 101. E4.1.14.2003
+
+1.        a-na-{d}da-mu-tak2-la-ku
+#lem: Anadamutaklaku[1]PN
+
+$ blank line
+
+3.        dumu a-da-ta
+#lem: dumu[child]; Adata[1]PN\gen\abs
+
+4.        arad {d}suen-ma-gir
+#lem: arad[slave]; Sinmagir[1]RN\gen\abs +.
+
+@translation unitary en project
+@unit 1
+@span 1 - 4
+Ana-damu-taklaku, child of Adata, is the servant of Sin-magir.
+
+@translation unitary hun project
+@unit 1
+@span 1 - 4
+Ana-damu-taklaku, Adata gyermeke, Szin-magir szolgája.
+
+&Q002009 = Damiq-ilišu 2001 [E4.1.15.2001]
+@composite
+#project: etcsri
+
+1.        {d}ne3-eri11-gal
+#lem: Nergal[1]DN
+
+2.        a-pi5-ak{ki}
+#lem: Apiak[1]SN\gen
+
+3.        nir alim pirij ne3 tuku
+#lem: nir[lordly//lord]N; alim[bison]; pirij[lion]; ne[strength]\abs; tuku[acquire]
+
+4.        dijir-ra-a-ni-ir
+#lem: dijir[deity]
+
+5.        nam-til3
+#lem: namtil[life]
+
+6.        {d}da-mi-iq-i3-li2-szu
+#lem: Damiqilišu[1]RN
+
+7.        lugal ki-en-gi ki-uri-ka-sze3
+#lem: lugal[king]; Kiengir[1]GN; Akkad[1]GN
+
+8.        IR3-{d}nanna
+#lem: Waradnanna[1]PN
+
+9.        dub-sar lugal
+#lem: dubsar[scribe]; lugal[king]\gen
+
+10.        dumu pi2-iq-qum-ke4
+#lem: dumu[child]; Piqqum[1]PN
+
+11.        arad-da-ne2
+#lem: arad[slave]
+
+12.        a mu-na-ru
+#lem: a[water]\abs; ru[cvve]
+
+@translation unitary en project
+@unit 1
+@span 1 - 12
+To Nergal of Apiak, the respected lord, the powerful lion, his master, Warad-Nanna, the royal scribe, child of Piqqum, his servant, dedicated this (lion statue) for the well being Damiq-ilišu, king of Sumer and Akkad. 
+
+@translation unitary hun project
+@unit 1
+@span 1 - 12
+Az apiaki Nergalnak, a tiszteletre méltó úrnak, az erős oroszlánnak, urának, Warad-Nanna, a királyi írnok, Piqqum gyermeke, (Damiq-ilisu) szolgája, Damiq-ilisu, Sumer és Akkád királya életéért ajánlotta fel ezt (az oroszlánszobrot).
+
+
+&Q002014 = Gungunum 1 [E4.2.5.1]
+@composite
+#project: etcsri
+#link: source P270041 = RIME 4.02.05.01, ex. 01-02
+#link: source P225722 = RIME 4.02.05.01, ex. 03-04
+#link: source P225721 = RIME 4.02.05.01, ex. 05
+
+1.        {d}da-gan
+#lem: Dagan[1]DN
+
+2.        en dijir gal-gal-e-ne
+#lem: en[lord]; dijir[deity]; gal[big]
+
+3.        dijir-ra-a-ni-ir
+#lem: dijir[deity]
+
+4.        nam-til3
+#lem: namtil[life]
+
+5.        gu-un-gu-nu-um
+#lem: Gungunum[1]RN
+
+6.        nita kalag-ga
+#lem: nita[male]; kalag[strong]
+
+7.        lugal urim5{ki}-ma-ka-sze3
+#lem: lugal[king]; Urim[1]SN
+
+8.        en-an-na-tum2-ma
+#lem: Enanatuma[1]PN
+
+9.        en ki aj2 {d}nanna
+#lem: en[priest]; ki[place]\abs; aj[measure]; Nanna[1]DN\gen
+
+10.        szag4# urim5{ki}-ma
+#lem: szag[heart//middle]; Urim[1]SN\gen\l1
+
+11.        dumu {d}isz-me-{d}da-gan
+#lem: dumu[child]; Išmedagan[1]RN
+
+12.        lugal ki-en-gi ki-uri-ke4
+#lem: lugal[king]; Kiengir[1]GN; Akkad[1]GN
+
+13.        e2-esz3-me-dajal-la#
+#lem: Eešmedaŋalak[1]TN
+
+14.        szutumx(|E2.GI.NA.AB.TUM|) kug-ga-ni
+#lem: szutum[storehouse]; kug[pure]\abs
+
+15.        mu-na-du3
+#lem: du[build] +.
+
+16.        u3 nam-til3-la-ni-sze3
+#lem: u[and]; namtil[life]
+
+17.        a mu-na-ru
+#lem: a[water]\abs; ru[cvve] +.
+
+@translation unitary en project
+@unit 1
+@span 1 - 17
+For Dagan, the lord of the great gods, her personal god, En-ana-tuma, the beloved @en priestess of Nanna in Urim, child of Išme-Dagan, king of Sumer and Akkad, built the E-eš-medaĝala, her holy storehouse, and dedicated it to him for the well-being of Gungunum, the powerful man, king of Urim and for her (own) well-being.
+
+@translation unitary hun project
+@unit 1
+@span 1 - 17
+Dagannak, a nagy istenek úrának, védőistenének, En-ana-tuma, Nanna szeretett @en papnője, Isme-Dagan, Sumer és Akkád királyának gyermeke, az E-es-medagalát, szent raktárát, felépítette, és Gungunum, az erős férfi, Ur királya életéért és (saját) életéért ajánlotta fel neki.
+
+&Q002015 = Gungunum 2 [E4.2.5.2]
+@composite
+#project: etcsri
+#link: source P365470 = RIME 4, p. 115. E4.2.5.2, ex.1
+#link: source P225598 = RIME 4, p. 115. E4.2.5.2, ex.2
+#link: source P225310 = RIME 4, p. 115. E4.2.5.2, ex.3
+#link: source P225381 = RIME 4, p. 115. E4.2.5.2, ex.4
+#link: source P225597 = RIME 4, p. 115. E4.2.5.2, ex.5
+#link: source P225599 = RIME 4, p. 115. E4.2.5.2, ex.8
+1.        {d}utu
+#lem: Utu[1]DN
+
+2.        u3-tud-da
+#lem: utud[bear]
+
+3.        {d}nanna
+#lem: Nanna[1]DN\gen
+
+4.        ibilax(|DUMU.NE|)
+#lem: ibila[heir]
+
+5.        e2-kisz{ki}-nu-jal2
+#lem: Ekišnuŋal[1]TN\gen
+
+6.        {d}nin-gal-e tud-da
+#lem: Ningal[1]DN; utud[bear]
+
+7.        lugal-a-ni-ir
+#lem: lugal[king]
+
+8.        nam-til3
+#lem: namtil[life]
+
+9.        gu-un-gu-nu-um
+#lem: Gungunum[1]RN
+
+10.        nita kalag-ga
+#lem: nita[male]; kalag[strong]
+
+11.        lugal urim5{ki}-ma-ka-sze3
+#lem: lugal[king]; Urim[1]SN
+
+12.        en-an-na-tum2-ma
+#lem: Enanatuma[1]PN
+
+13.        zirrux(|EN.SAL.NUNUZ.ZI.AN.SZESZ.KI|)
+#lem: zirru[priestess]
+
+14.        en {d}nanna
+#lem: en[priest]; Nanna[1]DN\gen
+
+15.        szag4 urim5{ki}-ma
+#lem: szag[heart]; Urim[1]SN\gen\l1
+
+16.        dumu {d}isz-me-{d}da-gan
+#lem: dumu[child]; Išmedagan[1]RN
+
+17.        lugal ki-en-gi ki-uri
+#lem: lugal[king]; Kiengir[1]GN; Akkad[1]GN\gen\erg
+
+18.        e2-hi-li-a-ni in-du3
+#lem: Ehili[1]TN\abs; du[build]
+
+19.        szutumx(|E2.GI.NA.AB.TUM|) kug-ga-ni
+#lem: szutum[storehouse]; kug[pure]\abs
+
+20.        mu-na-du3
+#lem: du[build]
+
+21.        nam-til3-la-ni-sze3
+#lem: namtil[life]
+
+22.        a mu-na-ru
+#lem: a[water]\abs; ru[cvve]
+
+@translation unitary en project
+@unit 1
+@span 1 - 22
+For Utu, the offspring of Nanna, the heir of the E-kišnuĝal, who was born by Ningal, his master, En-ana-tuma, the @zirru priestess, the @en priestess of Nanna in Urim, child of Išme-Dagan, king of Sumer and Akkad, built his E-hili, built his holy storehouse, and dedicated it to him for the well-being of Gungunum, the powerful man, king of Urim, and for her (own) well-being.
+
+@translation unitary hun project
+@unit 1
+@span 1 - 22
+Utunak, Nanna sarjának, az E-kisnugal örökösének, Ningal szülöttjének, urának, En-ana-tuma, a @zirru papnő, Nanna @en papnője Urban, Isme-Dagan, Sumer és Akkád királyának gyermeke, az E-hilit felépítette, szent raktárát felépítette, és Gungunum, az erős férfi, Ur királya életéért és (saját) életéért felajánlotta fel neki.
+
+&Q002016 = Gungunum 3 [E4.2.5.3]
+@composite
+#project: etcsri
+#link: source P225560 = RIME 4.02.05.03, ex. 15
+#link: source P225561 = RIME 4.02.05.03, ex. 16
+#link: source P225562 = RIME 4.02.05.03, ex. 17
+#link: source P225563 = RIME 4.02.05.03, ex. 18
+#link: source P225564 = RIME 4.02.05.03, ex. 19
+
+1.        gu-un-gu-nu-um
+#lem: Gungunum[1]RN
+
+2.        lugal larsam{ki}-ma
+#lem: lugal[king]; Larsam[1]SN\gen
+
+3.        lugal ki-en-gi ki-uri
+#lem: lugal[king]; Kiengir[1]GN; Akkad[1]GN\gen
+
+4.        ibila kalag-ga
+#lem: ibila[heir]; kalag[strong]
+
+5.        sa-mi-um
+#lem: Samium[1]RN\gen
+
+6.        bad3 gal larsam{ki}-ma
+#lem: bad[wall]; gal[big]; Larsam[1]SN\gen
+
+7.        {d}utu ki-bala-e sa2 di
+#lem: Utu[1]DN; kibala[rebel land]; sa[equal]\abs; dug[speak]
+
+8.        mu-bi-im
+#lem: mu[name]
+
+9.        szag4 mu asz-ka szeg12-bi!
+#lem: szag[heart]; mu[year]; asz[one]; szeg[brick]
+
+10.        u3 bad3-bi mu-du3
+#lem: u[and]; bad[wall]\abs; du[build]
+
+@translation unitary en project
+@unit 1
+@span 1 - 10
+Gungunum, king of Larsa, king of Sumer and Akkad, the powerful heir of Samium, fashioned both the bricks and the walls of the great wall of Larsa, its name is “Utu is the vanquisher of the rebellious lands”, in a single year.
+
+@translation unitary hun project
+@unit 1
+@span 1 - 10
+Gungunum, Larsza királya, Sumer és Akkád királya, Samium erős örököse, egyetlen év alatt elkészítette tégláit és falát is Larsza nagy falának, melynek neve “Utu a lázadó országok meghódítója”.
+
+&Q002017 = Gungunum 4 [E4.2.5.4]
+@composite
+#project: etcsri
+1.        gu-un-gu-nu-um
+#lem: Gungunum[1]RN
+
+2.        lugal larsam{ki}-ma
+#lem: lugal[king]; Larsam[1]SN\gen
+
+3.        lugal ki-en-gi ki-uri
+#lem: lugal[king]; Kiengir[1]GN; Akkad[1]GN\gen\abs +.
+
+@translation unitary en project
+@unit 1
+@span 1 - 3
+Gungunum, king of Larsam, king of Sumer and Akkad.
+
+@translation unitary hun project
+@unit 1
+@span 1 - 3
+Gungunum, Larsza királya, Sumer és Akkád királya.
+
+&Q004449 = Gungunum 5add
+@composite
+#project: etcsri
+#link: source P251902 = CUSAS 17, 044
+@m column 1
+1.	ud an-ne2
+#lem: ud[sun]; An[1]DN
+
+2. 	{d}en-lil2-le
+#lem: Enlil[1]DN
+
+3.	{d}utu-ur2
+#lem: Utu[1]DN
+
+4. 	larsam{ki}-ma
+#lem: Larsam[1]SN
+
+5.	nam-lugal
+#lem: namlugal[kingship]
+
+6.	ki-en-gi ki-uri
+#lem: Kiengir[1]GN; Akkad[1]GN\gen
+
+7.	u3 nam-sipad kur mar-du2
+#lem: u[and]; namsipad[shepherdship]; kur[mountain]; Martu[1]EN\gen\abs
+
+8.	szu mu-na-an-du7-usz-a
+#lem: szu[hand]\abs; du[suitable]\l1
+
+9.	ud-ba gu-un-gu-nu-um
+#lem: ud[sun]; Gungunum[1]RN
+
+10.	nita kalag-ga
+#lem: nita[male]; kalag[strong]
+
+11.	lugal larsam{ki}-ma
+#lem: lugal[king]; Larsam[1]SN\gen
+
+12.	engar urim2{ki}-ma
+#lem: engar[farmer]; Urim[1]SN
+
+13. 	szu gi4-gi4 e2-babbar-ra
+#lem: szu[hand]\abs; gi[turn]; Ebabbar[2]TN
+
+14.	lugal ki-en-gi ki-uri
+#lem: lugal[king]; Kiengir[1]GN; Akkad[1]GN\gen
+
+15.	ibila kalag-ga
+#lem: ibila[heir]; kalag[strong]
+
+16.	sa-mi-um-ma
+#lem: Samium[1]RN
+
+17.	bad3 gal larsam{ki}-ma
+#lem: bad[wall]; gal[big]; Larsam[1]SN
+
+18.	{d}utu ki-bala-e sa2 di
+#lem: Utu[1]DN; kibala[rebel land]; sa[equal]\abs; dug[speak]
+
+19.	mu-bi-im
+#lem: mu[name]
+
+@m column 2
+1.	mu-un-du3
+#lem: du[build] +.
+
+2.	nam-galam dirig-ju10-ta
+#lem: namgalam[skillfullness]; dirig[exceed]
+
+3.	iri{ki}-ju10 sug-ta
+#lem: iri[city]\abs; sug[marsh]
+
+4.	he2-em-ta-e3
+#lem: e[leave]\v11sg1a +.
+
+5.	szag4 mu asz-ka
+#lem: szag[heart]; mu[year]; asz[one]
+
+6.	szeg12-bi hu-mu-du3
+#lem:  szeg[brick]\abs; du[build]\v11sg1a +.
+
+7. 	bad3 gal hu-mu-til
+#lem: bad[wall]; gal[big]\abs; til[complete]\v11sg1a +.
+
+8.	iri{ki}-<<ni>>-ja2 murub4-ba
+#lem: iri[city]; murub[middle]
+
+9.	{id2}buranun si ha-ba2-ni-sa2
+#lem: Buranun[1]WN\abs; si[horn]\abs; sa[equal]\v11sg1a +.
+
+10.	ud-ba ud bala-ja2
+#lem: ud[sun]; ud[sun]; bala[turn]\l1
+
+11.	sze 3(asz) sze gur-ta
+#lem: sze[barley]; n; sze[barley]; gur[unit]
+
+12.	siki 1(u) ma-na-ta
+#lem: siki[hair]; n; mana[unit]
+
+13.	i3 1(ban2) 5(disz) sila3-ta
+#lem: i[oil]; n; n; sila[unit]
+
+14.	1(disz) gij4-sze3# ganba? he2-jar-am3
+#lem: n; gij[unit]; ganba[price]\abs; jar[place] +.
+
+15.	ugnim-ju10 nam-he-a
+#lem: ugnim[army]\erg; namhe[abundance]
+
+16.	kij2-bi hu-mu-ni-ib2-ak
+#lem: kij[work]\abs; ak[do] +.
+
+17.	je26-e lugal nij2-gen6-na-me-en
+#lem: ŋa'e[I]; lugal[king]; nijgina[truth]
+
+18.	a2-ba jesz he2-bi2-in-jar
+#lem: a[arm]\n5al2; jesz[tree]\abs; jar[place]\v11sg1a +.
+
+@translation unitary en project
+@unit 1
+@span i 1 - ii 1
+When An and Enlil granted the rule over Sumer and Akkad and the leadership of the Amorite lands fully to Utu in Larsam, then Gungunum, powerful man, king of Larsam, farmer of Urim, avenger of the E-babbar, king of Sumer and Akkad, powerful heir of Samium, built the great city wall of Larsa, its name is “Utu is the vanquisher of the rebellious lands”.
+
+@unit 2
+@span ii 2 - ii 9
+By my surpassing expertise I did drain the swamps of my city. I did make its bricks and complete the great city wall in a single year. I did make the Euphrates flow right through the middle of my city.
+
+@unit 3
+@span ii 10 - ii 18
+In those days, during my reign, the market prices were set (like this): 1 shekel (of silver) was worth of 3 @gur of barley, 10 @mana of wool, or 15 @sila of oil. My work forces did thus their work indeed in abundance.  Being a steadfast king, I did complete this task.
+
+@translation unitary hun project
+@unit 1
+@span i 1 - ii 1
+Amikor An és Enlil a Sumer és Akkád feletti uralmat és az amurru országok vezetését teljes egészében Utura bízta Larszában, akkor Gungunum, az erős férfi, Larsza királya, Ur földművese, az E-babbar bosszúállója, Sumer és Akkád királya, Samium erős örököse, felépítette Larsza nagy falát, melynek neve “Utu a lázadó országok meghódítója”.
+
+@unit 2
+@span ii 2 - ii 9
+Rendkívüli szakértelmemmel városom mocsarait bizony lecsapoltam. Egyetlen év alatt tégláit bizony elkészítettem és a nagy városfalat bizony befejeztem. Az Eufráteszt bizony egyenesen a város közepén keresztül vezettem át. 
+
+@unit 2
+@span ii 10 - ii 18
+Azokban a napokban, uralmam idején, a piaci árak bizony (a következőképpen) voltak megállapítva: 1 sékel (ezüst) 3  @gur gabonát, 10 @mana gyapjút, vagy 15 @szila olajat ért. Munkásaim tehát bizony bőségben végezték munkájukat. Én, az állhatatos király, bizony elvégeztem ezt a feladatot.
+
+&Q002028 = Abi-sare 2005 [E4.2.6.2005]
+@composite
+#project: etcsri
+
+1.        IR11-{d}[...]
+#lem: Warad-X[1]PN
+
+2.        dub-sar
+#lem: dubsar[scribe]
+
+3.        dumu lu2-{d}nin-szubur
+#lem: dumu[child]; Luninšubur[2]PN\gen
+
+4.        sajja {d}nin-gal
+#lem: sajja[official]; Ningal[1]DN\gen
+
+5.        arad a-bi2-sa-re-e
+#lem: arad[slave]; Abisare[1]RN\gen\abs +.
+
+@translation unitary en project
+@unit 1
+@span 1 - 5
+..., the scribe, child of Lu-Ninšubur, the temple administrator of Ningal, is the slave of Abi-sare.
+
+@translation unitary hun project
+@unit 1
+@span 1 - 5
+.., az írnok, Lu-Ninsubur gyermeke, Ningal templomgazdaságának vezetője, Abi-szare szolgája. 
+
+
+&Q002029 = Abi-sare 2006 [E4.2.6.2006]
+@composite
+#project: etcsri
+#link: source P310570 = RIME 4, p. 128. E4.2.6.2006, ex. 1
+#link: source P310608 = RIME 4, p. 128. E4.2.6.2006, ex. 2
+#link: source P310544 = RIME 4, p. 128. E4.2.6.2006, ex. 3
+#link: source P310558 = RIME 4, p. 128. E4.2.6.2006, ex. 4
+
+1.	lugal-szuba
+#lem: Lugalšuba[1]PN
+
+2.	dub-sar
+#lem: dubsar[scribe]
+
+3. 	dumu ur-du6-kug-ga
+#lem: dumu[child]; Urdukuga[1]PN\gen
+
+4. 	arad a-bi2-sa-re-e
+#lem: arad[slave]; Abisare[1]RN\gen\abs +.
+
+@translation unitary en project
+@unit 1
+@span 1 - 4
+Lugal-šuba, the scribe, child of Ur-dukuga, the slave of Abi-sare.
+
+@translation unitary hun project
+@unit 1
+@span 1 - 4
+Lugal-suba, az írnok, Ur-dukuga gyermeke, Abi-szare szolgája.
+
+&X002007 = Abi-sare 3add
+@composite
+#project: etcsri
+#link: source P459150 = RIME 4.02.06.add03
+##2001.06.08. Christie's (Lot 351b Sale 9666) 
+
+1. {d}nanna
+#lem: Nanna[1]DN
+
+2. lugal-a-ni-ir
+#lem: lugal[king]
+
+3. a-bi-sa-re-e
+#lem: Abisare[1]RN
+
+4. nita kalag-ga
+#lem: nita[male]; kalag[strong]
+
+5. lugal urim2{ki}-ma
+#lem: lugal[king]; Urim[1]SN\gen\erg
+
+6. bad3 isz-ku-un-{d}suen
+#lem: bad[wall]; Iškunsuen[1]SN\gen\abs
+
+7. mu-na-du3
+#lem: du[build] +.
+
+8. ki#-be2 mu-na-gi4
+#lem: ki[place]\n5el3; gi[turn] +.
+
+@translation unitary en project
+@unit 1
+@span 1 - 8
+For Nanna, his master, Abi-sare, the powerful man, king of Urim, built and restored the city wall of Iškun-Suen.
+
+@translation unitary hun project
+@unit 1
+@span 1 - 8
+Nannának, urának, Abi-szare, az erős férfi, Ur királya, felépítette és helyreállította Iskun-Suen városfalát.
+
+&Q002115 = Warad-Sin 11 [E4.2.13.11]
+@composite
+#link: source P431699 = RIME 4.02.13.11, ex. 01
+#link: source P431700 = RIME 4.02.13.11, ex. 02
+#link: source P431701 = RIME 4.02.13.11, ex. 03
+#link: source P413904 = RIME 4.02.13.11, ex. add04
+
+1.        {d}inana zabala2{ki}
+#lem: Inanak[1]DN; Zabala[1]SN\gen
+
+2.        nin-ju10-ra
+#lem: nin[lady]
+
+3.        IR11-{d}suen
+#lem: Waradsin[1]RN
+
+4.        lugal larsam{ki}-ma
+#lem: lugal[king]; Larsam[1]SN\gen
+
+5.        nam-til3-ju10-sze3
+#lem: namtil[life]
+
+6.        u3 nam-til3
+#lem: u[and]; namtil[life]
+
+7.        ku-du-ur-ma-bu-uk
+#lem: Kudurmabuk[1]RN
+
+8.        a-a ugu-ja2-ka
+#lem: aya[father]; ugu[bear]
+
+9.        gi-gun4-na kug
+#lem: giguna[terrace]; kug[pure]
+
+10.        ki-tusz nam-ur-saj-ja2-ka-ni
+#lem: kitusz[dwelling]; namursaj[heroism]\abs
+
+11.        mu-na-du3
+#lem: du[build]\v11sg1a +.
+
+12.        kur sukud-ra2-gin7
+#lem: kur[mountain]; sukud[height//high]
+
+13.        saj-bi hu-mu-ni-in-il2
+#lem: saj[head]\abs; il[raise] +.
+
+14.        nij2-ak-ju10-sze3
+#lem: nijak[deed]
+
+15.        ha-ma-hul2-e
+#lem: hul[rejoice] +.?
+
+16.        nam-til3 ud sud-ra2
+#lem: namtil[life]; ud[sun]; sud[distant]\abs
+
+17.        nij2-ba-asz
+#lem: nijba[gift]
+
+18.        ha-ma-an-ba-e
+#lem: ba[allot] +.
+
+@translation unitary en project
+@unit 1
+@span 1 - 13
+For Inana of Zabalam, my lady, for my well-being, and for the well-being of Kudur-mabuk, the father who begot me, (I), Warad-Sin, king of Larsam, built her holy high temple, a residence of warriors, I raised it as high as a mountain. 
+
+@unit 1
+@span 14 - 18
+May she be as delighted with me because of my deeds as to grant me a life of long days as a reward!
+
+@translation unitary hun project
+@unit 1
+@span 1 - 13
+A zabalami Inanának, úrnőmnek, az életemért és nemző atyám Kudur-mabuk életéért, (én), Warad-Szín, Larsza királya, szent magas templomát, harcosok lakhelyét, felépítettem, mint egy hatalmas hegy, olyan magasra emeltem.
+
+@unit 1
+@span 14 - 18
+Bárcsak annyira elégedett lenne velem a tetteim miatt, hogy hosszú élettel ajándékozna meg engem!
+
+&Q002134 = Warad-Sin 30 [E4.2.13.30]
+@composite
+
+1.        {d}nanna
+#lem: Nanna[1]DN
+
+2.        lugal-a-ni-ir
+#lem: lugal[king]
+
+3.        IR11-{d}suen
+#lem: Waradsin[1]RN
+
+4.        ensi2
+#lem: ensik[ruler//governor]
+
+5.        {d}utu
+#lem: Utu[1]DN\gen
+
+6.        dumu ku-du-ur-ma-bu-uk
+#lem: dumu[child]; Kudurmabuk[1]RN
+
+7.        ad-da kur mar-du2
+#lem: adda[father]; kur[mountain]; Martu[1]EN\gen\gen\erg
+
+8.        a mu-na-ru
+#lem: a[water]\abs; ru[cvve] +.
+
+@translation unitary en project
+@unit 1
+@span 1 - 8
+To Nanna, his lord, Warad-Sin, governor of Utu, child of Kudur-mabuk, father of the Amorite lands, dedicated this (eye-stone). 
+
+@translation unitary hun project
+@unit 1
+@span 1 - 8
+Nannának, urának, Warad-Szin, Utu kormányzója, Kudur-Mabuk, az amurru országok atyjának gyermeke, ajánlotta fel ezt (a szemkövet).
+
+&Q002135 = Warad-Sin 31 [E4.2.13.31]
+@composite
+#project: etcsri 
+#link: source P307978 = YOS 05, 156
+
+1.        IR11#-{d}suen
+#lem: Waradsin[1]RN
+
+2.        lugal larsam{ki}-ma
+#lem: lugal[king]; Larsam[1]SN\gen
+
+3.        dumu ku-du-ur-ma-bu-uk
+#lem: dumu[child]; Kudurmabuk[1]RN\gen\abs +.
+
+@translation unitary en project
+@unit 1
+@span 1 - 3
+Warad-Sin, king of Larsam, child of Kudur-mabuk.
+
+@translation unitary hun project
+@unit 1
+@span 1 - 3
+Warad-Szín, Larsza királya, Kudur-mabuk gyermeke.
+
+&Q002136 = Warad-Sin 32 [E4.2.13.32]
+@composite
+#project: etcsri 
+#link: source P283682 = UET 5, 272
+
+1.        [en]-an-[e-du7]
+#lem: Enanedu[1]PN
+
+2.        en# {d}[nanna]
+#lem: en[priest]; Nanna[1]DN\gen
+
+3.        urim5{ki}-[ma]
+#lem: Urim[1]SN\l1
+
+4.        dumu ku-du-ur-ma-bu-uk#
+#lem: dumu[child]; Kudurmabuk[1]RN\gen
+
+5.        szesz# IR11-{d}suen#
+#lem: szesz[brother//sibling]; Waradsin[1]RN
+
+6.        lugal larsam{ki}-ma#
+#lem: lugal[king]; Larsam[1]SN\gen\gen\abs +.
+
+@translation unitary en project
+@unit 1
+@span 1 - 3
+En-ane-du, @en priestess of Nanna in Urim, child of Kudur-mabuk, sibling of Warad-Sin, king of Larsam.
+
+@translation unitary hun project
+@unit 1
+@span 1 - 3
+En-ane-du, Nanna @en papnője Urban, Kudur-mabuk gyermeke, Warad-Szín, Larsza királyának testvére.
+
+&Q002137 = Warad-Sin 33 [E4.2.13.33]
+@composite
+#project: etcsri 
+
+1.        ri-im-[{d}]suen#
+#lem: Rimsin[1]RN
+
+2.        dumu IR11-{d}suen#
+#lem: dumu[child]; Waradsin[1]RN
+
+3.        lugal larsam#{[ki]}-ma#
+#lem: lugal[king]; Larsam[1]SN\gen\gen\abs +.
+
+@translation unitary en project
+@unit 1
+@span 1 - 3
+Rim-Sin, child of Warad-Sin, king of Larsam.
+
+@translation unitary hun project
+@unit 1
+@span 1 - 3
+Rim-Szín, Warad-Szín, Larsza királyának gyermeke.
+
+&Q002190 = Hammu-rapi 14 [E4.3.6.14]
+@composite
+#project: etcsri 
+#link: source P365476 = CT 21, pl. 45-46
+
+1.	{d}utu
+#lem: Utu[1]DN
+
+2.	en an ki-bi-da
+#lem: en[lord]; an[sky]; ki[place]
+
+3.	lugal-a-ni-ir
+#lem: lugal[king]
+
+4.	ha-am-mu-ra-pi2
+#lem: Hammurapi[1]RN
+
+5.	gu3 de2-a an-na
+#lem: gu[voice]\abs; de[pour]; An[1]DN
+
+6.	{d}en-lil2-da jesz tuku
+#lem: Enlil[1]DN; jesz[tree]\abs; !tuku[acquire]
+
+7.	sze-ga {d}utu
+#lem: szeg[agree]; Utu[1]DN\gen
+
+8.	sipad ki aj2
+#lem: sipad[shepherd]; ki[place]\abs; aj[measure]
+
+9.	{d}marduk-ke4
+#lem: Marduk[1]DN
+
+10.	lugal kalag-ga
+#lem: lugal[king]; kalag[strong]
+
+11.	lugal |KAN4.DIJIR.RA|{ki}
+#lem: lugal[king]; Babylon[1]SN\gen
+
+12.	lugal ki-en-gi ki-uri
+#lem: lugal[king]; Kiengir[1]GN; Akkad[1]GN\gen
+
+13.	lugal an-ub-da limmu2-ba-ke4
+#lem: lugal[king]; anubda[quarter]; limmu[four]
+
+14.	lugal barag-barag
+#lem: lugal[king]; barag[dais]
+
+15.	dijir gal-gal-e-ne
+#lem: dijir[deity]; gal[big]\abs
+
+16.	szu gibil bi2-in-ak-a
+#lem: szu[hand]; gibil[new]\abs; ak[do]\v10l3
+
+17.	ud {d}utu
+#lem: ud[sun]; Utu[1]DN\erg
+
+18.	ki-en-gi ki-uri
+#lem: Kiengir[1]GN; Akkad[1]GN\gen
+
+19.	nam-en-bi ak-de3
+#lem: namen[lordship]\abs; ak[do]
+
+20.	mu-na-an-szum2-ma-ta
+#lem: szum[give]
+
+21.	esz2-giri17-bi
+#lem: eškiri[rope]\abs
+
+22.	szu-ni-sze3
+#lem: szu[hand]
+
+23.	bi2-in-si-a
+#lem: si[fill]\v10l3\l1
+
+24.	{d}utu
+#lem: Utu[1]DN
+
+25.	en jiszkim-til3-la-ni-ir
+#lem: en[lord]; jiszkimti[trust]
+
+26.	larsam{ki}-ma
+#lem: Larsam[1]SN
+
+27.	iri nam-en-na-ka-na
+#lem: iri[city]; namen[lordship]
+
+28.	e2-babbar
+#lem: Ebabbar[2]TN
+
+29.	e2 ki aj2-ja2-ni
+#lem: e[house]; ki[place]\abs; aj[measure]\abs
+
+30.	mu-na-ni-in-du3
+#lem: du[build] +.
+
+@translation unitary en project
+@unit 1
+@span 1 - 2
+For Utu, lord of heaven and earth, his master.
+
+@unit 2
+@span 3 - 30
+Hammu-rapi, who was appointed by An, who makes himself heard by Enlil, the favourite of Utu, the beloved shepherd of Marduk, the powerful king, king of Babylon, king of Sumer and Akkad, king of the four quarters, the king who renovated all the sanctuaries of the great gods, when Utu gave him the rule over Sumer and Akkad and entrusted their nose-rope into his hands, then for Utu, the lord who supports him, he built the E-babbar, his beloved temple in Larsam, (Utu’s) city of lordship.
+
+@translation unitary hun project
+@unit 1
+@span 1 - 2
+Utunak, ég és föld urának, parancsolójának.
+
+@unit 1
+@span 3 - 30
+Hammu-rapi, akit An jelölt ki, aki Enlilnél meghallgatásra talál, Utu kedveltje, Marduk szeretett pásztora, az erős király, Babilón királya, Sumer és Akkád királya, a négy égtáj királya, a király, aki a nagy istenek minden szentélyét megújította, amikor Utu neki adta a Sumer és Akkád feletti uralmat és orr-kötelüket a kezébe helyezte, akkor Utunak, az őt támogató úrnak, felépítette az E-babbart, szeretett templomát Larszában,  a városban, amelynek (Utu) az ura. 
+
+&Q002192 = Hammu-rapi 16 [E4.3.6.16]
+@composite
+#project: etcsri
+#link: source P365475 = CT 21, pl. 43-44
+#link: source P225447 = RIM E4.3.6.15.1 and RIM E4.3.6.16.2
+
+1.        {d}inana zabala2{ki}
+#lem: Inanak[1]; Zabala[1]SN\gen
+
+2.        nin me-lem4-ma-ni
+#lem: nin[lady]; melim[splendor]\abs
+
+3.        an ki-a dul-la2
+#lem: an[sky]; ki[place]\n5al2; dul[cover]
+
+4.        nin-a-ni-ir
+#lem: nin[lady]
+
+5.        ha-am-mu-ra-pi2
+#lem: Hammurapi[1]RN
+
+6.        gu3 de2-a an-na
+#lem: gu[voice]\abs; de[pour]; An[1]DN
+
+7.        {d}en-lil2-da jesz tuku
+#lem: Enlil[1]DN; jesz[tree]\abs; !tuku[acquire]
+
+8.        sze-ga {d}utu
+#lem: szeg[agree]; Utu[1]DN\gen
+
+9.        sipad szag4 dug3-dug3
+#lem: sipad[shepherd]; szag[heart]; !dug[good]
+
+10.        {d}marduk-ke4
+#lem: Marduk[1]DN
+
+11.        nun szag4 ki aj2
+#lem: nun[prince]; szag[heart]; ki[place]\abs; aj[measure]
+
+12.        {d}inana-ke4
+#lem: Inanak[1]DN
+
+13.        lugal kalag-ga
+#lem: lugal[king]; kalag[strong]
+
+14.       lugal |KAN4.DIJIR.RA|{ki}
+#lem: lugal[king]; Babylon[1]SN\gen
+
+15.        lugal ki-en-gi ki-uri
+#lem: lugal[king]; Kiengir[1]GN; Akkad[1]GN\gen
+
+16.        lugal an-ub-da limmu2-ba-ke4
+#lem: lugal[king]; anubda[quarter]; limmu[four]
+
+17.        lugal barag-barag
+#lem: lugal[king]; barag[dais]
+
+18.        dijir gal-gal-e-ne
+#lem: dijir[deity]; gal[big]\abs
+
+19.        szu gibil
+#lem: szu[hand]; gibil[new]\abs
+
+20.        bi2-in-ak-a
+#lem:  ak[do]\v10l3
+
+21.        ud {d}inana
+#lem: ud[sun]; Inanak[1]DN
+
+22.        jiszkim sag9-ga-ne2
+#lem: jiszkim[sign]\abs; sag[good]
+
+23.        ki-en-gi ki-uri
+#lem: Kiengir[1]GN; Akkad[1]GN\gen
+
+24.        nam-en-bi ak-de3
+#lem: namen[lordship]\abs; ak[do]
+
+25.        mu-na-an-szum2-ma-ta
+#lem: szum[give]
+
+26.        esz2-giri17-bi
+#lem: eszkiri[rope]\abs
+
+27.        szu-ni-sze3
+#lem: szu[hand]
+
+28.        bi2-in-si-a
+#lem: si[fill]\v10l3\l1
+
+29.        {d}inana
+#lem: Inanak[1]DN
+
+30.        ki aj2-ja2-ni-ir
+#lem: ki[place]\abs; aj[measure]
+
+31.        zabala2{ki}
+#lem: Zabala[1]SN\l1
+
+32.        iri nam-nin-a-ka-na
+#lem: iri[city]; namnin[ladyship]
+
+33.        e2-zi-kalam-ma
+#lem: Ezikalama[1]TN
+
+34.        e2 ki aj2-ja2-ni
+#lem: e[house]; ki[place]\abs; aj[measure]\abs
+
+35.        mu-na-ni-in-du3
+#lem: du[build] +.
+
+@translation unitary en project
+@unit 1
+@span 1 - 4
+For Inana of Zabala, the lady whose fearsome radiance covers heaven and earth, his lady.
+
+@unit 2
+@span 5 - 35
+Hammu-rapi, who was appointed by An, who makes himself heard by Enlil, the favourite of Utu, the shepherd who makes Marduk's heart happy, the prince beloved by Inana, the powerful king, king of Babylon, king of Sumer and Akkad, king of the four quarters, the king who renovated all the sanctuaries of the great gods, when Inana, who makes the omens favourable for him, gave him the rule over Sumer and Akkad and entrusted their nose-rope into his hands, then for his beloved Inana, he built the E-zi-kalama, her beloved temple in Zabala, her city of ladyship.
+
+@translation unitary hun project
+@unit 1
+@span 1 - 4
+A zabalai Inanának, az úrnőnek, akinek félelmetes ragyogása betakarja az eget és földet, úrnőjének.
+
+@unit 1
+@span 5 - 35
+Hammu-rapi, akit An jelölt ki, aki Enlilnél meghallgatásra talál, Utu kedveltje, a pásztor, aki Marduk szivét boldoggá teszi, Inana szeretett hercege, az erős király, Babilón királya, Sumer és Akkád királya, a négy égtáj királya, a király, aki a nagy istenek minden szentélyét megújította, amikor Inana, aki kedvezővé teszi neki a jósjeleket, neki adta a Sumer és Akkád feletti uralmat és orr-kötelüket a kezébe helyezte, akkor szeretett Inanájának felépítette az E-zi-kalamát, szeretett templomát Zabalában, a városban, amelynek ő az úrnője.
+
+&Q002239 = Sin-kašid 2 [E4.4.1.2]
+@composite
+#project: etcsri
+#link: source P274913 = RIME 4.04.01.02
+#link: source P270707 = RMC 078
+#link: source P272907 = RISA 332, no. 5
+#link: source P272908 = WAM 48.1805
+#link: source P248553 = OPM 28-227
+#link: source P248513 = HMA 9-02257
+#link: source P248364 = HMA 9-02867
+#link: source P416137 = RIME 4.04.01.02, ex. 36
+#link: source P421309 = RIME 4.04.01.02, ex. add158
+
+
+1.        {d}suen-ka3-szi-id
+#lem: Sinkašid[1]RN
+
+2.        nita kalag-ga
+#lem: nita[male]; kalag[strong]
+
+3.        lugal unug{ki}-ga
+#lem: lugal[king]; Unug[1]SN
+
+4.        lugal am-na-nu-um
+#lem: lugal[king]; Amnanum[1]GN\gen\erg
+
+5.        e2-gal
+#lem: egal[palace]
+
+6.        nam-lugal-la-ka-ni
+#lem: namlugal[kingship]\abs
+
+7.        mu-du3
+#lem: du[build] +.
+
+@translation unitary en project
+@unit 1
+@span 1 - 7
+Sin-kašid, the powerful man, king of Unug, king of Amnanum, built his royal palace.
+
+@translation unitary hun project
+@unit 1
+@span 1 - 7
+Szin-kasid, az erős férfi, Uruk királya, Amnanum királya, királyi palotáját felépítette.
+
+&Q002240 = Sin-kašid 3 [E4.4.1.3]
+@composite
+#project: etcsri
+#link: source P274914 = RIME 4.04.01.03, ex. 1
+#link: source P342720 = RIME 4.04.01.03, ex. add02
+#link: source P384798 = RIME 4.04.01.03, ex. add03
+#link: source P235313 = RIME 4.04.01.03, ex. add04
+#link: source P235498 = RIME 4.04.01.03, ex. add05
+#link: source P235502 = RIME 4.04.01.03, ex. add06
+#link: source P248014 = RIME 4.04.01.03, ex. add06
+#link: source P373965 = RIME 4.04.01.03, ex. add08
+#link: source P333137 = RIME 4.04.01.03, ex. add09
+#link: source P332997 = RIME 4.04.01.03, ex. add10
+#link: source P332998 = RIME 4.04.01.03, ex. add11
+#link: source P382207 = RIME 4.04.01.03, ex. add12
+#link: source P235305 = RIME 4.04.01.03, ex. add13
+#link: source P235714 = RIME 4.04.01.03, ex. add14
+#link: source P247870 = RIME 4.04.01.03, ex. add15
+#link: source P249669 = RIME 4.04.01.03, ex. add16
+#link: source P333861 = RIME 4.04.01.03, ex. add17
+#link: source P387675 = RIME 4.04.01.03, ex. add18
+#link: source P416138 = RIME 4.04.01.03, ex. add27
+#link: source P416139 = RIME 4.04.01.03, ex. add28
+#link: source P416140 = RIME 4.04.01.03, ex. add102
+#link: source P416141 = RIME 4.04.01.03, ex. add103
+#link: source P416129 = RIME 4.04.01.03, ex. add142
+#link: source P416142 = RIME 4.04.01.03, ex. add143
+#link: source P416143 = RIME 4.04.01.03, ex. add104
+#link: source P416485 = CDLJ 2011/n, 88
+#link: source P416493 = Whitman 3
+#link: source P250544 = RIME 4.04.01.03, ex. add154
+#link: source P423349 = RIME 4.04.01.03, ex. add156
+#link: source P423353 = RIME 4.04.01.03, ex. add157
+#link: source P423418 = RIME 4.04.01.03, ex. add161
+#link: source P423730 = RIME 4.04.01.03
+#link: source P424373 = RIME 4.04.01.03, ex. add162
+#link: source P421307 = RIME 4.04.01.03, ex. add339
+#link: source P421308 = RIME 4.04.01.03, ex. add340
+#link: source P421311 = RIME 4.04.01.03, ex. add341
+#link: source P421312 = RIME 4.04.01.03, ex. add342
+#link: source P421313 = RIME 4.04.01.03, ex. add343
+#link: source P421314 = RIME 4.04.01.03, ex. add344
+#link: source P421315 = RIME 4.04.01.03, ex. add345
+#link: source P421316 = RIME 4.04.01.03, ex. add346
+
+
+1.        {d}suen-ka3-szi-id
+#lem: Sinkašid[1]RN
+
+2.        nita kalag-ga
+#lem: nita[male]; kalag[strong]
+
+3.        lugal unug{ki}-ga
+#lem: lugal[king]; Unug[1]SN
+
+4.        lugal am-na-nu-um
+#lem: lugal[king]; Amnanum[1]GN\gen
+
+5.        u2-a e2-an-na
+#lem: ua[provisioner]; Eanak[1]\gen\erg
+
+6.        e2-gal
+#lem: egal[palace]
+
+7.        nam-lugal-la-ka-ni
+#lem: namlugal[kingship]\abs
+
+8.        mu-du3
+#lem: du[build] +.
+
+@translation unitary en project
+@unit 1
+@span 1 - 8
+Sin-kašid, the powerful man, king of Unug, king of Amnanum, provider of the E-ana, built his royal palace.
+
+@translation unitary hun project
+@unit 1
+@span 1 - 8
+Szin-kasid, az erős férfi, Uruk királya, Amnanum királya, az E-ana fenntartója, királyi palotáját felépítette.
+
+&Q002241 = Sin-kašid 4 [E4.4.1.4]
+@composite
+#project: etcsri
+#link: source P273422 = RIME 4.04.01.04, ex. add01
+#link: source P342785 = RIME 4.04.01.04, ex. add02
+#link: source P368392 = RIME 4.04.01.04, ex. add03
+#link: source P384799 = RIME 4.04.01.04, ex. add04
+#link: source P388418 = RIME 4.04.01.04, ex. add05
+#link: source P393094 = RIME 4.04.01.04, ex. add06
+#link: source P387482 = RIME 4.04.01.04, ex. add07
+#link: source P387680 = RIME 4.04.01.04, ex. add08
+#link: source P387681 = RIME 4.04.01.04, ex. add09
+#link: source P250458 = RIME 4.04.01.04, ex. add72
+#link: source P250494 = RIME 4.04.01.04, ex. add73
+#link: source P423419 = RIME 4.04.01.04, ex. add75
+
+
+1.        {d}suen-ka3-szi-id
+#lem: Sinkašid[1]RN
+
+2.        nita kalag-ga
+#lem: nita[male]; kalag[strong]
+
+3.        lugal unug{ki}-ga
+#lem: lugal[king]; Unug[1]SN
+
+4.        lugal am-na-nu-um
+#lem: lugal[king]; Amnanum[1]GN\gen
+
+5.        u2-a e2-an-na
+#lem: ua[provisioner]; Eanak[1]\gen\erg
+
+6.        ud e2-an-na
+#lem: ud[sun]; Eanak[1]TN\abs
+
+7.        mu-du3-a
+#lem: du[build]\l1
+
+8.        e2-gal
+#lem: egal[palace]
+
+9.        nam-lugal-la-ka-ni
+#lem: namlugal[kingship]\abs
+
+10.        mu-du3
+#lem: du[build] +.
+
+@translation unitary en project
+@unit 1
+@span 1 - 10
+When Sin-kašid, the powerful man, king of Unug, king of Amnanum, provider of the E-ana, built the E-ana, then he (also) built his royal palace.
+
+@translation unitary hun project
+@unit 1
+@span 1 - 10
+Amikor Szin-kasid, az erős férfi, Uruk királya, Amnanum királya, az E-ana fenntartója, az E-anát építette, akkor királyi palotáját (is) felépítette.
+
+&Q002242 = Sin-kašid 5 [E4.4.1.5]
+@composite
+#project: etcsri
+
+1.        {d}suen-ka3-szi-id
+#lem: Sinkašid[1]RN
+
+2.        nita kalag-ga
+#lem: nita[male]; kalag[strong]
+
+3.        lugal unug{ki}-ga
+#lem: lugal[king]; Unug[1]SN
+
+4.        lugal am-na-nu-um
+#lem: lugal[king]; Amnanum[1]GN\gen
+
+5.        u2-a e2-an-na
+#lem: ua[provisioner]; Eanak[1]\gen\erg
+
+6.        ud e2-an-na
+#lem: ud[sun]; Eanak[1]TN\abs
+
+7.        mu-du3-a
+#lem: du[build]\l1
+
+8.        e2-gal gibil
+#lem: egal[palace]; gibil[new]
+
+
+9.        e2-ki-tusz-szag4-hul2-la-ka-ni
+#lem: Ekituššaghulak[1]TN\abs
+
+10.        mu-du3
+#lem: du[build] +.
+
+@translation unitary en project
+@unit 1
+@span 1 - 10
+When Sin-kašid, the powerful man, king of Unug, king of Amnanum, provider of the E-ana, built the E-ana, then he (also) built his new palace, the E-kituš-šag-hula.
+
+@translation unitary hun project
+@unit 1
+@span 1 - 10
+Amikor Szin-kasid, az erős férfi, Uruk királya, Amnanum királya, az E-ana fenntartója, az E-anát építette, akkor új palotáját, az E-kitus-sag-hulát (is) felépítette.
+
+&Q002257 = Anam 1 [E4.4.6.1]
+@composite
+#project: etcsri
+#link: source P345489 = CT 36, pl. 05
+#link: source P293562 = YOS 09, 065
+
+1. 	{d}inana
+#lem: Inanak[1]DN
+
+2. 	nin gal e2-an-na
+#lem: nin[lady]; gal[big]; Eanak[1]TN\gen
+
+3. 	nin-a-ni-ir
+#lem: nin[lady]
+
+4.  	an-am3
+#lem: Anam[1]RN
+
+5. 	sipad zid unug{ki}-ga
+#lem: sipad[shepherd]; zid[right]; Unug[1]SN
+
+6.  	sze-ga an {d}inana
+#lem: szeg[agree]; An[1]DN; Inanak[1]DN\gen
+
+7.  	dumu ki aj2
+#lem: dumu[child]; ki[place]\abs; aj[measure]
+
+8. 	{d}inana-ke4
+#lem: Inanak[1]DN
+
+9.  	kisal bar-ra
+#lem: kisal[courtyard]; bar[outside]
+
+10. 	e2-ji6-par3 en-na
+#lem: Eŋipar[2]TN; en[priest]\gen
+
+11. 	ki-tusz szag4 hul2-la-na
+#lem: kitusz[dwelling]; szag[heart]\abs; hul[rejoice]\gen\abs
+
+12.   mu-na-du3
+#lem: du[build]
+
+@translation unitary en project
+@unit 1
+@span 1 - 12
+For Inana, the great lady of the E-ana, his lady, Anam, the true shepherd of Unug, the favourite of An and Inana, the beloved child of Inana, built the outer courtyard of the @en-priest’s E-ĝipar, the dwelling that fills her heart with joy. 
+
+@translation unitary hun project
+@unit 1
+@span 1 - 12
+Inanának, az E-ana nagy úrnőjének, Anam, Uruk hű pásztora, An és Inana kedveltje, Inana szeretett gyermeke, felépítette a külső templomudvarát az @en pap E-giparjának, a lakhelynek, amely (Inana) szívét örömmel tölti el. 
+
+
+
