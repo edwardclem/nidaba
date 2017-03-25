@@ -6,7 +6,7 @@ import re
 from sys import argv
 
 #converting the custom POS tags to the universal tagset
-etcsl_to_universal = {'AJ':'ADJ', 'N':'NOUN', 'V/i':'VERB', 'V/t':'VERB', 'IP':'PRON'}
+etcsl_to_universal = {'AJ':'ADJ', 'N':'NOUN', 'V/i':'VERB', 'V/t':'VERB', 'IP':'PRON', 'NU':'NUM', 'CNJ':'SCONJ', 'MA':'X', 'XP':'PRON', 'DP':'PRON', 'MOD':'PART'}
 
 def parse(args):
     parser = ArgumentParser()
@@ -31,7 +31,7 @@ def process_entry(entry_str):
     #extract information from entries
     entry_dict = {'forms':[]} #initializing form list
     #iterate through lines, add information if neded
-    entry_pattern = r'^@entry\s(?P<name>.*?) \[(?P<english>.*?)\] (?P<pos>\S*?)\s.*?$'
+    entry_pattern = r'^@entry\s*?(?P<name>.*?)\s*?\[(?P<english>.*?)\]\s*?(?P<pos>\S*?)\s*?$'
     bases_pattern = r'^@bases\s(?P<bases>.*?)$' #list of bases
     parts_pattern = r'^@parts\s(?P<parts>.*?)$'
     form_pattern = r'^@form\s+(?P<form>\S*?)\s.*?$' #NOTE: omitting analysis information
@@ -43,8 +43,8 @@ def process_entry(entry_str):
     for line in lines:
         entry_match = re.match(entry_pattern, line)
         if entry_match:
-            entry_dict['name'] = entry_match.group('name')
-            entry_dict['english'] = entry_match.group('english')
+            entry_dict['name'] = entry_match.group('name').strip()
+            entry_dict['english'] = entry_match.group('english').strip()
             entry_dict['pos'] = etcsl_to_universal[entry_match.group('pos').strip()]
         else:
             bases_match = re.match(bases_pattern, line)

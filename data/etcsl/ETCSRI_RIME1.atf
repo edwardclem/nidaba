@@ -1,11 +1,11 @@
-&Q004244 = E-pa-e 1 
+&Q004244 = E-pa-e 1
 @composite
 #project: etcsri
 #link: source P429319 = RIME 1.01.add10.01, ex. 01
 
 1. 	  e2 du3
 #lem: e[house]\abs; du[build]
-     
+
 2.   {d}nin-e2-gal!
 #lem: Ninegalak[1]DN\gen
 
@@ -25,14 +25,14 @@ The temple builder of Ninegala, E-pa-e, king of Adab.
 @span 1 - 4
 Ninegala templom építője, E-pa-e, Adab királya.
 
-&Q004245 = Niĝir-eša-tum 1 
+&Q004245 = Niĝir-eša-tum 1
 @composite
 #project: etcsri
 #link: source P304563 = YOS 01, 03
 
 1. {d}bil3-ga-mesz3
 #lem: Gilgameš[1]DN\dat
-     
+
 2.   nijir-esz3-a#-tum2
 #lem: Niŋirešatum[1]PN\erg
 
@@ -55,13 +55,13 @@ Gilgamesnek ajánlotta fel ezt (a buzogányt) Nigir-esa-tum.
 #link: source P247517 = KM 63.6.001 + IM 058907a
 
 $ broken
-1'. [...] x [...] 
+1'. [...] x [...]
 #lem: u; u; u
 
-2'. ensi2-gal# 
+2'. ensi2-gal#
 #lem: ensikgal[governor]
 
-3'. {d}en-lil2-la2 
+3'. {d}en-lil2-la2
 #lem: Enlil[1]DN\abs +.
 
 @translation unitary en project
@@ -155,10 +155,10 @@ Gan-subur, Me-kikugta, Ursag-Utu, Inim-Utu-zid, ..., ..., ..., Nin-izuzu a gyerm
 #project: etcsri
 #link: source P234784 = ERM 14396
 
-1. nij2-u2-rum 
+1. nij2-u2-rum
 #lem: nijurum[property]
 
-2. {d}lama 
+2. {d}lama
 #lem: Lama[1]DN\gen\abs +.
 
 @translation unitary en project
@@ -183,7 +183,7 @@ $ broken
 
 2'. [{d}]szul#-szag4-ga-na-ka
 #lem: Šulšaganak[1]DN
- 
+
 3'. jiszkim-til3
 #lem: ŋiškimti[trust]
 
@@ -238,7 +238,7 @@ $ broken
 5.    nam-til3-la-ni-sze3
 #lem: namtil[life]
 
-6.    a mu-na-ru 
+6.    a mu-na-ru
 #lem: a[water]\abs; ru[cvve] +.
 
 @translation unitary en project
@@ -249,32 +249,32 @@ To Šul-šagana, her personal god, Geme-Bau, @erešdiĝir priestess of Bau, dedi
 @translation unitary hun project
 @unit 1
 @span 1 - 6
-Sul-saganának, védőistenének, Geme-Bau, Bau @eresdigir papnője, az életéért ajánlotta fel ezt. 
+Sul-saganának, védőistenének, Geme-Bau, Bau @eresdigir papnője, az életéért ajánlotta fel ezt.
 
 &Q004250 = Arad-Dumuzida 1
 @composite
 #project: etcsri
 #link: source P235668 = CMAA conical bowl
 
-1.     {d}inana 
+1.     {d}inana
 #lem: Inanak[1]DN
 
-2.    nin e2-an-na-ra 
+2.    nin e2-an-na-ra
 #lem: nin[lady]; Eanak[1]TN
 
-3.    nin-ni 
+3.    nin-ni
 #lem: nin[lady]\dat
 
-4.    arad2-{d}dumu-zid 
+4.    arad2-{d}dumu-zid
 #lem: Araddumuzida[1]PN
 
-5.    sajja! {d}inana 
+5.    sajja! {d}inana
 #lem: saŋŋa[official]; Inanak[1]DN\gen\erg
 
 6.    nam-til3-la-ni-sze3
 #lem: namtil[life]
 
-7.    a mu-ru 
+7.    a mu-ru
 #lem: a[water]\abs; ru[cvve]\dat +.
 
 @translation unitary en project
@@ -285,7 +285,7 @@ To Inana, lady of the E-ana, his lady, Arad-Dumuzida, temple administrator of In
 @translation unitary hun project
 @unit 1
 @span 1 - 7
-Inanának, az E-ana úrnőjének, úrnőjének, Arad-Dumuzida, Inana templomgazdaságának vezetője, az életéért ajánlotta fel ezt a (tálat). 
+Inanának, az E-ana úrnőjének, úrnőjének, Arad-Dumuzida, Inana templomgazdaságának vezetője, az életéért ajánlotta fel ezt a (tálat).
 
 &Q004106 = Barag-sagnudi 1
 @composite
@@ -479,7 +479,7 @@ E-kiri, Luma, ....
 #link: source P222699 = RIME 1.01.05.02, ex. 01
 
 $ broken
- 
+
 1'.	lum-ma
 #lem: Luma[2]RN
 
@@ -619,7 +619,7 @@ Ur-Ninkilima, a felügyelő.
 @translation unitary en project
 @unit 1
 @span 1 - 3
-Tun-ak, ruler of .... 
+Tun-ak, ruler of ....
 
 @translation unitary hun project
 @unit 1
@@ -1761,7 +1761,7 @@ Gula, gyermek.
 2.	lagasz
 #lem: Lagaš[1]\gen\erg
 
-3.	eb#-gal# 
+3.	eb#-gal#
 #lem: Ebgal[1]TN\abs
 
 4.	mu-du3
@@ -1827,7 +1827,7 @@ $ illegible
 5.	[lagasz]
 #lem: Lagaš[1]\gen\erg
 
-6.	eb#-[gal] 
+6.	eb#-[gal]
 #lem: Ebgal[1]TN\abs
 
 7.	[mu]-du3#
@@ -1837,13 +1837,13 @@ $ illegible
 $ broken
 
 1'. ma2 dilmun
-#lem: ma[ship]; Dilmun[1]GN 
+#lem: ma[ship]; Dilmun[1]GN
 
 @m column 3
 1. 	[kur-ta]
 #lem: kur[mountain]\abs
 
-2.    [gu2 jesz] 
+2.    [gu2 jesz]
 #lem: gu[neck]\l2; jesz[tree]\abs
 
 3.    [mu-jal2]
@@ -1942,7 +1942,7 @@ Kindazid (szobrát) megformálta.
 
 &Q001050 = Ur-Nanše 6b [E1.9.1.6b]
 @composite
-#project: etcsri 
+#project: etcsri
 #link: source P222390 = FAOS 05/1, Urn 51
 
 @m column 1
@@ -1981,7 +1981,7 @@ Kindazid (szobrát) megformálta.
 1.	e2 mu
 #lem: e[house]; mu[name]
 
-2.	ba-gara2 
+2.	ba-gara2
 #lem: Bagara[1]TN
 
 3. 	nam2-si-sa2 szum2-ma
@@ -2042,7 +2042,7 @@ Kindazid (szobrát) megformálta.
 @m column 5
 1.	e2 {d}nin-mar-ki
 #lem: e[house]; Ninmarkik[1]DN\gen\abs
- 
+
 2.	mu-du3
 #lem: du[build] +.
 
@@ -2288,7 +2288,7 @@ He fashioned (the statue of) Ninmarki. He fashioned (the statue of) Nineš-REC10
 
 @unit 5
 @span r i 1 - r i 5
-The leader of Lagaš went into battle against the leader of Urim and the leader of Umma. 
+The leader of Lagaš went into battle against the leader of Urim and the leader of Umma.
 
 @unit 6
 @span r i 6 - r iii 10
@@ -2560,7 +2560,7 @@ He is a man, who submits to the orders of Nanše.
 @translation unitary hun project
 @unit 1
 @span i 1 - ii 2
-Ur-Nanse, Lagas királya, Gunidunak, Gursar szülöttének gyermeke, Girszu szentélyét felépítette. 
+Ur-Nanse, Lagas királya, Gunidunak, Gursar szülöttének gyermeke, Girszu szentélyét felépítette.
 
 @unit 2
 @span ii 3 - iii 6
@@ -2703,7 +2703,7 @@ He built the Kame.
 @translation unitary hun project
 @unit 1
 @span i 1 - ii 3
-Ur-Nanse, Lagas királya, Gunidunak, Gursar szülöttének gyermeke, Girszu szentélyét felépítette. 
+Ur-Nanse, Lagas királya, Gunidunak, Gursar szülöttének gyermeke, Girszu szentélyét felépítette.
 
 @unit 2
 @span ii 4 - ii 5
@@ -2924,7 +2924,7 @@ He built the Tiraš.
 @translation unitary hun project
 @unit 1
 @span i 1 - ii 1
-Ur-Nanse, Lagas királya, Gunidunak, Gursar szülöttének gyermeke, Nanse templomát felépítette. 
+Ur-Nanse, Lagas királya, Gunidunak, Gursar szülöttének gyermeke, Nanse templomát felépítette.
 
 @unit 2
 @span ii 2 - ii 3
@@ -3731,7 +3731,7 @@ He fashioned (the statue of) Nanše.
 @span ii 3 - ii 7
 He dug the ... canal, and ... water into the ... canal for Nanše.
 
-@unit 4 
+@unit 4
 @span iii 1 - iii 2
 He fashioned (the statue of) Ešir.
 
@@ -3753,12 +3753,12 @@ He built the E-ĝidru.
 
 @unit 9
 @span iv 5 - iv 6
-He built the city wall of Lagaš. 
- 
+He built the city wall of Lagaš.
+
 @unit 10
 @span v 1 - v 2
 He fashioned (the statue of) Lugal-Uruba.
- 
+
 @unit 11
 @span v 3 - v 5
 He established control of the Dilmun-boats (coming) from the foreign countries.
@@ -3776,7 +3776,7 @@ Nanse (szobrát) megformálta.
 @span ii 3 - ii 7
 A ... csatornát kiásta, vizet ... a ... csatornába Nansénak.
 
-@unit 4 
+@unit 4
 @span iii 1 - iii 2
 Esir (szobrát) megformálta.
 
@@ -3803,7 +3803,7 @@ Lagas városfalát megépítette.
 @unit 10
 @span v 1 - v 2
 Lugal-Uruba (szobrát) megformálta.
- 
+
 @unit 11
 @span v 3 - v 5
 Az idegen országokból (jövő) Dilmun-hajók felett ellenőrzést szerzett.
@@ -4154,31 +4154,31 @@ He built the Šeše-ĝara.
 He built the Tiraš.
 
 @unit 10
-@span iii 3 - iii 4 
+@span iii 3 - iii 4
 He built the temple of Ĝatumdug.
 
 @unit 11
-@span iii 5 - iii 6 
+@span iii 5 - iii 6
 He built the Abzu-ega.
 
 @unit 12
-@span iii 7 - iii 10 
+@span iii 7 - iii 10
 When he built temple of Ninĝirsu, he provided the temple with 70 @guru of barley.
 
 @unit 13
-@span iv 1 - iv 3 
+@span iv 1 - iv 3
 He established control of the Dilmun-boats (coming) from the foreign countries.
 
 @unit 14
 @span iv 4 - iv 5
-He built the city wall of Lagaš. 
+He built the city wall of Lagaš.
 
 @unit 15
-@span iv 6 - iv 7 
-He built the Abzu-banda. 
+@span iv 6 - iv 7
+He built the Abzu-banda.
 
 @unit 16
-@span v 1 - v 2 
+@span v 1 - v 2
 He fashioned (the statue of) Nanše, the mighty lady. He dug the ... canal, and ... water into the ... canal for her.
 
 @translation unitary hun project
@@ -4219,7 +4219,7 @@ A Sese-garát felépítette.
 A Tirast felépítette.
 
 @unit 10
-@span iii 3 - iii 4 
+@span iii 3 - iii 4
 Gatumdug templomát felépítette.
 
 @unit 11
@@ -4227,7 +4227,7 @@ Gatumdug templomát felépítette.
 Az Abzu-egát felépítette.
 
 @unit 12
-@span iii 7 - iii 10 
+@span iii 7 - iii 10
 Amikor Ningirszu templomát felépítette, a templomot 70 @guru gabonával látta el.
 
 @unit 13
@@ -4235,15 +4235,15 @@ Amikor Ningirszu templomát felépítette, a templomot 70 @guru gabonával látt
 Az idegen országokból (jövő) Dilmun-hajók felett ellenőrzést szerzett.
 
 @unit 14
-@span iv 4 - iv 5 
+@span iv 4 - iv 5
 Lagas városfalát megépítette.
 
 @unit 15
-@span iv 6 - iv 7 
+@span iv 6 - iv 7
 Az Abzu-bandát felépítette.
 
 @unit 16
-@span v 1 - v 2 
+@span v 1 - v 2
 Nanse, a hatalmas úrnő (szobrát) megformálta. A ... csatornát kiásta, vizet ... a ... csatornába neki.
 
 
@@ -4752,7 +4752,7 @@ Az idegen országokból (jövő) Dilmun-hajók felett ellenőrzést szerzett.
 #lem: lugal[king]
 
 4.	lagasz
-#lem: Lagaš[1]\gen 
+#lem: Lagaš[1]\gen
 
 5.	dumu gu!-|NI.DU|
 #lem: dumu[child]; Gu-NI.DU[1]PN\gen\erg
@@ -4879,7 +4879,7 @@ Ur-Nanse, Lagas királya, Gunidu gyermeke, az E-tarát felépítette.
 #lem: lugal[king]
 
 3.	lagasz
-#lem: Lagaš[1]\gen 
+#lem: Lagaš[1]\gen
 
 4.	dumu gu!-|NI.DU|
 #lem: dumu[child]; Gu-NI.DU[1]PN\gen\erg
@@ -5208,7 +5208,7 @@ $ about 15 lines broken
 
 @m column 4
 1.	gu2#-eden#-na-ka#
-#lem: Guedenak[1]GN\l1 
+#lem: Guedenak[1]GN\l1
 
 2.	lagasz#{ki}
 #lem: Lagaš[1]SN
@@ -5346,7 +5346,7 @@ $ 1 line missing
 
 20.	e2-an-na-tum2
 #lem: Eanatum[1]RN
- 
+
 21.	a2!(DA)-tuku-e
 #lem: atuku[powerful]
 
@@ -5893,7 +5893,7 @@ $ about 7 lines missing
 
 @m column 17
 
-$ about 4 lines missing 
+$ about 4 lines missing
 
 5.	[szu e-ma-ne2-ba]
 #lem: šu[hand]\abs; bad[open] +.
@@ -6306,7 +6306,7 @@ $ 5 lines missing
 #lem: eg[levee]\abs; X; dug[speak] +.
 
 16.	da-ri2 da gal-la-sze3
-#lem: dari[eternal]; dag[line]; gal[big] 
+#lem: dari[eternal]; dag[line]; gal[big]
 
 17.	ki-sur-ra
 #lem: kisura[border]
@@ -6370,7 +6370,7 @@ $ 5 lines missing
 #lem: eren[cedar]\abs; saj[head]\n5al2; du[spread]
 
 17.	min-nam urim5{ki}-sze3
-#lem: min[two]; Urim[1]SN 
+#lem: min[two]; Urim[1]SN
 #check min sign
 
 @m column 22
@@ -6660,7 +6660,7 @@ $ broken
 #lem: ensik[ruler]\abs
 
 7'.	saj-ba mu-du
-#lem: saj[head]\l1; jen[walk]\l2 
+#lem: saj[head]\l1; jen[walk]\l2
 
 @m reverse
 @m column 8
@@ -6821,7 +6821,7 @@ Because of ..., the leader of Umma acted belligerently against it and defied Lag
 
 @unit 4
 @span o iii 23 - o iv 8
-The ... lion of  Ĝirnun's innermost part, Ninĝirsu, let his voice out ...: "Umma ... my forage, my own property in the field of Gu-edena ... Lagaš .... Ninĝirsu, Enlil's warrior ....". 
+The ... lion of  Ĝirnun's innermost part, Ninĝirsu, let his voice out ...: "Umma ... my forage, my own property in the field of Gu-edena ... Lagaš .... Ninĝirsu, Enlil's warrior ....".
 
 @unit 5
 @span o iv 9 - o v 17
@@ -6877,7 +6877,7 @@ He defeated Urim.
 
 @unit 18
 @span r x 20 - r x 22
-...,  who returned ..., the Gu-edena, under (Ninĝirsu's) control, E-ana-tum, 
+...,  who returned ..., the Gu-edena, under (Ninĝirsu's) control, E-ana-tum,
 
 @unit 19
 @span r xi 20 - r xi 22
@@ -6894,7 +6894,7 @@ The stela’s name is not one (given by) a man; its name sounds: “Ninĝirsu, t
 @unit 22
 @span Cartousche A, 1 - Cartousche A, 3
 E-ana-tum, who makes the foreign lands submit to Ninĝirsu.
- 
+
 @unit 23
 @span Cartousche B, 1 - Cartousche B, 3
 E-ana-tum, who makes the foreign lands submit to Ninĝirsu.
@@ -6971,7 +6971,7 @@ Urt legyőzte.
 
 @unit 18
 @span r x 20 - r x 22
-...,  aki, ..., a Guedenát, újra (Ningirszu) fennhatósága alá helyezte, E-ana-tum, .... 
+...,  aki, ..., a Guedenát, újra (Ningirszu) fennhatósága alá helyezte, E-ana-tum, ....
 
 @unit 19
 @span r xi 20 - r xi 22
@@ -7023,7 +7023,7 @@ $ several lines missing
 #lem: bur[tear] +.
 
 4'.	eden lagasz{ki}-sze3
-#lem: eden[plain]; Lagaš[1]SN\gen\term 
+#lem: eden[plain]; Lagaš[1]SN\gen\term
 
 5'.	mu-kurx(DU)
 #lem: kur[enter] +.
@@ -7083,7 +7083,7 @@ $  broken
 #lem: mu[name]\term; sze[call] +.
 
 18.	[lu2?] umma#{ki}
-#lem: lu[person]; Umma[1]\gen\abs 
+#lem: lu[person]; Umma[1]\gen\abs
 
 19.	[{a-szag4}]aszag tum2#-sze3
 #lem: ašag[field]\abs; de[bring]
@@ -7144,7 +7144,7 @@ Enlil ... Ninĝirsu and Šara .... Having torn the stele out, the leader of Umma
 
 @unit 2
 @span ii 18 - iii 16
-If the leader of Umma crosses the (border) canal in order to take away fields, may Ningirsu be (like a) dragon to him, and may Enlil make salt surface in his furrows! May ... not grant hime life, and he himself ...! May ... not grant him life! May he be killed in his own city! 
+If the leader of Umma crosses the (border) canal in order to take away fields, may Ningirsu be (like a) dragon to him, and may Enlil make salt surface in his furrows! May ... not grant hime life, and he himself ...! May ... not grant him life! May he be killed in his own city!
 
 @translation unitary hun project
 @unit 1
@@ -7248,7 +7248,7 @@ $ about 5 lines broken
 13.	 x# arad2
 #lem: u; arad[slave]
 
-14.	[...] x# 
+14.	[...] x#
 #lem: u; u
 
 $ about 4 lines broken
@@ -7374,7 +7374,7 @@ Ningirszunak, Enlil harcosának, E-ana-tum, Lagas uralkodója, Nanse, a hatalmas
 #lem: Ŋirsu[1]SN\abs
 
 6.	[ki]-be2 mu-na#-gi
-#lem: ki[place]\n5el3; gi[turn] +. 
+#lem: ki[place]\n5el3; gi[turn] +.
 
 7.	bad3 iri-kug-ga
 #lem: bad[wall]; Irikug[1]SN\abs
@@ -7404,7 +7404,7 @@ Ningirszunak, Enlil harcosának, E-ana-tum, Lagas uralkodója, Nanse, a hatalmas
 #lem: SAHAR.DU₆.TAK₄[burial mound]\abs
 
 16.	mu-dub
-#lem: dub[heap] +. 
+#lem: dub[heap] +.
 
 17.	szu-nir |URUxA|{ki!}-ka
 #lem: šunir[emblem]; Arawa[1]SN\gen\l1
@@ -7413,7 +7413,7 @@ Ningirszunak, Enlil harcosának, E-ana-tum, Lagas uralkodója, Nanse, a hatalmas
 #lem: ensik[ruler]\abs
 
 19.	saj-ba mu-du
-#lem: saj[head]\l1; jen[walk]\l2 
+#lem: saj[head]\l1; jen[walk]\l2
 
 20.	aga3-kar2!(SZE3) be2-seg10
 #lem: agakar[conqueror]\abs; sig[put]\v10l2 +.
@@ -7422,7 +7422,7 @@ Ningirszunak, Enlil harcosának, E-ana-tum, Lagas uralkodója, Nanse, a hatalmas
 #lem: SAHAR.DU₆.TAK₄[burial mound]\abs
 
 22.	mu-dub
-#lem: dub[heap] +. 
+#lem: dub[heap] +.
 
 23.	umma{ki}
 #lem: Umma[1]SN\l2
@@ -7477,19 +7477,19 @@ Ningirszunak, Enlil harcosának, E-ana-tum, Lagas uralkodója, Nanse, a hatalmas
 #lem: ensik[ruler]\abs
 
 15.	mu-usz2
-#lem: usz[die//kill] +. 
+#lem: usz[die//kill] +.
 
 16.	mi-szi-me{ki}
 #lem: Mišime[1]GN\abs
 
 17.	mu-hul
-#lem: hulu[bad//plunder] +. 
+#lem: hulu[bad//plunder] +.
 
 18.	a-ru2-a{ki}
 #lem: Arua[1]SN\abs
 
 19.	mu-ha-lam
-#lem: halam[destroy] +. 
+#lem: halam[destroy] +.
 
 20.	e2-an-na-tum2
 #lem: Eanatum[1]RN
@@ -7541,7 +7541,7 @@ Ningirszunak, Enlil harcosának, E-ana-tum, Lagas uralkodója, Nanse, a hatalmas
 #lem: gaz[kill//repel] +.
 
 8.	mu-ha-lam
-#lem: halam[destroy] +. 
+#lem: halam[destroy] +.
 
 9.	ud-ba
 #lem: ud[day]
@@ -7568,13 +7568,13 @@ Ningirszunak, Enlil harcosának, E-ana-tum, Lagas uralkodója, Nanse, a hatalmas
 #lem: id[river]; gibil[new]\abs
 
 17.	mu-na-dun
-#lem: dun[dig] +. 
+#lem: dun[dig] +.
 
 18.	lum-ma-gin7-dug3
 #lem:  Lumagindug[1]WN
 
 19.	mu mu-na#-sze21#
-#lem: mu[name]\term; sze[call] +. 
+#lem: mu[name]\term; sze[call] +.
 
 20.	e2-an-na-tum2
 #lem: Eanatum[1]RN
@@ -7611,7 +7611,7 @@ Ningirszunak, Enlil harcosának, E-ana-tum, Lagas uralkodója, Nanse, a hatalmas
 #lem: namlugal[kingship]; Kiš[1]SN\gen\abs
 
 5.	mu-na-ta-szum2
-#lem: szum[give] +. 
+#lem: szum[give] +.
 
 6.	e2-an-na-tum2-da
 #lem: Eanatum[1]RN
@@ -7629,7 +7629,7 @@ Ningirszunak, Enlil harcosának, E-ana-tum, Lagas uralkodója, Nanse, a hatalmas
 #lem: lugal[king]; Akšak[1]SN\gen\abs
 
 11.	kur-ra-na# bi-gi4
-#lem: kur[land]\n5al2; gi[turn]\v10l2 +. 
+#lem: kur[land]\n5al2; gi[turn]\v10l2 +.
 
 12.	e2-an-na-tum2
 #lem: Eanatum[1]RN
@@ -7681,10 +7681,10 @@ Ningirszunak, Enlil harcosának, E-ana-tum, Lagas uralkodója, Nanse, a hatalmas
 #lem: Lumagindug[1]WN\abs
 
 5.	mu-na-us2
-#lem: us[follow] +. 
+#lem: us[follow] +.
 
 6.	saj-sze3 mu-ni-rig8
-#lem: saj[head]; rig[donate]\v10l3 +. 
+#lem: saj[head]; rig[donate]\v10l3 +.
 
 7.	e2-an-na-tum2
 #lem: Eanatum[1]RN
@@ -7726,7 +7726,7 @@ Ningirszunak, Enlil harcosának, E-ana-tum, Lagas uralkodója, Nanse, a hatalmas
 #lem: e[house]; gal[big]; Tiraš[1]TN\gen\abs
 
 20.	mu-na-du3
-#lem: du[build] +. 
+#lem: du[build] +.
 
 @m column 8
 1.	dumu aya2-kur-gal
@@ -7752,20 +7752,20 @@ Ningirszunak, Enlil harcosának, E-ana-tum, Lagas uralkodója, Nanse, a hatalmas
 
 @translation unitary en project
 @unit 1
-@span i 1 
+@span i 1
 For Ninĝirsu.
 
 @unit 2
-@span i 2 - iii 11 
+@span i 2 - iii 11
 E-ana-tum, ruler of Lagaš, whose name was proclaimed by Enlil, given strength by Ninĝirsu, chosen by Nanše in the heart, nourished on rich milk by Ninhursaĝa, called by a propitious name by Inana, given wisdom by Enki, beloved of Dumuzid-Abzu, supported by Hendursaĝ, beloved friend of Lugal-Uruba, child of Aya-kurgal, ruler of Lagaš, restored Ĝirsu for Ninĝirsu. He built the city-wall of Irikug. He built Niĝin for Nanše.
 
 @unit 3
 @span iii 12 - iii 16
-E-ana-tum defeated Elam, the marvelous mountain range and piled up a burial mound for it. 
+E-ana-tum defeated Elam, the marvelous mountain range and piled up a burial mound for it.
 
 @unit 4
 @span iii 17 - iii 22
-He defeated Arawa, whose ruler marched with its standard in the vanguard and piled up a burial mound for it. 
+He defeated Arawa, whose ruler marched with its standard in the vanguard and piled up a burial mound for it.
 
 @unit 5
 @span iii 23 - iv 1
@@ -7777,15 +7777,15 @@ He restored his beloved field of Gu-edena to Ninĝirsu’s control.
 
 @unit 7
 @span iv 6 - iv 7
-He defeated Unug. 
+He defeated Unug.
 
 @unit 8
 @span iv 8 - iv 9
-He defeated Urim. 
+He defeated Urim.
 
 @unit 9
 @span iv 10 - iv 11
-He defeated Ki-Utu. 
+He defeated Ki-Utu.
 
 @unit 10
 @span iv 12 - iv 15
@@ -7797,7 +7797,7 @@ He conquered Mišime.
 
 @unit 12
 @span iv 18 - iv 19
-He destroyed Arua. 
+He destroyed Arua.
 
 @unit 13
 @span iv 20 - iv 24
@@ -7805,7 +7805,7 @@ All lands trembled before E-ana-tum, whose name was proclaimed by Ninĝirsu.
 
 @unit 14
 @span iv 25 - v 8
-In the year when the king of Akšak rebelled, E-ana-tum, whose name was proclaimed by Ninĝirsu, repelled Zuzu, king of Akšak, from the Antasura of Ninĝirsu until Akšak and destroyed (his city). 
+In the year when the king of Akšak rebelled, E-ana-tum, whose name was proclaimed by Ninĝirsu, repelled Zuzu, king of Akšak, from the Antasura of Ninĝirsu until Akšak and destroyed (his city).
 
 @unit 15
 @span v 9 - v 19
@@ -7825,23 +7825,23 @@ Kiš trembled before E-ana-tum and he made the king of Akšak return into his la
 
 @unit 19
 @span vi 12 - vi 20
-E-ana-tum, ruler of Lagaš, who makes the foreign lands submit to Ninĝirsu, defeated Elam, Subartu and Arawa at the A-suhur canal.  
+E-ana-tum, ruler of Lagaš, who makes the foreign lands submit to Ninĝirsu, defeated Elam, Subartu and Arawa at the A-suhur canal.
 
 @unit 20
-@span vi 21 - vii 13 
+@span vi 21 - vii 13
 He defeated Kiš, Akšak and Mari at the Antasura of Ninĝirsu. He had the Lumagin-dug canal reach (the Antasura) for Ninĝirsu, and presented him with it. E-ana-tum, given strenght by Ninĝirsu, built a weir on the Lumagin-dug canal with the use of 3600 @gur of 2 @ul of bitumen.
 
 @unit 21
-@span vii 14 - vii 20 
+@span vii 14 - vii 20
 E-ana-tum, who submits to the orders of Ninĝirsu, and whose personal god is Šul-MUŠxPA, built the great temple of Tiraš for (Ninĝirsu).
 
 @unit 22
-@span viii 1 - viii 7 
-He is the child of Aya-kurgal, ruler of Lagaš; his grandfather is Ur-Nanše, ruler of Lagaš. 
+@span viii 1 - viii 7
+He is the child of Aya-kurgal, ruler of Lagaš; his grandfather is Ur-Nanše, ruler of Lagaš.
 
 @translation unitary hun project
 @unit 1
-@span i 1 
+@span i 1
 Ningirszunak.
 
 @unit 2
@@ -7874,7 +7874,7 @@ Legyőzte Urt.
 
 @unit 9
 @span iv 10 - iv 11
-Legyőzte Ki-Utut. 
+Legyőzte Ki-Utut.
 
 @unit 10
 @span iv 12 - iv 15
@@ -7914,10 +7914,10 @@ Kis rettegett E-ana-tumtól, és ő visszatérésre kényszerítette Aksak kirá
 
 @unit 19
 @span vi 12 - vi 20
-E-ana-tum, aki meghódoltatja az idegen országokat Ningirszu előtt, legyőzte Elámot, Szubartut és Arawát az A-szuhur csatornánál.   
+E-ana-tum, aki meghódoltatja az idegen országokat Ningirszu előtt, legyőzte Elámot, Szubartut és Arawát az A-szuhur csatornánál.
 
 @unit 20
-@span vi 21 - vii 13 
+@span vi 21 - vii 13
 Legyőzte Kist, Aksakot és Márit Ningirszu Antaszurájánál. A Lumagin-dug csatornát (az Antaszuráig vezette) Ningirszu kedvéért és neki ajándékozta azt. E-ana-tum, akinek erőt Ningirszu adott, gátat emelt a Lumagin-dug csatornán 3600 két @ul-os @gur bitumen felhasználásával.
 
 @unit 21
@@ -7926,7 +7926,7 @@ E-ana-tum, aki aláveti magát Ningirszu parancsainak, és akinek Sul-MUŠxPA a 
 felépítette Tiras nagy templomát (Ningirszunak).
 
 @unit 22
-@span viii 1 - viii 7 
+@span viii 1 - viii 7
 Ő Aya-kurgalnak, Lagas uralkodójának gyermeke; az ő nagyapja Ur-Nanse, Lagas uralkodója.
 
 &Q001058 = E-ana-tum 6 [E1.9.3.6]
@@ -8042,7 +8042,7 @@ felépítette Tiras nagy templomát (Ningirszunak).
 9.	nijin6{ki}
 #lem: Niŋin[1]SN\abs
 
-10.	mu-na-du3!(KI)  
+10.	mu-na-du3!(KI)
 #lem: du[build] +.
 
 11.	e2-an-na-tum2-e
@@ -8058,7 +8058,7 @@ felépítette Tiras nagy templomát (Ningirszunak).
 #lem: SAHAR.DU₆.TAK₄[burial mound]\abs
 
 15.	mu-dub
-#lem: dub[heap] +. 
+#lem: dub[heap] +.
 
 16.	szu-nir |URUxA|{ki}-ka
 #lem: šunir[emblem]; Arawa[1]SN\gen\l1
@@ -8077,7 +8077,7 @@ felépítette Tiras nagy templomát (Ningirszunak).
 
 @m column 4
 1.	mu-dub
-#lem: dub[heap] +. 
+#lem: dub[heap] +.
 
 2.	umma{ki}
 #lem: Umma[1]SN\l2
@@ -8089,7 +8089,7 @@ felépítette Tiras nagy templomát (Ningirszunak).
 #lem: SAHAR.DU₆.TAK₄[burial mound]\abs; nisz[twenty]\cop
 
 5.	mu-dub
-#lem: dub[heap] +. 
+#lem: dub[heap] +.
 
 6.	{d}nin-jir2-su2!-ra
 #lem: Ninŋirsuk[1]DN\n5ral2
@@ -8144,7 +8144,7 @@ felépítette Tiras nagy templomát (Ningirszunak).
 #lem: Arua[1]SN\abs
 
 4.	mu-ha-lam
-#lem: halam[destroy] +. 
+#lem: halam[destroy] +.
 
 5.	e2-an-na-tum2
 #lem: Eanatum[1]RN
@@ -8239,7 +8239,7 @@ $ several lines missing
 @translation unitary en project
 @unit 1
 @span i 1 - i 5
-For Nanše, E-ana-tum built the city-wall of Lagaš and had it manned. 
+For Nanše, E-ana-tum built the city-wall of Lagaš and had it manned.
 
 @unit 2
 @span i 6 - iii 10
@@ -8251,11 +8251,11 @@ E-ana-tum defeated Elam, the marvelous mountain range and piled up a burial moun
 
 @unit 4
 @span iii 16 - iv 1
-He defeated Arawa, whose ruler marched with its standard in the vanguard and piled up a burial mound for it. 
+He defeated Arawa, whose ruler marched with its standard in the vanguard and piled up a burial mound for it.
 
 @unit 5
 @span iv 2 - iv 9
-He defeated Umma, and piled up 20 burial mounds for it. He returned Ninĝirsu's beloved field, the Gu-edena, under his control. 
+He defeated Umma, and piled up 20 burial mounds for it. He returned Ninĝirsu's beloved field, the Gu-edena, under his control.
 
 @unit 6
 @span iv 10 - iv 11
@@ -8279,7 +8279,7 @@ He conquered Mišime.
 
 @unit 11
 @span v 3 - v 4
-He destroyed Arua. 
+He destroyed Arua.
 
 @unit 12
 @span v 5 - v 9
@@ -8287,7 +8287,7 @@ All lands trembled before E-ana-tum, whose name was proclaimed by Ninĝirsu.
 
 @unit 13
 @span v 10 - vi 5
-In the year when the king of Akšak rebelled, E-ana-tum, whose name was proclaimed by Ninĝirsu, repelled him from the Antasura of Ninĝirsu until Akšak and destroyed (his city). 
+In the year when the king of Akšak rebelled, E-ana-tum, whose name was proclaimed by Ninĝirsu, repelled him from the Antasura of Ninĝirsu until Akšak and destroyed (his city).
 
 @unit 14
 @span vi 6 - vi 10
@@ -8299,16 +8299,16 @@ The personal god of E-ana-tum, who ... of Ninĝirsu, is Šul-MUŠxPA.
 
 @unit 16
 @span vii 5 - vii 8
-E-ana-tum, ruler of Lagaš, child of Aya-kurgal, .... 
+E-ana-tum, ruler of Lagaš, child of Aya-kurgal, ....
 
 @translation unitary hun project
 @unit 1
 @span i 1 - i 5
-Nansénak E-ana-tum Lagas városfalát felépítette és személyzetet rendelt hozzá. 
+Nansénak E-ana-tum Lagas városfalát felépítette és személyzetet rendelt hozzá.
 
 @unit 2
 @span i 6 - iii 10
-E-ana-tum, Lagas uralkodója, akinek a nevét Enlil hirdette ki, akinek erőt Ningirszu adott, Nanse kiválasztottja, akit Ninhurszaga etetett tápláló tejjel, aki szerencsét hozó nevét Inanától kapta, akinek bölcsességet Enki adott, Dumuzid-Abzu kedveltje, Hendurszag támogatottja, Aya-kurgal, Lagas uralkodójának gyermeke, Ningirszunak Girszut helyreállította. Felépítette Irikug városfalát. Nansénak felépítette Nigint. 
+E-ana-tum, Lagas uralkodója, akinek a nevét Enlil hirdette ki, akinek erőt Ningirszu adott, Nanse kiválasztottja, akit Ninhurszaga etetett tápláló tejjel, aki szerencsét hozó nevét Inanától kapta, akinek bölcsességet Enki adott, Dumuzid-Abzu kedveltje, Hendurszag támogatottja, Aya-kurgal, Lagas uralkodójának gyermeke, Ningirszunak Girszut helyreállította. Felépítette Irikug városfalát. Nansénak felépítette Nigint.
 
 @unit 3
 @span iii 11 - iii 15
@@ -8320,7 +8320,7 @@ Arawát, mely város uralkodója a (város) jelvényével az élen vonult, legy�
 
 @unit 5
 @span iv 2 - iv 9
-Ummát legyőzte és 20 sírdombot emelt neki. Ningirszu szeretett földjét, a Guedenát, újra fennhatósága alá helyezte. 
+Ummát legyőzte és 20 sírdombot emelt neki. Ningirszu szeretett földjét, a Guedenát, újra fennhatósága alá helyezte.
 
 @unit 6
 @span iv 10 - iv 11
@@ -8364,7 +8364,7 @@ E-ana-tumnak, aki ... Ningirszu ..., Sul-MUŠxPA a védőistene.
 
 @unit 16
 @span vii 5 - vii 8
-E-ana-tum, Lagas uralkodója, Aya-kurgal gyermeke, .... 
+E-ana-tum, Lagas uralkodója, Aya-kurgal gyermeke, ....
 
 &Q001059 = E-ana-tum 7a [E.1.9.3.7a]
 @composite
@@ -8378,7 +8378,7 @@ E-ana-tum, Lagas uralkodója, Aya-kurgal gyermeke, ....
 2.    [e2-an-na]-tum2#
 #lem: Eanatum[1]RN
 
-3.    ensi2	
+3.    ensi2
 #lem: ensik[ruler]
 
 4.	lagasz#{ki#}-ke4
@@ -8461,20 +8461,20 @@ E-ana-tumnak, aki aláveti magát Ningirszu parancsainak, Ningirszu hatalma foly
 
 $ broken
 
-1'. e2# ti#-ra-asz2[{ki}] 
+1'. e2# ti#-ra-asz2[{ki}]
 #lem: e[house]; Tiraš[1]TN\gen\abs
 
 2'. mu#-[na-du3]
 #lem: du[build]
 
-$ broken 
+$ broken
 
 @translation unitary en project
 @unit 1
 @span 1' - 2'
 ..., he built the temple of Tiras for him. ...
 
- 
+
 @translation unitary hun project
 @unit 1
 @span 1' - 2'
@@ -8483,7 +8483,7 @@ $ broken
 
 &Q001062 = E-ana-tum 8 [E1.9.3.8]
 @composite
-#project: etcsri 
+#project: etcsri
 #link: source P222411 = FAOS 05/1, Ean 11, A
 #link: source P222412 = FAOS 05/1, Ean 11, B
 #link: source P222413 = FAOS 05/1, Ean 11, C
@@ -8711,7 +8711,7 @@ E-ana-tum, Lagas uralkodója, akinek a nevét Enlil hirdette ki, akinek erőt Ni
 
 @unit 2
 @span iii 5 - iii 9
-E-ana-tum Elámot a csodálatos hegységet legyőzte és sírdombot emelt neki. 
+E-ana-tum Elámot a csodálatos hegységet legyőzte és sírdombot emelt neki.
 
 @unit 3
 @span iii 10 - iv 5
@@ -8942,7 +8942,7 @@ Ekkoriban (történt, hogy) égetett téglából kutat épített Ningirszunak (N
 #lem: Eanatum[1]RN
 
 4.	kur gu2 jar-jar
-#lem: kur[mountain]\l3; gu[neck]\abs; jar[place] 
+#lem: kur[mountain]\l3; gu[neck]\abs; jar[place]
 
 5.	{d}nin-jir2-su2-ka-ke4
 #lem: Ninŋirsuk[1]DN
@@ -8973,7 +8973,7 @@ Ekkoriban (történt, hogy) égetett téglából kutat épített Ningirszunak (N
 #lem: ganun[storehouse]; e[house]; u
 
 4.	mu-na-du3#
-#lem: du[build] +. 
+#lem: du[build] +.
 
 5.	guru7 gu2 mu-na-ni-gur
 #lem: guru[store]\l1; gu[neck]\abs; gur[turn] +.
@@ -8996,11 +8996,11 @@ Ekkoriban (történt, hogy) égetett téglából kutat épített Ningirszunak (N
 @translation unitary en project
 @unit 1
 @span i 1 - i 3
-For Ninĝirsu, Enlil’s warrior. 
+For Ninĝirsu, Enlil’s warrior.
 
 @unit 2
 @span i 4 - iii 5
-E-ana-tum, ruler of Lagaš, given strength by Ninĝirsu, the man who returned Ninĝirsu's beloved field, the Gu-edena, under his control, E-ana-tum, who makes the foreign lands submit to Ninĝirsu, child of Aya-kurgal, ruler of Lagaš, built the E-za for Ninĝirsu with precious metal and lapis lazuli. He built for him the storehouse of ... and heaped up piles of grain in it. 
+E-ana-tum, ruler of Lagaš, given strength by Ninĝirsu, the man who returned Ninĝirsu's beloved field, the Gu-edena, under his control, E-ana-tum, who makes the foreign lands submit to Ninĝirsu, child of Aya-kurgal, ruler of Lagaš, built the E-za for Ninĝirsu with precious metal and lapis lazuli. He built for him the storehouse of ... and heaped up piles of grain in it.
 
 @unit 3
 @span iii 6 - iii 10
@@ -9009,11 +9009,11 @@ The personal god of E-ana-tum, entrusted with the sceptre by Ninĝirsu, is Šul-
 @translation unitary hun project
 @unit 1
 @span i 1 - i 3
-Ningirszunak, Enlil harcosának. 
+Ningirszunak, Enlil harcosának.
 
 @unit 2
 @span i 4 - iii 5
-E-ana-tum, Lagas uralkodója, akinek erőt Ningirszu adott, aki Ningirszu szeretett földjét, a Guedenát, újra fennhatósága alá helyezte, E-ana-tum, aki meghódoltatja az idegen országokat Ningirszu előtt, Aya-kurgal, Lagas uralkodójának gyermeke, felépítette Ningirszunak az E-zát nemesfémből és lápisz lazuliból. Felépített neki a ... raktárát, és gabona halmokat halmozott fel benne. 
+E-ana-tum, Lagas uralkodója, akinek erőt Ningirszu adott, aki Ningirszu szeretett földjét, a Guedenát, újra fennhatósága alá helyezte, E-ana-tum, aki meghódoltatja az idegen országokat Ningirszu előtt, Aya-kurgal, Lagas uralkodójának gyermeke, felépítette Ningirszunak az E-zát nemesfémből és lápisz lazuliból. Felépített neki a ... raktárát, és gabona halmokat halmozott fel benne.
 
 @unit 3
 @span iii 6 - iii 10
@@ -9256,7 +9256,7 @@ $  broken
 
 $  broken
 
-1'.	UR [...] KA 
+1'.	UR [...] KA
 #lem: u; u; u
 
 2'.	e2 [...]
@@ -9280,7 +9280,7 @@ $  broken
 #project: etcsri
 #link: source P222468 = FAOS 05/1, Ean 67
 
-$      broken 
+$      broken
 
 @m column 1'
 1'.	[kur] gu2 jar-jar
@@ -9353,55 +9353,55 @@ E-ana-tum, ... uralkodó .....
 #project: etcsri
 #link: source P222670 = RIME 1.09.03.16, ex. 01
 
-$   broken 
+$   broken
 
-@m column 1 
- 
-$   broken 
+@m column 1
 
-1'. [x] TAG#? [x] x [x] KA# 
+$   broken
+
+1'. [x] TAG#? [x] x [x] KA#
 #lem: u; u; u; u; u; u
 
-2'. [x]-ha-lam 
+2'. [x]-ha-lam
 #lem: halam[forsake] +.
 
-3'. [jir2]-su2{ki}-ta 
+3'. [jir2]-su2{ki}-ta
 #lem: Ŋirsu[1]SN +.
 
-$   broken 
+$   broken
 
-@m column 2 
+@m column 2
 
-$   broken 
+$   broken
 
 1'. [{d}nin-jir2-su2-ra]
 #lem: Ninŋirsuk[1]DN\n5ral2
 
-2'. {a-szag4}aszag ki aj2-ja2-ni 
+2'. {a-szag4}aszag ki aj2-ja2-ni
 #lem: aszag[field]; ki[place]\abs; aj[measure]
 
-3'. aszag gu2-eden-na 
+3'. aszag gu2-eden-na
 #lem: ašag[field]; Guedenak[1]GN\abs
 
 4'. szu-na mu#-[ni-gi4]
 #lem: szu[hand]\n5al2; gi[turn] +.
 
-$   broken 
+$   broken
 
-@m column 3 
-   
-$   broken 
+@m column 3
 
-1'. [...] x x [...] 
+$   broken
+
+1'. [...] x x [...]
 #lem: u; u; u; u
 
-2'. {a-szag4}[aszag ...] 
+2'. {a-szag4}[aszag ...]
 #lem: ašag[field]; u
 
-3'. {a-szag4}[aszag ...] NI [...] 
+3'. {a-szag4}[aszag ...] NI [...]
 #lem: ašag[field]; u; u; u +.
 
-$   broken 
+$   broken
 
 @translation unitary en project
 @unit 1
@@ -9434,34 +9434,34 @@ $   broken
 #project: etcsri
 #link: source P247666 = RIME 1.09.03.18, ex. 01
 
-@m column 1 
-$    several lines missing 
+@m column 1
+$    several lines missing
 
-1'. a2# szum2-ma 
+1'. a2# szum2-ma
 #lem: a[arm]\abs; szum[give]
 
-2'. [{d}]en-lil2#-ke4 
+2'. [{d}]en-lil2#-ke4
 #lem: Enlil[1]DN
 
-3'. jesztug3# szum2-ma 
+3'. jesztug3# szum2-ma
 #lem: jesztug[ear]\abs; szum[give]
 
-4'. {d}en-ki-ke4 
+4'. {d}en-ki-ke4
 #lem: Enkik[1]DN
 
-$ several lines missing 
+$ several lines missing
 
-@m column 2 
-1'. mu# [pad3-da] 
+@m column 2
+1'. mu# [pad3-da]
 #lem: mu[name]\abs; pad[find]
 
-2'. {d}hendur-saj 
+2'. {d}hendur-saj
 #lem: Hendursaŋak[1]DN\gen
 
-3'. [gu5]-li# [ki] aj2# 
+3'. [gu5]-li# [ki] aj2#
 #lem: guli[friend]; ki[place]\abs; aj[measure]
 
-4'. [{d}]lugal-urub#[{ki}] 
+4'. [{d}]lugal-urub#[{ki}]
 #lem: Lugalurubak[1]DN\gen
 
 5'.	dumu# aya2-kur-gal
@@ -9470,9 +9470,9 @@ $ several lines missing
 6'.   ensi2
 #lem: ensik[ruler]
 
-7'.   lagasz[{ki}] 
+7'.   lagasz[{ki}]
 #lem: Lagaš[1]SN\gen\gen\erg
-     
+
 $ broken
 
 @translation unitary en project
@@ -9488,7 +9488,7 @@ $ broken
 @unit 1
 @span i 1' - i 4'
 ..., akinek erőt Enlil adott, akinek bölcsességet Enki adott, ...,
- 
+
 @unit 2
 @span ii 1' - ii 7'
 ..., akinek a nevét Hendurszag hirdette ki, Lugal-Uruba szeretett barátja, Aja-kurgalnak, Lagas uralkodójának gyermeke, ....
@@ -9698,12 +9698,12 @@ Ningirszunak, az úrnak aki szereti őt, a neki ajtónállóként leültetett @h
 @translation unitary en project
 @unit 1
 @span 1 - 17
-For Ninĝirsu, Enlil’s warrior, En-ana-tum, ruler of Lagaš, who makes the foreign lands submit to Ninĝirsu, child of Aya-kurgal, ruler of Lagaš, fashioned this vessel for crushing garlic, and dedicated it to Ninĝirsu for his well-being in the E-ninnu. 
+For Ninĝirsu, Enlil’s warrior, En-ana-tum, ruler of Lagaš, who makes the foreign lands submit to Ninĝirsu, child of Aya-kurgal, ruler of Lagaš, fashioned this vessel for crushing garlic, and dedicated it to Ninĝirsu for his well-being in the E-ninnu.
 
 @translation unitary hun project
 @unit 1
 @span 1 - 17
-Ningirszunak, Enlil harcosának, En-ana-tum, Lagas uralkodója, aki meghódoltatja az idegen országokat Ningirszu előtt, Aya-kurgalnak, Lagas uralkodójának gyermeke készítette (ezt) az edényt fokhagyma szétnyomásához, és az életéért Ningirszunak ajánlotta fel az E-ninnuban. 
+Ningirszunak, Enlil harcosának, En-ana-tum, Lagas uralkodója, aki meghódoltatja az idegen országokat Ningirszu előtt, Aya-kurgalnak, Lagas uralkodójának gyermeke készítette (ezt) az edényt fokhagyma szétnyomásához, és az életéért Ningirszunak ajánlotta fel az E-ninnuban.
 
 
 &Q001090 = En-ana-tum I 5 [E1.9.4.5]
@@ -9859,7 +9859,7 @@ En-ana-tum, ruler of Lagaš, chosen by Nanše in the heart, chief governor of Ni
 
 @unit 3
 @span iii 6 - iv 8
-May Šul-MUŠxPA, the personal god of En-ana-tum, who submits to the orders of Inana, pay obeisance to Inana in the Ebgal perpetually for the well-being of En-ana-tum, ruler of Lagaš! 
+May Šul-MUŠxPA, the personal god of En-ana-tum, who submits to the orders of Inana, pay obeisance to Inana in the Ebgal perpetually for the well-being of En-ana-tum, ruler of Lagaš!
 
 @unit 4
 @span v 1 - v 3
@@ -9872,11 +9872,11 @@ Inanának, minden ország úrnőjének.
 
 @unit 2
 @span i 3 - iii 5
-En-ana-tum, Lagas uralkodója, Nanse kiválasztottja, Ningirszu főhelytartója, aki kedvező nevét Inanától kapta, Lugal-Uruba édes gyermeke, Aja-kurgalnak, Lagas uralkodójának gyermeke, E-ana-tumnak, Lagas uralkodójának szeretett fiútestvére, Inanának az Ebgalt felépítette, az E-anát minden hegynél magasabbá tette, arannyal és ezüsttel diszítette, és (Inanához) méltóvá tette. 
+En-ana-tum, Lagas uralkodója, Nanse kiválasztottja, Ningirszu főhelytartója, aki kedvező nevét Inanától kapta, Lugal-Uruba édes gyermeke, Aja-kurgalnak, Lagas uralkodójának gyermeke, E-ana-tumnak, Lagas uralkodójának szeretett fiútestvére, Inanának az Ebgalt felépítette, az E-anát minden hegynél magasabbá tette, arannyal és ezüsttel diszítette, és (Inanához) méltóvá tette.
 
 @unit 3
 @span iii 6 - iv 8
-Sul-MUSxPA, En-ana-tumnak, aki aláveti magát Inana parancsainak, a védőistene, hódoljon örökké Inanának az Ebgalban En-ana-tum, Lagas uralkodójának életéért. 
+Sul-MUSxPA, En-ana-tumnak, aki aláveti magát Inana parancsainak, a védőistene, hódoljon örökké Inanának az Ebgalban En-ana-tum, Lagas uralkodójának életéért.
 
 @unit 4
 @span v 1 - v 3
@@ -9932,7 +9932,7 @@ Az Ebgal Inannájának, En-ana-tum, Lagas uralkodója, az Ebgalt felépítette, 
 
 &Q001077 = En-ana-tum I 7 [E1.9.4.7]
 @composite
-#project: etcsri 
+#project: etcsri
 #link: source P222488 = FAOS 05/1, En I 17
 
 1.	en-an-na-tum2
@@ -10135,20 +10135,20 @@ En-ana-tum, Lagas uralkodója, az Ebgal építője, ....
 @translation unitary en project
 @unit 1
 @span i 1 - iii 6
-When he built the Ebgal for Inana, restored his temple for Nindara, the mighty master, built his temple for Hendursaĝa, built his great temple in Urub for Lugal-Uruba, and built her temple in Saĝub for Ama-ĝeštin-ana, then for Lugal-Uruba, his powerful servant En-ana-tum, ruler of Lagaš, child of Aya-kurgal, ruler of Lagaš, built the great storehouse of Urub. 
+When he built the Ebgal for Inana, restored his temple for Nindara, the mighty master, built his temple for Hendursaĝa, built his great temple in Urub for Lugal-Uruba, and built her temple in Saĝub for Ama-ĝeštin-ana, then for Lugal-Uruba, his powerful servant En-ana-tum, ruler of Lagaš, child of Aya-kurgal, ruler of Lagaš, built the great storehouse of Urub.
 
 @unit 2
 @span iii 7 - iii 10
 May this (stone boulder) pay obeisance to Lugal-Uruba in the great temple of Urub, for his (En-ana-tum’s) well-being.
 
 @translation unitary hun project
-@unit 
+@unit
 @span i 1 - iii 10
-Amikor Inanának felépítette az Ebgalt, Nindarának, hatalmas urának templomát helyreállította, Hendurszagának templomát felépítette, Lugal-Urubának felépítette nagy templomát Urubban, Ama-gestin-anának szagubi templomát felépítette, akkor Lugal-Urubának erős szolgája, En-ana-tum, Lagas uralkodója, Aya-kurgalnak, Lagas uralkodójának gyermeke, felépítette Urub nagy raktárát. 
+Amikor Inanának felépítette az Ebgalt, Nindarának, hatalmas urának templomát helyreállította, Hendurszagának templomát felépítette, Lugal-Urubának felépítette nagy templomát Urubban, Ama-gestin-anának szagubi templomát felépítette, akkor Lugal-Urubának erős szolgája, En-ana-tum, Lagas uralkodója, Aya-kurgalnak, Lagas uralkodójának gyermeke, felépítette Urub nagy raktárát.
 
 @unit 2
 @span iii 7 - iii 10
-Hódoljon ez (a kő) Lugal-Urubának az urubi nagy templomban (En-ana-tum) életéért! 
+Hódoljon ez (a kő) Lugal-Urubának az urubi nagy templomban (En-ana-tum) életéért!
 
 &Q001082 = En-ana-tum I 11 [E1.9.4.11]
 @composite
@@ -10217,7 +10217,7 @@ $ broken
 
 @m column 4
 
-$ broken 
+$ broken
 
 1'.	[...]-ka#-[...]
 #lem: u
@@ -10295,7 +10295,7 @@ $ broken
 
 @m column 3
 
-$ broken 
+$ broken
 
 1'. 	[ud5 zid]
 #lem: uzud[goat]; zid[right]
@@ -10319,20 +10319,20 @@ $ broken
 
 @translation unitary en project
 @unit 1
-@span i 1' - i 2' 
+@span i 1' - i 2'
 ....
 
 @unit 2
-@span ii 1' - ii 4' 
+@span ii 1' - ii 4'
 ... assigned ... to Lugal-Uruba's courtyard as regular offering. En-ana-tum ... for Ama-ĝeštin-ana.
 
 @unit 3
-@span iii 1' - iii 6' 
+@span iii 1' - iii 6'
 He had them/it bring healthy goats and healthy kids. He had them/it bring healthy cows and healthy calves. He ... swift donkey stallions with breeding she-asses.
 
 @translation unitary hun project
 @unit 1
-@span i 1' - i 2' 
+@span i 1' - i 2'
 ....
 
 @unit 2
@@ -10340,7 +10340,7 @@ He had them/it bring healthy goats and healthy kids. He had them/it bring health
 ... Lugal-Uruba templomudvarának rendszeres áldozatként ... utalt ki. En-ana-tum ... Ama-gestin-anának.
 
 @unit 3
-@span iii 1' - iii 6' 
+@span iii 1' - iii 6'
 Egészséges anyakecskéket és egészséges gidákat hozatott velük. Egészséges teheneket és egészséges borjakat hozatott velük. Tenyész kancákat gyors futású szamár csődörökkel ....
 
 
@@ -10413,7 +10413,7 @@ Egészséges anyakecskéket és egészséges gidákat hozatott velük. Egészsé
 @translation unitary en project
 @unit 1
 @span i 1 - i 7
-En-ana-tum, ruler of Lagaš, nominee of Inana, built the Ebgal. 
+En-ana-tum, ruler of Lagaš, nominee of Inana, built the Ebgal.
 
 @unit 2
 @span i 8 - ii 8
@@ -10553,11 +10553,11 @@ For Lugal-Uruba, Ama-ušumgal-ana.
 
 @unit 2
 @span i 3 - ii 8
-When En-ana-tum, ruler of Lagaš, chosen by Nanše in the heart, chief governor of Ninĝirsu, the child born to Lugal-Uruba, the child of Aya-kurgal, ruler of Lagaš, the beloved brother of E-ana-tum, ruler of Lagaš, built the Ebgal for Inana, made the E-ana exceed all the mountains, (then) Me-ane-si, child of En-ana-tum, ruler of Lagaš, fashioned his (own) statue, and brought it before Lugal-Uruba in the temple. 
+When En-ana-tum, ruler of Lagaš, chosen by Nanše in the heart, chief governor of Ninĝirsu, the child born to Lugal-Uruba, the child of Aya-kurgal, ruler of Lagaš, the beloved brother of E-ana-tum, ruler of Lagaš, built the Ebgal for Inana, made the E-ana exceed all the mountains, (then) Me-ane-si, child of En-ana-tum, ruler of Lagaš, fashioned his (own) statue, and brought it before Lugal-Uruba in the temple.
 
 @unit 3
 @span ii 9 - ii 16
-May it pay obeisance to Lugal-Uruba in the great temple of Urub for the well-being of his father, En-ana-tum, for the well-being of his mother, Aya-šurmen, and for his own well-being. 
+May it pay obeisance to Lugal-Uruba in the great temple of Urub for the well-being of his father, En-ana-tum, for the well-being of his mother, Aya-šurmen, and for his own well-being.
 
 @translation unitary hun project
 @unit 1
@@ -10676,12 +10676,12 @@ $ 	broken
 @translation unitary en project
 @unit 1
 @span i 1 - iii 6
-When En-ana-tum, ruler of Lagaš, chosen by Nanše in the heart, the child born to Lugal-Uruba, the child of Aya-kurgal, ruler of Lagaš, built the Ebgal for Inana, made the E-ana exceed all the mountains, and decorated it with gold and silver, then his servant, Id-lusikil, his personal quarters’ scribe, fashioned (this) @inscribed clay nail for himself. 
+When En-ana-tum, ruler of Lagaš, chosen by Nanše in the heart, the child born to Lugal-Uruba, the child of Aya-kurgal, ruler of Lagaš, built the Ebgal for Inana, made the E-ana exceed all the mountains, and decorated it with gold and silver, then his servant, Id-lusikil, his personal quarters’ scribe, fashioned (this) @inscribed clay nail for himself.
 
 @translation unitary hun project
 @unit 1
 @span i 1 - iii 6
-Amikor En-ana-tum, Lagas uralkodója, Nanse kiválasztottja, Lugal-Uruba édes gyermeke, Aja-kurgalnak, Lagas uralkodójának gyermeke, Inanának az Ebgalt felépítette, azt minden hegynél magasabbá tette, és arannyal és ezüsttel diszítette, akkor szolgája, Id-luszikil,  az ő magánlakrész írnoka, elkészítette (ezt a) @feliratos agyagszöget magának. 
+Amikor En-ana-tum, Lagas uralkodója, Nanse kiválasztottja, Lugal-Uruba édes gyermeke, Aja-kurgalnak, Lagas uralkodójának gyermeke, Inanának az Ebgalt felépítette, azt minden hegynél magasabbá tette, és arannyal és ezüsttel diszítette, akkor szolgája, Id-luszikil,  az ő magánlakrész írnoka, elkészítette (ezt a) @feliratos agyagszöget magának.
 
 
 &Q001086 = En-ana-tum I 18 [E1.9.4.18]
@@ -10749,7 +10749,7 @@ Amikor En-ana-tum, Lagas uralkodója, Nanse kiválasztottja, Lugal-Uruba édes g
 @translation unitary en project
 @unit 1
 @span i 1 - i 7
-En-ana-tum, ruler of Lagaš, whose name was proclaimed by Inana, built the Ebgal. 
+En-ana-tum, ruler of Lagaš, whose name was proclaimed by Inana, built the Ebgal.
 
 @unit 2
 @span i 8 - ii 9
@@ -11031,7 +11031,7 @@ Az Eninnu Ningirszujának, En-ana-tum, Lagas uralkodójának embere, Barag-kiszu
 3e.	aszag lugal nu-tuku
 #lem: aszag[field]; lugal[king//owner]\abs; tuku[acquire]\l1
 
-3f.	ni-kurx(DU) 
+3f.	ni-kurx(DU)
 #lem: kur[enter] +.
 
 4.	eg2-ba na-ru2-a
@@ -11566,14 +11566,14 @@ Az Eninnu Ningirszujának, En-ana-tum, Lagas uralkodójának embere, Barag-kiszu
 @translation unitary en project
 @unit 1
 @span i 1 - i 31
-Enlil, the king of all lands, the father of all gods, fixed the border between Ninĝirsu and Šara by his firm command. By the order of Ištaran, Me-silim, king of Kiš measured it off and erected a stela on that place. Uš, ruler of Umma, treated these (commands) as if they did not pertain to him: having torn the stele out he entered the territory of Lagaš. By (Enlil’s) just command, Ninĝirsu, Enlil’s warrior, did battle with Umma. By Enlil’s command, he cast on it the great battle-net, and heaped up 20 burial mounds for it on the plain. 
+Enlil, the king of all lands, the father of all gods, fixed the border between Ninĝirsu and Šara by his firm command. By the order of Ištaran, Me-silim, king of Kiš measured it off and erected a stela on that place. Uš, ruler of Umma, treated these (commands) as if they did not pertain to him: having torn the stele out he entered the territory of Lagaš. By (Enlil’s) just command, Ninĝirsu, Enlil’s warrior, did battle with Umma. By Enlil’s command, he cast on it the great battle-net, and heaped up 20 burial mounds for it on the plain.
 
 @unit 2
 @span i 32 - ii 18
-E-ana-tum, ruler of Lagaš, paternal uncle of En-metena, ruler of Lagaš, fixed the border together with En-akale, ruler of Umma. He extended the (boundary) levee from the Id-nun canal to the Gu-edena. He left a 215 @nindan (wide strip of) Ninĝirsu’s land under the control of Umma and designated it no-man’s land. He set up inscribed stelae everywhere along the levee. He restored the stela of Me-silim. He did not cross into the territory of Umma. Along Ninĝirsu’s border, (called) Namnunda-kiĝara, he set up the pedestal of Enlil, the pedestal of Ninhursaĝa, the pedestal of Ninĝirsu, and the pedestal of Utu. 
+E-ana-tum, ruler of Lagaš, paternal uncle of En-metena, ruler of Lagaš, fixed the border together with En-akale, ruler of Umma. He extended the (boundary) levee from the Id-nun canal to the Gu-edena. He left a 215 @nindan (wide strip of) Ninĝirsu’s land under the control of Umma and designated it no-man’s land. He set up inscribed stelae everywhere along the levee. He restored the stela of Me-silim. He did not cross into the territory of Umma. Along Ninĝirsu’s border, (called) Namnunda-kiĝara, he set up the pedestal of Enlil, the pedestal of Ninhursaĝa, the pedestal of Ninĝirsu, and the pedestal of Utu.
 
 @unit 3
-@span ii 19 - iii 27 
+@span ii 19 - iii 27
 The leader of Umma took 1 @guru of Nanše’s and Ninĝirsu’s barley as interest bearing loan. It yielded interest and accummulated to 8,640,000 @guru. As he was unable to repay this (amount) of barley, Ur-Luma, ruler of Umma, let water go through Ninĝirsu’s and Nanše’s boundary levee. He set fire to their stelae and tore them out. He destroyed the pedestals erected for the gods that were set up at Namnunda-kiĝara. He hired foreigners and crossed Ninĝirsu’s boundary levee. In the Ugiga field, the field of Ninĝirsu, En-ana-tum, ruler of Lagaš, fought with him. En-metena, the beloved child of En-ana-tum, defeated him. Ur-Luma escaped, (En-ana-tum) forced him back to Umma. 60 teams of his donkeys were abandoned on the bank of the Luma-ĝirnunta canal. The bones of their personnel were left strewn all around the plain. He piled up their burial mounds in five places.
 
 @unit 4
@@ -11582,7 +11582,7 @@ Then Il, who was the temple administrator of Zabalam, marched from Ĝirsu until 
 
 @unit 5
 @span v 1 - v 18
-By the just command of Enlil, by the just command of Ninĝirsu, and by the just command of Nanše, En-metena, ruler of Lagaš, whose name was proclaimed by Ninĝirsu, constructed their levee from the Tigris to the Id-nun. He built the substructure of the Namnunda-kiĝara of stone for him. For Ninĝirsu, his master who loves him, and for Nanše, the lady who loves him, he restored it. 
+By the just command of Enlil, by the just command of Ninĝirsu, and by the just command of Nanše, En-metena, ruler of Lagaš, whose name was proclaimed by Ninĝirsu, constructed their levee from the Tigris to the Id-nun. He built the substructure of the Namnunda-kiĝara of stone for him. For Ninĝirsu, his master who loves him, and for Nanše, the lady who loves him, he restored it.
 
 @unit 6
 @span v 19 - vi 8
@@ -11595,14 +11595,14 @@ May Enlil annihilate the leader of Umma, may he be an Ummaite or a foreigner, wh
 @translation unitary hun project
 @unit 1
 @span i 1 - i 31
-Szigorú parancsával, Enlil, minden ország királya, minden isten atyja, jelölte ki a határt Ningirszu és Sara között. Istaran isten parancsára, Me-szilim, Kis királya, kimérte azt és sztélét emelt azon a helyen. Us, Umma uralkodója, úgy bánt ezekkel (a parancsokkal) mintha azok rá nem vonatkoznának: kitépvén a sztélét, bevonult Lagas területére. Ningirszu, Enlil harcosa, (Enlil) parancsára megütközött Ummával. Enlil igaz parancsára nagy dobóhálót vetett rá. 20 sírdombot emelt (Ummának) a pusztában.  
+Szigorú parancsával, Enlil, minden ország királya, minden isten atyja, jelölte ki a határt Ningirszu és Sara között. Istaran isten parancsára, Me-szilim, Kis királya, kimérte azt és sztélét emelt azon a helyen. Us, Umma uralkodója, úgy bánt ezekkel (a parancsokkal) mintha azok rá nem vonatkoznának: kitépvén a sztélét, bevonult Lagas területére. Ningirszu, Enlil harcosa, (Enlil) parancsára megütközött Ummával. Enlil igaz parancsára nagy dobóhálót vetett rá. 20 sírdombot emelt (Ummának) a pusztában.
 
 @unit 2
 @span i 32 - ii 18
-E-ana-tum, Lagas uralkodója, En-metenának, Lagas uralkodójának atyai nagybátyja, En-akaléval, Umma uralkodójával együtt jelölte ki a határt. A (határjelző) töltést az Id-nun csatornától a Guedenáig vezette. Ningirszu földjéből egy 215 @nindan (szélességű) (földcsíkot) Umma fennhatósága alatt hagyott és a senki-földjévé tette. A töltés mentén mindenhol feliratos sztéléket állított. Me-szilim sztéléjét helyreállította. Umma területére nem hatolt be. Ningirszu határa, a Namnunda-kigara mentén felállította Enlil talapzatát, Ninhurszaga talapzatát, Ningirszu talapzatát és Utu talapzatát.  
+E-ana-tum, Lagas uralkodója, En-metenának, Lagas uralkodójának atyai nagybátyja, En-akaléval, Umma uralkodójával együtt jelölte ki a határt. A (határjelző) töltést az Id-nun csatornától a Guedenáig vezette. Ningirszu földjéből egy 215 @nindan (szélességű) (földcsíkot) Umma fennhatósága alatt hagyott és a senki-földjévé tette. A töltés mentén mindenhol feliratos sztéléket állított. Me-szilim sztéléjét helyreállította. Umma területére nem hatolt be. Ningirszu határa, a Namnunda-kigara mentén felállította Enlil talapzatát, Ninhurszaga talapzatát, Ningirszu talapzatát és Utu talapzatát.
 
 @unit 3
-@span ii 19 - iii 27 
+@span ii 19 - iii 27
 Umma vezetője Nanse és Ningirszu gabonájából 1 @gurut kapott kölcsönként. Ez kamatozott, és 8.640.000 @guru adósság halmozodott fel. Mivel ezt a gabona (mennyiséget) nem tudta visszafizetni, Ur-Luma, Umma uralkodója, Ningirszu és Nanse határjelző töltésén átengedte a vizet. Tüzet vetett a sztélékre és kitépte őket. Az istenek számára emelt talapzatokat, melyeket a Namnunda-kigarán állítottak fel, lerombolta. Idegen zsoldosokat fogadott és átkelt Ningirszu határjelző töltésén. Az Ugiga mezőn, Ningirszu földjén, En-ana-tum, Lagas uralkodója csatába bocsátkozott vele. Ur-Luma elmenekült, egészen Ummáig verte őt vissza. Szamárfogatai közül 60-at a Luma-girnunta csatorna partján hagyott. Személyzetük csontjai szétszórva hevertek mindenhol a pusztában. Öt helyen emelt nekik sírdombokat.
 
 @unit 4
@@ -11611,7 +11611,7 @@ Ekkor, Il, aki Zabalam templomgazdaságának volt a vezetője, miután @?visszav
 
 @unit 5
 @span v 1 - v 18
-Enlil igaz parancsára, Ningirszu igaz parancsára és Nanse igaz parancsára, En-metena, Lagas uralkodója, akinek a nevét Ningirszu hirdette ki, a Tigristől az Id-nunig építette a töltést. A Namnunda-kigara alapját kőből építette meg. Ningirszunak, az úrnak aki szereti őt és Nansénak, az úrnőnek aki szereti őt helyreállította azt. 
+Enlil igaz parancsára, Ningirszu igaz parancsára és Nanse igaz parancsára, En-metena, Lagas uralkodója, akinek a nevét Ningirszu hirdette ki, a Tigristől az Id-nunig építette a töltést. A Namnunda-kigara alapját kőből építette meg. Ningirszunak, az úrnak aki szereti őt és Nansénak, az úrnőnek aki szereti őt helyreállította azt.
 
 @unit 6
 @span v 19 - vi 8
@@ -11729,7 +11729,7 @@ En-metena, ruler of Lagaš, chosen by Nanše in the heart, chief governor of Nin
 
 @unit 3
 @span v 1 - v 6
-The personal god of En-metena, the constructor of Ninĝirsu’s lofty levee, is Šul-MUŠxPA.   
+The personal god of En-metena, the constructor of Ninĝirsu’s lofty levee, is Šul-MUŠxPA.
 
 @translation unitary hun project
 @unit 1
@@ -11738,7 +11738,7 @@ Ningirszunak, Enlil harcosának.
 
 @unit 2
 @span i 3 - iv 6
-En-metena, Lagas uralkodója, Nanse kiválasztottja, Ningirszu főhelytartója, fenséges töltést épített a határ mentén melyet Enlil jelölt ki Ningirszunak. Ningirszunak, urának, aki szereti őt, En-metena (a töltést) az Idnun csatornától Mubikuráig vezette. A Ningirszu határa melleti mezőn sztélét állított számára. 
+En-metena, Lagas uralkodója, Nanse kiválasztottja, Ningirszu főhelytartója, fenséges töltést épített a határ mentén melyet Enlil jelölt ki Ningirszunak. Ningirszunak, urának, aki szereti őt, En-metena (a töltést) az Idnun csatornától Mubikuráig vezette. A Ningirszu határa melleti mezőn sztélét állított számára.
 
 @unit 3
 @span v 1 - v 6
@@ -11868,7 +11868,7 @@ At that time En-metena, ruler of Lagaš, and Lugal-kiĝeneš-dudu, ruler of Unug
 @translation unitary hun project
 @unit 1
 @span i 1 - i 8
-Inanának és Lugal-emusnak, En-metena, Lagas uralkodója az E-must, szeretett templomukat felépítette, és @?feliratos agyagszögekkel?@ ékesítette. 
+Inanának és Lugal-emusnak, En-metena, Lagas uralkodója az E-must, szeretett templomukat felépítette, és @?feliratos agyagszögekkel?@ ékesítette.
 
 @unit 2
 @span i 9 - ii 3
@@ -12078,15 +12078,15 @@ For Lugal-emuš.
 
 @unit 2
 @span i 2 - iii 2
-En-metena, ruler of Lagaš, chosen by Nanše in the heart, chief governor of Ninĝirsu, child of En-ana-tum, ruler of Lagaš, built the sanctuary of Dugru for Ninĝirsu, built him the A-huš, the temple that is looked upon with favour, and made them worthy of him. He fashioned him the chariot that heaps up the foreign lands for Ninĝirsu, the "May all bow down!" of the road to Eridug, whose fearsomeness (reaches) until the heart of the foreign lands. He built him the E-dur-zile. 
+En-metena, ruler of Lagaš, chosen by Nanše in the heart, chief governor of Ninĝirsu, child of En-ana-tum, ruler of Lagaš, built the sanctuary of Dugru for Ninĝirsu, built him the A-huš, the temple that is looked upon with favour, and made them worthy of him. He fashioned him the chariot that heaps up the foreign lands for Ninĝirsu, the "May all bow down!" of the road to Eridug, whose fearsomeness (reaches) until the heart of the foreign lands. He built him the E-dur-zile.
 
 @unit 3
 @span iii 3 - iii 5
-For Lugal-Uruba he built his great temple in Urub. For Nanše he built the E-engur in Zulum, and made it worthy of her. 
+For Lugal-Uruba he built his great temple in Urub. For Nanše he built the E-engur in Zulum, and made it worthy of her.
 
 @unit 4
 @span iii 10 - iv 5
-He released (the people of) Lagaš, let the mother return to (her) child, and let the child return to (its) mother. He remitted the barley-loan debts. 
+He released (the people of) Lagaš, let the mother return to (her) child, and let the child return to (its) mother. He remitted the barley-loan debts.
 
 @unit 5
 @span iv 6 - vi 6
@@ -12115,7 +12115,7 @@ Visszaadta Lagas (lakosainak) szabadságát, visszaengedte az anyát a gyermek m
 
 @unit 5
 @span iv 6 - vi 6
-Ekkoriban (történt, hogy) Lugal-emusnak En-metena felépítette és helyreállította a patibirai E-must, szeretett templomát. Uruk, Larsza és Padtibira lakosainak visszaadta szabadságát. Urukban újra Inana fennhatósága alá helyezte őket; Larsában újra Utu fennhatósága alá helyezte őket; az E-musban újra Lugal-emus fennhatósága alá helyezte őket. 
+Ekkoriban (történt, hogy) Lugal-emusnak En-metena felépítette és helyreállította a patibirai E-must, szeretett templomát. Uruk, Larsza és Padtibira lakosainak visszaadta szabadságát. Urukban újra Inana fennhatósága alá helyezte őket; Larsában újra Utu fennhatósága alá helyezte őket; az E-musban újra Lugal-emus fennhatósága alá helyezte őket.
 
 @unit 6
 @span vi 7 - vi 11
@@ -12145,7 +12145,7 @@ En-metenának, aki aláveti magát Inana parancsainak, a védőistene Sul-MUŠxP
 4.	ensi2
 #lem: ensik[ruler]
 
-@m column 2	
+@m column 2
 1.	lagasz{ki}
 #lem: Lagaš[1]\gen
 
@@ -12166,7 +12166,7 @@ En-metenának, aki aláveti magát Inana parancsainak, a védőistene Sul-MUŠxP
 #lem: du[build] +.
 
 3.	en-mete-na!
-#lem: Enmetenak[1]RN 
+#lem: Enmetenak[1]RN
 
 4.	mu pad3-da
 #lem: mu[name]\abs; pad[find]
@@ -12187,7 +12187,7 @@ En-metenának, aki aláveti magát Inana parancsainak, a védőistene Sul-MUŠxP
 @translation unitary en project
 @unit 1
 @span i 1 - iii 2
-For Inana and Lugal-emuš, En-metena, ruler of Lagaš, child of En-ana-tum, ruler of Lagaš, built the E-muš, their beloved temple. 
+For Inana and Lugal-emuš, En-metena, ruler of Lagaš, child of En-ana-tum, ruler of Lagaš, built the E-muš, their beloved temple.
 
 @unit 2
 @span iii 3 - iv 4
@@ -12334,11 +12334,11 @@ For Ninĝirsu, Enlil’s warrior.
 
 @unit 2
 @span 3 - 20
-En-metena, ruler of Lagaš, chosen by Nanše in the heart, chief governor of Ninĝirsu, child of En-ana-tum, ruler of Lagaš, fashioned a @gurgur vessel of purified silver for Ninĝirsu, his master who loves him, from which Ninĝirsu consumes the monthly oil (offering). He displayed it for his well-being for Ninĝirsu of the E-ninnu. 
+En-metena, ruler of Lagaš, chosen by Nanše in the heart, chief governor of Ninĝirsu, child of En-ana-tum, ruler of Lagaš, fashioned a @gurgur vessel of purified silver for Ninĝirsu, his master who loves him, from which Ninĝirsu consumes the monthly oil (offering). He displayed it for his well-being for Ninĝirsu of the E-ninnu.
 
 @unit 3
 @span 21 - 22
-At that time Dudu was the temple administrator of Ninĝirsu. 
+At that time Dudu was the temple administrator of Ninĝirsu.
 
 @translation unitary hun project
 @unit 1
@@ -12347,11 +12347,11 @@ Ningirszunak, Enlil harcosának.
 
 @unit 2
 @span 3 - 20
-En-metena, Lagaš uralkodója, Nanse kiválasztottja, Ningirszu főhelytartója, En-ana-tumnak, Lagas uralkodójának gyermeke, Ningirszunak, urának, aki szereti őt, tisztított ezüstből @gurgur edényt készített, melyből Ningirszu elfogyasztja havonkénti olaj (áldozatát). (Az edényt) az életéért állította ki az E-ninnu Ningirszujának. 
+En-metena, Lagaš uralkodója, Nanse kiválasztottja, Ningirszu főhelytartója, En-ana-tumnak, Lagas uralkodójának gyermeke, Ningirszunak, urának, aki szereti őt, tisztított ezüstből @gurgur edényt készített, melyből Ningirszu elfogyasztja havonkénti olaj (áldozatát). (Az edényt) az életéért állította ki az E-ninnu Ningirszujának.
 
 @unit 3
 @span 21 - 22
-Ekkoriban Dudu volt Ningirszu templomgazdaságának vezetője.  
+Ekkoriban Dudu volt Ningirszu templomgazdaságának vezetője.
 
 &Q001112 = En-metena 8 [E1.9.5.8]
 @composite
@@ -12420,7 +12420,7 @@ For Ninĝirsu, Enlil’s warrior.
 
 @unit 2
 @span i 3 - iv 3
-The personal god of En-metena, ruler of Lagaš, chosen by Nanše in the heart, chief  governor of Ninĝirsu, child of En-ana-tum, ruler of Lagaš, the builder of Ninĝirsu’s reed shrine of the high temple, is Šul-MUŠxPA. 
+The personal god of En-metena, ruler of Lagaš, chosen by Nanše in the heart, chief  governor of Ninĝirsu, child of En-ana-tum, ruler of Lagaš, the builder of Ninĝirsu’s reed shrine of the high temple, is Šul-MUŠxPA.
 
 @translation unitary hun project
 @unit 1
@@ -12429,7 +12429,7 @@ Ningirszunak, Enlil harcosának.
 
 @unit 2
 @span i 3 - iv 3
-En-metenának, Lagas uralkodójának, Nanse kiválasztottjának, Ningirszu főhelytartójának, En-ana-tum, Lagas uralkodója gyermekének, Ningirszu magastemplomi nádszentéje építőjének a védőistene Šul-MUŠxPA. 
+En-metenának, Lagas uralkodójának, Nanse kiválasztottjának, Ningirszu főhelytartójának, En-ana-tum, Lagas uralkodója gyermekének, Ningirszu magastemplomi nádszentéje építőjének a védőistene Šul-MUŠxPA.
 
 &Q001095 = En-metena 9 [E1.9.5.9]
 @composite
@@ -12484,7 +12484,7 @@ The personal god of En-metena, ruler of Lagaš, child of En-ana-tum, ruler of La
 @translation unitary hun project
 @unit 1
 @span 1 - 2
-Ningirszunak, Enlil harcosának. 
+Ningirszunak, Enlil harcosának.
 
 @unit 2
 @span 3 - 12
@@ -12826,43 +12826,43 @@ En-metena, ruler of Lagaš, child of En-ana-tum, ruler of Lagaš, descendant of 
 
 @unit 3
 @span iii 5 - iv 1
-For Lugal-Uruba, he built his great temple in Urub. 
+For Lugal-Uruba, he built his great temple in Urub.
 
 @unit 4
 @span iv 2 - iv 4
-For Nanše, he built the E-engur in Zulum. 
+For Nanše, he built the E-engur in Zulum.
 
 @unit 5
 @span iv 5 - v 1
-For Enki, king of Eridug, he built the Abzu-pasira. 
+For Enki, king of Eridug, he built the Abzu-pasira.
 
 @unit 6
 @span v 2 - v 5
-For Ninhursaĝa, he built the high temple of Tirkug. 
+For Ninhursaĝa, he built the high temple of Tirkug.
 
 @unit 7
 @span v 6 - vi 3
-For Ninĝirsu, he built the Antasura, the temple whose fearsome radiance covers all the lands. 
+For Ninĝirsu, he built the Antasura, the temple whose fearsome radiance covers all the lands.
 
 @unit 8
 @span vi 4 - vi 7
-For Enlil, he built the E-adda in Imsaĝ. 
+For Enlil, he built the E-adda in Imsaĝ.
 
 @unit 9
 @span vi 8 - vii 1
-He built the temple of Ĝatumdug. 
+He built the temple of Ĝatumdug.
 
 @unit 10
 @span vii 1 - vii 6
-For Nanše, he built the Šage-pada. For Nanše, he built her lofty high temple. 
+For Nanše, he built the Šage-pada. For Nanše, he built her lofty high temple.
 
 @unit 11
 @span vii 7 - viii 4
-At that time, En-metena built his brewery for Ninĝirsu, his master who loves him. 
+At that time, En-metena built his brewery for Ninĝirsu, his master who loves him.
 
 @unit 12
 @span viii 5 - ix 4
-The personal god of En-metena, the builder of Ninĝirsu’s brewery, is Šul-MUŠxPA. 
+The personal god of En-metena, the builder of Ninĝirsu’s brewery, is Šul-MUŠxPA.
 
 @translation unitary hun project
 @unit 1
@@ -12871,7 +12871,7 @@ Ningirszunak, Enlil harcosának.
 
 @unit 2
 @span i 3 - iii 4
-En-metena, Lagas uralkodója, En-ana-tum, Lagas uralkodójának gyermeke, Ur-Nanse, Lagas királyának leszármazottja, felépítette Dugru szentélyét Ningirszunak. Felépítette neki az A-hust, a templomot, melyre kegyesen néznek. 
+En-metena, Lagas uralkodója, En-ana-tum, Lagas uralkodójának gyermeke, Ur-Nanse, Lagas királyának leszármazottja, felépítette Dugru szentélyét Ningirszunak. Felépítette neki az A-hust, a templomot, melyre kegyesen néznek.
 
 @unit 3
 @span iii 5 - iv 1
@@ -12879,7 +12879,7 @@ Felépítette Lugal-Urubának nagy templomát Urubban.
 
 @unit 4
 @span iv 2 - iv 4
-Felépítette Nansének az E-engurát Zulumban. 
+Felépítette Nansének az E-engurát Zulumban.
 
 @unit 5
 @span iv 5 - v 1
@@ -12887,19 +12887,19 @@ Felépítette Enkinek, Eridug királyának, az Abzu-paszurát.
 
 @unit 6
 @span v 2 - v 5
-Felépítette Ninhurszagnak magas templomát Tirkugban. 
+Felépítette Ninhurszagnak magas templomát Tirkugban.
 
 @unit 7
 @span v 6 - vi 3
-Felépítette Ningirszunak az Antaszurát, a templomot, melynek félelmetes ragyogása minden országot beborít. 
+Felépítette Ningirszunak az Antaszurát, a templomot, melynek félelmetes ragyogása minden országot beborít.
 
 @unit 8
 @span vi 4 - vi 7
-Felépítette Enlilnek az E-addát Imszagban. 
+Felépítette Enlilnek az E-addát Imszagban.
 
 @unit 9
 @span vi 8 - vii 1
-Felépítette Gatumdug templomát. Felépítette Nansénak a Sage-padát. 
+Felépítette Gatumdug templomát. Felépítette Nansénak a Sage-padát.
 
 @unit 10
 @span vii 1 - vii 6
@@ -12911,7 +12911,7 @@ Ekkor (történt, hogy) En-metena felépítette Ningirszunak, az úrnak aki szer
 
 @unit 12
 @span viii 5 - ix 4
-En-metenának, Ningirszu sörfőzdéje építőjének a védőistene Sul-MUŠxPA. 
+En-metenának, Ningirszu sörfőzdéje építőjének a védőistene Sul-MUŠxPA.
 
 &Q003671 = En-metena 13 [E1.9.5.13]
 @composite
@@ -13023,7 +13023,7 @@ En-metenának, Lagas uralkodójának, En-ana-tum, Lagas uralkodója gyermekének
 @translation unitary en project
 @unit 1
 @span 1 - 7
-For Ninĝirsu, Enlil’s warrior, En-metena, ruler of Lagaš, built a coach-house. 
+For Ninĝirsu, Enlil’s warrior, En-metena, ruler of Lagaš, built a coach-house.
 
 @unit 2
 @span 8 - 11
@@ -13032,7 +13032,7 @@ The personal god of En-metena, ruler of Lagaš, the builder of the coach-house, 
 @translation unitary hun project
 @unit 1
 @span 1 - 7
-Ningirszunak, Enlil harcosának, En-metena, Lagas uralkodója, felépített egy kocsiszínt. 
+Ningirszunak, Enlil harcosának, En-metena, Lagas uralkodója, felépített egy kocsiszínt.
 
 @unit 2
 @span 8 - 11
@@ -13115,7 +13115,7 @@ For Ninĝirsu, Enlil’s warrior.
 
 @unit 2
 @span i 3 - iv 4
-En-metena, ruler of Lagaš, chosen by Nanše in the heart, chief governor of Ninĝirsu, given wisdom by Enki, child of En-ana-tum, ruler of Lagaš, for Ninĝirsu, his master who loves him, constructed the garden of the personal quarters. ... its entrance .... 
+En-metena, ruler of Lagaš, chosen by Nanše in the heart, chief governor of Ninĝirsu, given wisdom by Enki, child of En-ana-tum, ruler of Lagaš, for Ninĝirsu, his master who loves him, constructed the garden of the personal quarters. ... its entrance ....
 
 @translation unitary hun project
 @unit 1
@@ -13168,7 +13168,7 @@ En-metena, Lagas uralkodója, Nanse kiválasztottja, Ningirszu főhelytartója, 
 #lem: e[house]; igi[eye]; zid[right//favourable]\abs; bar[cvve]\abs
 
 13.	mu-na-du3
-#lem: du[build] +. 
+#lem: du[build] +.
 
 14.	{d}nansze
 #lem: Nanše[1]DN
@@ -13177,19 +13177,19 @@ En-metena, Lagas uralkodója, Nanse kiválasztottja, Ningirszu főhelytartója, 
 #lem: Eʾengur[1]TN; Zulum[1]SN\gen\abs
 
 16.	mu-na-du3
-#lem: du[build] +. 
+#lem: du[build] +.
 
 17.	gi#-gu3#-na#-ni#
 #lem: giguna[terrace]\abs
 
 18.	mu-na-du3
-#lem: du[build] +. 
+#lem: du[build] +.
 
 19.	e2-szag4-pad3-da
 #lem: Ešagepada[2]TN\abs
 
 20.	mu-du3
-#lem: du[build] +. 
+#lem: du[build] +.
 
 21.	{d}en-lilx(E2)-la2
 #lem: Enlil[1]DN
@@ -13198,13 +13198,13 @@ En-metena, Lagas uralkodója, Nanse kiválasztottja, Ningirszu főhelytartója, 
 #lem: Eaddak[1]TN; Imsaŋ[1]GN\gen\abs
 
 24.	mu-na-du3
-#lem: du[build] +. 
+#lem: du[build] +.
 
 25.	e2 {d}ja2-tum3-dug3
 #lem: e[house]; Ŋatumdug[1]DN\gen\abs
 
 26.	mu-du3
-#lem: du[build] +. 
+#lem: du[build] +.
 
 27.	e2 {d}nin-mah#
 #lem: e[house]; Ninmah[1]DN\gen
@@ -13216,7 +13216,7 @@ En-metena, Lagas uralkodója, Nanse kiválasztottja, Ningirszu főhelytartója, 
 #lem: Tirkug[1]GN\gen\abs
 
 30.	mu-du3
-#lem: du[build] +. 
+#lem: du[build] +.
 
 31.	{d}lugal-urub{ki#}-ra#
 #lem: Lugalurubak[1]DN
@@ -13225,7 +13225,7 @@ En-metena, Lagas uralkodója, Nanse kiválasztottja, Ningirszu főhelytartója, 
 #lem: e[house]; gal[big]; Urub[1]SN\abs
 
 33.	mu-na-du3
-#lem: du[build] +. 
+#lem: du[build] +.
 
 34.	{d}en-ki
 #lem: Enkik[1]DN
@@ -13237,7 +13237,7 @@ En-metena, Lagas uralkodója, Nanse kiválasztottja, Ningirszu főhelytartója, 
 #lem: Abzupasira[1]TN\abs
 
 37.	mu-na-du3
-#lem: du[build] +. 
+#lem: du[build] +.
 
 38.	{d}nin-jir2-su2-ra
 #lem: Ninŋirsuk[1]DN
@@ -13249,7 +13249,7 @@ En-metena, Lagas uralkodója, Nanse kiválasztottja, Ningirszu főhelytartója, 
 #lem: e[house]; melim[splendor]\abs; kur[land]\n5al2; dul[cover]\v14sg3s
 
 41.	mu-na-du3
-#lem: du[build] +. 
+#lem: du[build] +.
 
 42.	en-mete-na
 #lem: Enmetenak[1]RN
@@ -13261,12 +13261,12 @@ En-metena, Lagas uralkodója, Nanse kiválasztottja, Ningirszu főhelytartója, 
 #lem: dijir[deity]\abs
 
 45.	{d}szul-|MUSZxPA|#-am6#
-#lem: Šul-MUŠ×PA[1]DN +. 
+#lem: Šul-MUŠ×PA[1]DN +.
 
 @translation unitary en project
 @unit 1
 @span 1 - 13
-For Ninĝirsu, Enlil’s warrior, En-metena, ruler of Lagaš, child of En-ana-tum, ruler of Lagaš, built the sanctuary of Dugru. He built the Ahuš, the temple that is looked upon with favour, for him. 
+For Ninĝirsu, Enlil’s warrior, En-metena, ruler of Lagaš, child of En-ana-tum, ruler of Lagaš, built the sanctuary of Dugru. He built the Ahuš, the temple that is looked upon with favour, for him.
 
 @unit 2
 @span 14 - 20
@@ -13278,11 +13278,11 @@ For Enlil, he built the E-adda in Imsaĝ.
 
 @unit 4
 @span 25 - 26
-He built the temple of Ĝatumdug. 
+He built the temple of Ĝatumdug.
 
 @unit 5
 @span 27 - 30
-He built the temple of Ninmah, the high temple of Tirkug. 
+He built the temple of Ninmah, the high temple of Tirkug.
 
 @unit 6
 @span 31 - 33
@@ -13290,7 +13290,7 @@ For Lugal-Uruba, he built his great temple in Urub.
 
 @unit 7
 @span 35 - 37
-For Enki, king of Eridug, he built the Abzu-pasira. 
+For Enki, king of Eridug, he built the Abzu-pasira.
 
 @unit 8
 @span 38 - 41
@@ -13303,19 +13303,19 @@ The personal god of En-metena, the builder of the Antasura, is Šul-MUŠxPA.
 @translation unitary hun project
 @unit 1
 @span 1 - 13
-Ningirszunak, Enlil harcosának, En-metena, Lagas uralkodója, En-ana-tum, Lagas uralkodójának gyermeke, felépítette Dugru szentélyét. Felépítette neki az A-hust, a templomot, melyre kegyesen néznek. 
+Ningirszunak, Enlil harcosának, En-metena, Lagas uralkodója, En-ana-tum, Lagas uralkodójának gyermeke, felépítette Dugru szentélyét. Felépítette neki az A-hust, a templomot, melyre kegyesen néznek.
 
 @unit 2
 @span 14 - 20
-Felépítette Nansének az E-engurát Zulumban, és felépítette neki magas templomát. Felépítette az E-sage-padát. 
+Felépítette Nansének az E-engurát Zulumban, és felépítette neki magas templomát. Felépítette az E-sage-padát.
 
 @unit 3
 @span 21 - 24
-Felépítette Enlilnek az E-addát Imszagban. 
+Felépítette Enlilnek az E-addát Imszagban.
 
 @unit 4
 @span 25 - 26
-Felépítette Gatumdug templomát. 
+Felépítette Gatumdug templomát.
 
 @unit 5
 @span 27 - 30
@@ -13323,11 +13323,11 @@ Felépítette Ninmah templomát, Tirkug magas templomát.
 
 @unit 6
 @span 31 - 33
-Felépítette Lugal-Urubának nagy templomát Urubban. 
+Felépítette Lugal-Urubának nagy templomát Urubban.
 
 @unit 7
 @span 35 - 37
-Felépítette Enkinek, Eridug királyának, az Abzu-paszurát. 
+Felépítette Enkinek, Eridug királyának, az Abzu-paszurát.
 
 @unit 8
 @span 38 - 41
@@ -13352,10 +13352,10 @@ En-metenának, az Antaszura felépítőjének, Sul-MUŠxPA a védőistene.
 3.    gana2 ambar nijin6{ki}-ka
 #lem: gana[field]; ambar[reed-bed]; Niŋin[1]SN
 
-4.    pa5 kug-ge us2-sa 
+4.    pa5 kug-ge us2-sa
 #lem: par[canal]; kug[pure]\n5el3; us[follow]
 
-5.    1(szar2@c) gana2 {d}en-lilx(E2) 
+5.    1(szar2@c) gana2 {d}en-lilx(E2)
 #lem: n; gana[field]; Enlil[1]DN
 
 @m column 2
@@ -13589,7 +13589,7 @@ En-metenának, az Antaszura felépítőjének, Sul-MUŠxPA a védőistene.
 @translation unitary en project
 @unit 1
 @span shoulder i 1 - shoulder ii 6
-En-metena, ruler of Lagaš, parceled out 25 @bur of land, (a field called) En-ana-tum-sur-Nanše-etaed, 11 @bur of land, (a field called) Nizuh-šub in the marshland of Niĝin, next to the holy canal, and 60 @bur of land, (a field called) Enlil in the area of Gu-edena for Enlil of the E-adda. 
+En-metena, ruler of Lagaš, parceled out 25 @bur of land, (a field called) En-ana-tum-sur-Nanše-etaed, 11 @bur of land, (a field called) Nizuh-šub in the marshland of Niĝin, next to the holy canal, and 60 @bur of land, (a field called) Enlil in the area of Gu-edena for Enlil of the E-adda.
 
 @unit 2
 @span statue i 1 - statue i 2
@@ -13597,19 +13597,19 @@ For Enlil of the E-adda.
 
 @unit 3
 @span statue i 3 - statue ii 2
-En-metena, ruler of Lagaš, chosen by Nanše in the heart, chief governor of Ninĝirsu, child of En-ana-tum, ruler of Lagaš, descendant of Ur-Nanše, king of Lagaš, built the sanctuary of Dugru for Ninĝirsu, built him the A-huš, the temple that is looked upon with favour. 
+En-metena, ruler of Lagaš, chosen by Nanše in the heart, chief governor of Ninĝirsu, child of En-ana-tum, ruler of Lagaš, descendant of Ur-Nanše, king of Lagaš, built the sanctuary of Dugru for Ninĝirsu, built him the A-huš, the temple that is looked upon with favour.
 
 @unit 4
 @span statue ii 3 - statue ii 5
-For Lugal-uruba, he built his great temple in Urub. 
+For Lugal-uruba, he built his great temple in Urub.
 
 @unit 5
 @span statue ii 6 - statue ii 8
-For Nanše, he built the E-engur in Zulum. 
+For Nanše, he built the E-engur in Zulum.
 
 @unit 6
 @span statue ii 9 - statue ii 12
-For Enki, king of Eridug, he built the Abzu-pasira. 
+For Enki, king of Eridug, he built the Abzu-pasira.
 
 @unit 7
 @span statue ii 13 - statue ii 16
@@ -13617,23 +13617,23 @@ For Ninhursaĝa, he built the high temple of Tirkug.
 
 @unit 8
 @span statue ii 17 - statue ii 19
-For Ninĝirsu, he built the Antasura. 
+For Ninĝirsu, he built the Antasura.
 
 @unit 9
 @span statue ii 20 - statue ii 21
-For (Nanše), he built the Šage-pada. 
+For (Nanše), he built the Šage-pada.
 
 @unit 10
 @span statue ii 22 - statue ii 23
-He built the temple of Ĝatumdug. 
+He built the temple of Ĝatumdug.
 
 @unit 11
 @span statue iii 1 - statue iii 4
-For Nanše, he built her lofty high temple and restored her temple. 
+For Nanše, he built her lofty high temple and restored her temple.
 
 @unit 12
 @span statue iii 5 - statue iii 7
-For Enlil, he built the E-adda in Imsaĝ. 
+For Enlil, he built the E-adda in Imsaĝ.
 
 @unit 13
 @span statue iii 8 - statue iv 1
@@ -13662,39 +13662,39 @@ Felépítette Lugal-urubának nagy templomát Urubban.
 
 @unit 5
 @span statue ii 6 - statue ii 8
-Felépítette Nansénak az E-engurát Zulumban. 
+Felépítette Nansénak az E-engurát Zulumban.
 
 @unit 6
 @span statue ii 9 - statue ii 12
-Felépítette Enkinek, Eridug királyának, az Abzu-paszurát. 
+Felépítette Enkinek, Eridug királyának, az Abzu-paszurát.
 
 @unit 7
 @span statue ii 13 - statue ii 16
-Felépítette Ninhurszagnak magas templomát Tirkugban. 
+Felépítette Ninhurszagnak magas templomát Tirkugban.
 
 @unit 8
 @span statue ii 17 - statue ii 19
-Felépítette Ningirszunak az Antaszurát. 
+Felépítette Ningirszunak az Antaszurát.
 
 @unit 9
 @span statue ii 20 - statue ii 21
-Felépítette (Nansénak) a Sage-padát. 
+Felépítette (Nansénak) a Sage-padát.
 
 @unit 10
 @span statue ii 22 - statue ii 23
-Felépítette Gatumdug templomát. 
+Felépítette Gatumdug templomát.
 
 @unit 11
 @span statue iii 1 - statue iii 4
-Nansénak felépítette fenséges magas templomát, és helyreállította templomát. 
+Nansénak felépítette fenséges magas templomát, és helyreállította templomát.
 
 @unit 12
 @span statue iii 5 - statue iii 7
-Felépítette Enlilnek az E-addát Imszagban. 
+Felépítette Enlilnek az E-addát Imszagban.
 
 @unit 13
 @span statue iii 8 - statue iv 1
-Ekkoriban (történt, hogy) En-metena megformálta (saját) szobrát, az "En-metena Enlil kedveltje" nevet adta neki és behozta Enlil elé a templomba. 
+Ekkoriban (történt, hogy) En-metena megformálta (saját) szobrát, az "En-metena Enlil kedveltje" nevet adta neki és behozta Enlil elé a templomba.
 
 @unit 14
 @span statue iv 2 - statue iv 10
@@ -13813,7 +13813,7 @@ For Enlil of the E-adda, En-metena, ruler of Lagaš, given strength by Enlil, no
 
 @unit 2
 @span i 1' - i 8'
-(When ...) took him by the hand from among the multitude of people, and Enlil granted to En-metena the lofty scepter of destiny from Nibru, .... 
+(When ...) took him by the hand from among the multitude of people, and Enlil granted to En-metena the lofty scepter of destiny from Nibru, ....
 
 @unit 3
 @span ii 1' - ii 4'
@@ -14102,7 +14102,7 @@ $ broken
 @translation unitary en project
 @unit 1
 @span 1 - 10
-For Ĝatumdug, En-metena, ruler of Lagaš, chosen by Nanše in the heart, chief governor of Ninĝirsu, the child born by Ĝatumdug, .... 
+For Ĝatumdug, En-metena, ruler of Lagaš, chosen by Nanše in the heart, chief governor of Ninĝirsu, the child born by Ĝatumdug, ....
 
 @translation unitary hun project
 @unit 1
@@ -14223,8 +14223,8 @@ For Lugal-Uruba, Ama-ušumgal-ana.
 
 @unit 2
 @span 3 - 30
-When Nanše gave the kingship of Lagaš to En-metena, ruler of Lagaš, chosen by Nanše in the heart, chief governor of Ninĝirsu, child of En-ana-tum, and Ninĝirsu proclaimed his name, then for Lugal-Uruba, En-metena, ruler of Lagaš, built his great temple in Urub, decorated it with gold and silver, and 
-assigned precious metals, lapis lazuli, 20 oxen, and 20 sheep to Lugal-Uruba's courtyard as regular offering. 
+When Nanše gave the kingship of Lagaš to En-metena, ruler of Lagaš, chosen by Nanše in the heart, chief governor of Ninĝirsu, child of En-ana-tum, and Ninĝirsu proclaimed his name, then for Lugal-Uruba, En-metena, ruler of Lagaš, built his great temple in Urub, decorated it with gold and silver, and
+assigned precious metals, lapis lazuli, 20 oxen, and 20 sheep to Lugal-Uruba's courtyard as regular offering.
 
 @unit 3
 @span 31 - 34
@@ -14290,7 +14290,7 @@ Baunak, a jóságos asszonynak, En-metena, Lagas uralkodója, Nanse kiválasztot
 
 @m column 1
 
-$	broken 
+$	broken
 1'.	[{d}nansze]-ra#
 #lem: Nanše[1]DN
 
@@ -14487,7 +14487,7 @@ $ broken
 #lem: ama[mother]; dumu[child]\l2; gi[turn] +.
 
 6.	dumu# ama# mu#-ni#-gi4
-#lem: dumu[child; ama[mother]\l2; gi[turn] +.
+#lem: dumu[child]; ama[mother]\l2; gi[turn] +.
 
 7.	[...]{ki#}
 #lem: u
@@ -14598,7 +14598,7 @@ He released (the people of) Lagaš, let the mother return to (her) child, and le
 
 @unit 5
 @span vi 2 - vi 10
-Since he built a weir on the Lumagin-dug canal in the Gu-edena for him, Ninĝirsu will care about En-metena's good fame forever. 
+Since he built a weir on the Lumagin-dug canal in the Gu-edena for him, Ninĝirsu will care about En-metena's good fame forever.
 
 @unit 6
 @span vi 11 - viii 2
@@ -14610,7 +14610,7 @@ The personal god of E-ana-tum, the builder of Ninĝirsu's dam, is Šul-MUŠxPA.
 
 @unit 8
 @span viii 8
-At that time Dudu was the temple administrator of Ninĝirsu. 
+At that time Dudu was the temple administrator of Ninĝirsu.
 
 @translation unitary hun project
 @unit 1
@@ -14619,7 +14619,7 @@ Ningirszunak, Enlil harcosának.
 
 @unit 2
 @span i 3 - iv 8
-Amikor Ningirszu Girnunból kiválasztotta őt szent szívében és az E-ninnuból kiszabta sorsát, és Nanse Szirarából kegyesen tekintett rá, akkor En-metena, Lagas uralkodója, akinek Enlil adott erőt, akit Ninhurszaga etetett tápláló tejjel, Nanse kiválasztottja, Ningirszu főhelytartója, Lugal-Uruba édes gyermeke, En-anatumnak, Lagas uralkodójának gyermeke, 648 000 égetett téglából és 1840 sztenderd @gur bitumenből gátat emelt a Lummagin-dug csatornán Ningirszunak. 
+Amikor Ningirszu Girnunból kiválasztotta őt szent szívében és az E-ninnuból kiszabta sorsát, és Nanse Szirarából kegyesen tekintett rá, akkor En-metena, Lagas uralkodója, akinek Enlil adott erőt, akit Ninhurszaga etetett tápláló tejjel, Nanse kiválasztottja, Ningirszu főhelytartója, Lugal-Uruba édes gyermeke, En-anatumnak, Lagas uralkodójának gyermeke, 648 000 égetett téglából és 1840 sztenderd @gur bitumenből gátat emelt a Lummagin-dug csatornán Ningirszunak.
 
 @unit 3
 @span iv 9 - v 1
@@ -14635,7 +14635,7 @@ Mivel a Lummagin-dug csatornán gátat emelt neki a Gu-edenában, Ningirszu ör�
 
 @unit 6
 @span vi 11 - viii 2
-Entemena, ... Ningirszu ..., a Lummagin-dug csatornán gátat emelt Ningirszunak, urának, aki szereti őt, és a kedvéért a “Ningirszu ...” nevet adta neki. 
+Entemena, ... Ningirszu ..., a Lummagin-dug csatornán gátat emelt Ningirszunak, urának, aki szereti őt, és a kedvéért a “Ningirszu ...” nevet adta neki.
 
 @unit 7
 @span viii 3 - viii 7
@@ -14755,7 +14755,7 @@ Ekkoriban Dudu volt Ningirszu templomgazdaságának vezetője.
 
 7.	{d}nin-jir2-su2-ra
 #lem: Ninŋirsuk[1]DN
- 
+
 8.	e2-ninnu-a
 #lem: Eninnu[1]TN
 
@@ -14790,11 +14790,11 @@ En-metena, Lagas uralkodója, En-ana-tumnak, Lagas uralkodójának gyermeke, Nin
 
 @unit 3
 @span ii 8 - iv 3
-Ekkoriban (történt, hogy) szolgája, Dudu, Ningirszu templomgazdaságának vezetője, felépítette a gu-edenai Sala melletti falat, és a kedvéért a "A templom a puszta figyelője" nevet adta neki. Felépítette az átkelőhajók kikötőjének falát Girszuban, és a kedvéért “Az úr az életerő” nevet adta neki. 
+Ekkoriban (történt, hogy) szolgája, Dudu, Ningirszu templomgazdaságának vezetője, felépítette a gu-edenai Sala melletti falat, és a kedvéért a "A templom a puszta figyelője" nevet adta neki. Felépítette az átkelőhajók kikötőjének falát Girszuban, és a kedvéért “Az úr az életerő” nevet adta neki.
 
 @unit 4
 @span iv 4 - iv 9
-A védőistene, Sul-MUSxPA, hódoljon Ningirszunak az E-ninnuban az életéért! 
+A védőistene, Sul-MUSxPA, hódoljon Ningirszunak az E-ninnuban az életéért!
 
 &Q001116 = Enmetena 28 [E1.9.5.28]
 @composite
@@ -14851,11 +14851,11 @@ Dudu, the exalted temple administrator of Ninĝirsu.
 @translation unitary hun project
 @unit 1
 @span Main Text, 1 - Main Text, 7
-Az E-ninnu Ningirszujának, Dudu, Ningirszu templomgazdaságának vezetője, hozatta (ezt az anyagot) Arawából, és készítette ezt (a táblácskát) a tetőgerenda szögek alá. 
+Az E-ninnu Ningirszujának, Dudu, Ningirszu templomgazdaságának vezetője, hozatta (ezt az anyagot) Arawából, és készítette ezt (a táblácskát) a tetőgerenda szögek alá.
 
 @unit 2
 @span Caption 1, 1 - Caption 1, 3
-Dudu. Ningirszu templomgazdaságának fenséges vezetője. 
+Dudu. Ningirszu templomgazdaságának fenséges vezetője.
 
 
 &Q003648 = En-metena 29 [E1.9.5.29]
@@ -14871,12 +14871,12 @@ Dudu. Ningirszu templomgazdaságának fenséges vezetője.
 @translation unitary en project
 @unit 1
 @span 1 - 2
-(Weight stone of 1) mana for (measuring) wool rations, (certified by) Dudu, the temple administrator. 
+(Weight stone of 1) mana for (measuring) wool rations, (certified by) Dudu, the temple administrator.
 
 @translation unitary hun project
 @unit 1
 @span 1 - 2
-(1) mana (súlyú mérőkő) gyapjú fejadagok (méréséhez), Dudu, a templomgazdaság vezetője (által hitelesítve). 
+(1) mana (súlyú mérőkő) gyapjú fejadagok (méréséhez), Dudu, a templomgazdaság vezetője (által hitelesítve).
 
 &Q003649 = En-metena 30 [E.1.9.5.30]
 @composite
@@ -15248,7 +15248,7 @@ $ broken
 
 @unit 3
 @span iii 1' - iii 4'
-... megformálta (saját) szobrát, az "Lugal-Anda-nuhuga fáradhatatlan Girnunért" nevet adta neki, .... 
+... megformálta (saját) szobrát, az "Lugal-Anda-nuhuga fáradhatatlan Girnunért" nevet adta neki, ....
 
 @unit 4
 @span iv 1' - iv 2'
@@ -15472,7 +15472,7 @@ Barag-namtara, Lugal-Andának, Lagaš uralkodójának házastársa.
 #lem: ki[place]; szum[garlic]
 
 16.	ki ukusz2
-#lem: ki[place]; ukuš[cucumber]\gen 
+#lem: ki[place]; ukuš[cucumber]\gen
 
 17.	ensi2-ka
 #lem: ensik[ruler]\gen\abs
@@ -15507,7 +15507,7 @@ Barag-namtara, Lugal-Andának, Lagaš uralkodójának házastársa.
 
 5.	{tug2}|U3.ASZ2|
 #lem: UASZ[garment]\abs
- 
+
 6.	{tug2}szu-du8-ur3
 #lem: szutur[garment]\abs
 
@@ -15969,7 +15969,7 @@ Barag-namtara, Lugal-Andának, Lagaš uralkodójának házastársa.
 9.	ba-tumu3
 #lem: de[bring] +.
 
-10.	1(asz@c) |NIG2.SAG.LAL.MUNUS| 
+10.	1(asz@c) |NIG2.SAG.LAL.MUNUS|
 #lem: n; NIG.SAG.LAL.MUNUS[headdress]\abs
 
 11.	1(asz@c) sila3 ir nun
@@ -16087,7 +16087,7 @@ Barag-namtara, Lugal-Andának, Lagaš uralkodójának házastársa.
 
 10.	lu2 saj-bur iri ak-da-kam
 #lem: lu[person]; saŋbur[priest]; iri[city]\n5edat; ak[do] +.
-      
+
 11.   addirx(|PAD.DUG.GISZ.SI|) a-bul5-la
 #lem: addir[hire]; abula[gate]\gen\abs
 
@@ -16313,7 +16313,7 @@ Barag-namtara, Lugal-Andának, Lagaš uralkodójának házastársa.
 
 @translation unitary en project
 @unit 1
-@span i 1 - iii 1 
+@span i 1 - iii 1
 For Ninĝirsu, Enlil's warrior, Iri-kagina, king of Lagaš, built the great temple of Tiraš, built the Antasura. He built the temple of Bau, built the Bur-saĝ, her house of regular offerings, built her sheep-shearing shed in Iri-kug for her. For Nanše he dug the Id-Niĝin-du, her beloved canal, extending it into the sea. He built the city wall of Ĝirsu for (Ninĝirsu).
 
 @unit 2
@@ -16370,7 +16370,7 @@ The craftsmen received the bread for the @šu'ila prayer. The @?double?@ @?men?@
 
 @unit 15
 @span vii 5 - vii 11
-The ruler's households and fields, the households and fields of the female (members' of the ruler's family), the households and fields of the (ruler's) children were @?consolidated?@. 
+The ruler's households and fields, the households and fields of the female (members' of the ruler's family), the households and fields of the (ruler's) children were @?consolidated?@.
 
 @unit 16
 @span vii 12 - vii 16
@@ -16442,7 +16442,7 @@ The lamentation singers of Ĝirsu are (entitled to) 420 loaves of @?dry?@ bread,
 
 @unit 33
 @span x 24 - x 27
-The lamentation singers of Lagaš are (entitled to) 490 loaves of bread, 2 @mud vessels and 1 @sadug vessel of beer. 
+The lamentation singers of Lagaš are (entitled to) 490 loaves of bread, 2 @mud vessels and 1 @sadug vessel of beer.
 
 @unit 34
 @span x 28 - x 30
@@ -16462,7 +16462,7 @@ For a blind worker who serves at ..., his bread allotment is 1 loaf, 5 loaves ar
 
 @unit 38
 @span xi 7 - xi 10
-The man of the @saĝbur priest who is to perform for the city is (entitled to) 60 loaves of bread, 1 mud vessel of beer, and 3 @ban of barley. 
+The man of the @saĝbur priest who is to perform for the city is (entitled to) 60 loaves of bread, 1 mud vessel of beer, and 3 @ban of barley.
 
 @unit 39
 @span xi 11 - xi 13
@@ -16616,7 +16616,7 @@ Amikor valakit Enki gyékény(szőnyegében) temetnek el, annak (ára) 4 korsó 
 
 @unit 33
 @span x 24 - x 27
-490 kenyér, 2 @mud edény és 1 @szadug edény sör (jár) Lagas siratóénekeseinek. 
+490 kenyér, 2 @mud edény és 1 @szadug edény sör (jár) Lagas siratóénekeseinek.
 
 @unit 34
 @span x 28 - x 30
@@ -16653,7 +16653,7 @@ A ... templomgazdaságvezetője többé nem lép a "Szegény anyák" kertbe.
 @unit 42
 @span xi 20 - xi 31
 Amikor egy királyi kísérőnek szép szamara születik és a (kísérő) felügyelője azt mondja neki "Megveszem tőled!"; akkor akár eladja neki mondván "Fizess annyi ezüstöt nekem, amennyivel elégedett a szívem!", akár nem adja el, a felügyelő ne tápláljon haragot iránta ezért.
-   
+
 @unit 43
 @span xi 32 - xii 11
 Amikor egy királyi kísérő háza egy fontos ember házával határos, és ez a fontos ember azt mondja neki "Megveszem tőled!"; akkor akár eladja neki mondván "Fizess annyi ezüstöt nekem, amennyivel elégedett a szívem! A házam egy edény, töltsd tele gabonával!", akár nem adja el, a fontos ember ne tápláljon haragot iránta ezért.
@@ -17095,7 +17095,7 @@ $ broken
 #lem: e[house]; emi[household]
 
 2'. [aszag] e2#-mi2-e
-#lem: aszag[field];; emi[household]
+#lem: aszag[field]; emi[household]
 
 3'. en-na tuku-a
 #lem: enna[until]; tuku[acquire]\gen
@@ -17144,7 +17144,7 @@ $ broken
 
 8'. inim i3-gi4#
 #lem: inim[word]\abs; gi[turn]\v14sg3s +.
- 
+
 $ broken
 
 @translation unitary en project
@@ -17158,7 +17158,7 @@ The team donkeys and the unblemished oxen ....
 
 @unit 3
 @span ii 1' - ii 8'
-Bau became the owner of all the households and fields of the female (members' of the ruler's family). ... all the households fields of the (ruler's) children. 
+Bau became the owner of all the households and fields of the female (members' of the ruler's family). ... all the households fields of the (ruler's) children.
 
 @unit 4
 @span iii 1' - iii 4'
@@ -17243,7 +17243,7 @@ Nansénak kitisztította kedves csatornáját, az Id-Nigin-dut. Az elejénél fe
 
 &Q001133 = Iri-kagina 5 [E1.9.9.5]
 @composite
-#project: etcsri 
+#project: etcsri
 #link: source P222618 = FAOS 05/1, Ukg 16
 
 @m obverse
@@ -17576,59 +17576,59 @@ Nansénak kitisztította kedves csatornáját, az Id-Nigin-dut. Az elejénél fe
 @translation unitary en project
 @unit 1
 @span o i 1 - o i 3
-The leader of Umma set fire to boundary levees. 
+The leader of Umma set fire to boundary levees.
 
 @unit 2
-@span o i 4 - o i 7 
+@span o i 4 - o i 7
 He set fire to the Antasura. He seized all its precious metal and lapis lazuli.
 
 @unit 3
-@span o i 8 - o i 9 
-He looted the great temple of Tiraš. 
+@span o i 8 - o i 9
+He looted the great temple of Tiraš.
 
 @unit 4
-@span o i 10 - o i 11 
+@span o i 10 - o i 11
 He looted the Abzu-banda.
 
 @unit 5
-@span o i 12 - o ii 1 
+@span o i 12 - o ii 1
 He looted the pedestal of Enlil and the pedestal of Utu.
 
 @unit 6
-@span o ii 2 - o ii 5 
+@span o ii 2 - o ii 5
 He looted the Ahuš. He seized all its precious metal and lapis lazuli.
 
 @unit 7
-@span o ii 6 - o ii 9 
+@span o ii 6 - o ii 9
 He looted the E-babbar. He seized all its precious metal and lapis lazuli.
 
 @unit 8
-@span o ii 10 - o iii 2 
+@span o ii 10 - o iii 2
 He looted the high temple of Ninmah in Tirkug. He seized all its precious metal and lapis lazuli.
 
 @unit 9
-@span o iii 3 - o iii 6 
+@span o iii 3 - o iii 6
 He looted the Bagara. He seized all its precious metal and lapis lazuli.
 
 @unit 10
-@span o iii 7 - o iii 10 
-He set fire to the Dugru. He seized all its precious metal and lapis lazuli. 
+@span o iii 7 - o iii 10
+He set fire to the Dugru. He seized all its precious metal and lapis lazuli.
 
 @unit 11
-@span o iii 11 - o iii 12 
+@span o iii 11 - o iii 12
 He looted the Abzu-ega.
 
 @unit 12
-@span o iii 13 - o iv 4 
-He set fire to the temple of Ĝatumdug. He seized all its precious metal and lapis lazuli. He destroyed all its statues. 
+@span o iii 13 - o iv 4
+He set fire to the temple of Ĝatumdug. He seized all its precious metal and lapis lazuli. He destroyed all its statues.
 
 @unit 13
-@span o iv 5 - o iv 10 
+@span o iv 5 - o iv 10
 He set fire to Inana’s oval E-ana. He seized all its precious metal and lapis lazuli. He destroyed all its statues.
 
 @unit 14
 @span o iv 10 - o iv 14
-He looted the Šagepada. He seized all its precious metal and lapis lazuli. 
+He looted the Šagepada. He seized all its precious metal and lapis lazuli.
 
 @unit 15
 @span o v 1 - o v 2
@@ -17652,14 +17652,14 @@ He looted the E-engura of Nanše. He seized all its precious metal and lapis laz
 
 @unit 20
 @span r i 11 - r ii 6
-In Saĝub, he looted the temple of Ama-ĝeštin. He seized all her precious metal and lapis lazuli from (the statue of) Ama-ĝeštin, and threw (the statue) in (the temple’s) well. 
+In Saĝub, he looted the temple of Ama-ĝeštin. He seized all her precious metal and lapis lazuli from (the statue of) Ama-ĝeštin, and threw (the statue) in (the temple’s) well.
 
 @unit 21
 @span r ii 7 - r ii 9
 He tore out the barley of all the cultivated fields of Ninĝirsu.
 
 @unit 22
-@span r ii 10 - r iv 3 
+@span r ii 10 - r iv 3
 Having raided Lagaš, the leader of Umma surely committed a sin against Ninĝirsu! He raised a hand against him, (and that hand) must be cut off! Iri-kagina, the king of Ĝirsu, is not capable of punishment. May Nisaba, the personal god of Lugal-zage-si, the ruler of Umma, take the responsibility for the punishment!
 
 @translation unitary hun project
@@ -17669,63 +17669,63 @@ Umma vezetője felgyújtotta a határjelző töltéseket.
 
 @unit 2
 @span o i 4 - o i 7
-Felgyújtotta az Antaszurát. Az összes nemes fémet és lápisz lazulit elragadta belőle. 
+Felgyújtotta az Antaszurát. Az összes nemes fémet és lápisz lazulit elragadta belőle.
 
 @unit 3
-@span o i 8 - o i 9 
-Kifosztotta Tiras nagy templomát. 
+@span o i 8 - o i 9
+Kifosztotta Tiras nagy templomát.
 
 @unit 4
-@span o i 10 - o i 11 
+@span o i 10 - o i 11
 Kifosztotta az Abzu-bandát.
 
 @unit 5
-@span o i 12 - o ii 1 
+@span o i 12 - o ii 1
 Kifosztotta Enlil talapzatát, és Utu talapzatát.
 
 @unit 6
-@span o ii 2 - o ii 5 
+@span o ii 2 - o ii 5
 Kifosztotta az Ahust. Az összes nemes fémet és lápisz lazulit elragadta belőle.
 
 @unit 7
-@span o ii 6 - o ii 9 
+@span o ii 6 - o ii 9
 Kifosztotta az E-babbart. Az összes nemes fémet és lápisz lazulit elragadta belőle.
 
 @unit 8
-@span o ii 10 - o iii 2 
+@span o ii 10 - o iii 2
 Kifosztotta Ninmah magastemplomát Tirkugban. Az összes nemes fémet és lápisz lazulit elragadta belőle.
 
 @unit 9
-@span o iii 3 - o iii 6 
+@span o iii 3 - o iii 6
 Kifosztotta a Bagarát. Az összes nemes fémet és lápisz lazulit elragadta belőle.
 
 @unit 10
-@span o iii 7 - o iii 10 
+@span o iii 7 - o iii 10
 Felgyújtotta a Dugrut. Az összes nemes fémet és lápisz lazulit elragadta belőle.
 
 @unit 11
-@span o iii 11 - o iii 12 
+@span o iii 11 - o iii 12
 Kifosztotta az Abzu-egát.
 
 @unit 12
-@span o iii 13 - o iv 4 
+@span o iii 13 - o iv 4
 Felgyújtotta Gatumdug templomát. Az összes nemes fémet és lápisz lazulit elragadta belőle. Az összes szobrát elpusztította.
 
 @unit 13
-@span o iv 5 - o iv 10 
+@span o iv 5 - o iv 10
 Felgyújtotta Inana ovális E-anáját. Az összes nemes fémet és lápisz lazulit elragadta belőle. Az összes szobrát elpusztította.
 
 @unit 14
 @span o iv 10 - o iv 14
-Kifosztotta a Sagepadát. Az összes nemes fémet és lápisz lazulit elragadta belőle. 
+Kifosztotta a Sagepadát. Az összes nemes fémet és lápisz lazulit elragadta belőle.
 
 @unit 15
 @span o v 1 - o v 2
-Hendában minden tetőt leszaggatott. 
+Hendában minden tetőt leszaggatott.
 
 @unit 16
 @span o v 3 - o v 7
-Kiesában kifosztotta Nindara templomát. Az összes nemes fémet és lápisz lazulit elragadta belőle. 
+Kiesában kifosztotta Nindara templomát. Az összes nemes fémet és lápisz lazulit elragadta belőle.
 
 @unit 17
 @span o v 8 - r i 1
@@ -17745,10 +17745,10 @@ Szagubban kifosztotta Ama-gestin templomát. Az összes nemes fémet és lápisz
 
 @unit 21
 @span r ii 7 - r ii 9
-A gabonát elpusztította Ningirszu valamennyi bevetett szántóföldjén. 
+A gabonát elpusztította Ningirszu valamennyi bevetett szántóföldjén.
 
 @unit 22
-@span r ii 10 - r iv 3 
+@span r ii 10 - r iv 3
 Lagas kirablásával Umma vezetője bizony bűnt követett el Ningirszu ellen. Kezet emelt ellene, (és az a kéz) le kell, hogy legyen vágva! Iri-kagina, Girszu királya, nem képes büntetésre. A felelőséget a büntetésért viselje Niszaba, Lugal-zage-szi, Umma uralkodójának védőistene!
 
 &Q001130 = Iri-kagina 9 [E1.9.9.9]
@@ -17812,7 +17812,7 @@ For ... he built his great temple of Tiraš, built his royal .... For Bau he bui
 
 @unit 2
 @span 8' - 16'
-May Šul-MUŠxPA, the personal god Iri-kagina, the builder of Ninĝirsu's E-ĝidru, pay obeisance to Ninĝirsu perpetually for (Iri-kagina's) well-being! 
+May Šul-MUŠxPA, the personal god Iri-kagina, the builder of Ninĝirsu's E-ĝidru, pay obeisance to Ninĝirsu perpetually for (Iri-kagina's) well-being!
 
 @translation unitary hun project
 @unit 1
@@ -17821,7 +17821,7 @@ May Šul-MUŠxPA, the personal god Iri-kagina, the builder of Ninĝirsu's E-ĝid
 
 @unit 2
 @span 8' - 16'
-Sul-MUSxPA, Iri-kagina, Ningirszu E-gidrujának építője védőistene, hódoljon örökké Ningirszunak (Irió-kagina) életéért. 
+Sul-MUSxPA, Iri-kagina, Ningirszu E-gidrujának építője védőistene, hódoljon örökké Ningirszunak (Irió-kagina) életéért.
 
 &Q001127 = Iri-kagina 10 [E1.9.9.10]
 @composite
@@ -17913,7 +17913,7 @@ For Enlil, he built the Adda in Imsaĝ. For Ninĝirsu he dug her beloved canal, 
 @unit 4
 @span iv 1' - iv 3'
 ... Iri-kagina, king of Lagaš, ....
- 
+
 @translation unitary hun project
 @unit 1
 @span i 1' - i 2'
@@ -17934,7 +17934,7 @@ Enlilnek az E-addát Imszagban felépítette. Ningirszunak kiásta kedves csator
 
 &Q001131 = Iri-kagina 11 [E1.9.9.11]
 @composite
-#project: etcsri 
+#project: etcsri
 #link: source P222616 = FAOS 05/1, Ukg 13
 
 1.	[{d}ba-u2]
@@ -17981,11 +17981,11 @@ Baunak, a jóságos asszonynak, Ningirszu-lugu, a követ, Iri-kaginának, Lagas 
 
 2.     iri-ka-gen6-na
 #lem: Irikaginak[1]RN
- 
-3.     lugal 
+
+3.     lugal
 #lem: lugal[king]
 
-4.    lagasz{ki} 
+4.    lagasz{ki}
 #lem: Lagaš[1]\gen\abs +.
 
 @translation unitary en project
@@ -18003,27 +18003,27 @@ Ningirszunak. Iri-kagina, Lagas királya.
 #project: etcsri
 #link: source P247674 = RIME 1.09.09.13, ex. 01
 
-1. 1(u@c) 5(asz@c) gij4 
+1. 1(u@c) 5(asz@c) gij4
 #lem: n; n; giŋ[unit]\abs
 
-2.    {d}nin-jir2-su 
+2.    {d}nin-jir2-su
 #lem: Ninŋirsuk[1]DN\dat
 
-3.	iri-ka-gen6-na 
+3.	iri-ka-gen6-na
 #lem: Irikaginak[1]RN
 
-4.    lugal jir2-su2{ki} 
+4.    lugal jir2-su2{ki}
 #lem: lugal[king]; Ŋirsu[1]SN\gen\abs
 
 @translation unitary en project
 @unit 1
 @span 1 - 4
-(Weight stone of) 15 shekel, for Ninĝirsu (certified by) Iri-kagina, king of Ĝirsu. 
+(Weight stone of) 15 shekel, for Ninĝirsu (certified by) Iri-kagina, king of Ĝirsu.
 
 @translation unitary hun project
 @unit 1
 @span 1 - 4
-15 sékel (súlyú mérőkő), Ningirszunak Iri-kagina, Girszu királya (által hitelesítve). 
+15 sékel (súlyú mérőkő), Ningirszunak Iri-kagina, Girszu királya (által hitelesítve).
 
 &Q001150 = Iri-kagina 14a [E1.9.9.14a]
 @composite
@@ -18465,7 +18465,7 @@ Guards of the city wall: Ebabbar. Iri-kagina, king of Lagaš.
 @span 1 - 5
 A városfal őrsége: Ebabbar. Iri-kagina, Lagas királya.
 
-&Q001135 = Iri-kagina 19 
+&Q001135 = Iri-kagina 19
 @composite
 #project: etcsri
 #link: source P222621 = FAOS 05/1, Ukg 19
@@ -18861,7 +18861,7 @@ A városfal őrsége: Ur-Ningublaga, a parancsnok Sul-barag. Iri-kagina, Lagas k
 
 &Q001148 = Iri-kagina 32
 @composite
-#project: etcsri 
+#project: etcsri
 #link: source P222634 = FAOS 05/1, Ukg 32
 
 1.	en-nu bad3
@@ -18901,7 +18901,7 @@ A városfal őrsége: Inana-ursag, a palota személyzet felügyelője. Iri-kagin
 #lem: ennuj[imprisonment//guards]; bad[wall]\abs
 
 2.	sipad unud
-#lem: sipad[shepherd]; unud[cowherd]\abs 
+#lem: sipad[shepherd]; unud[cowherd]\abs
 
 3.	iri-ka-gen6-na
 #lem: Irikaginak[1]RN
@@ -18932,7 +18932,7 @@ $     broken
 1'.	ensi2#
 #lem: ensik[ruler]
 
-2'.    lagasz{ki}	
+2'.    lagasz{ki}
 #lem:  Lagaš[1]\gen +.
 
 $     broken
@@ -19364,18 +19364,18 @@ $ 3 lines broken
 46. naj-{d}nansze-sze3
 #lem: Naŋnanšek[1]GN
 
-47. 1(gesz'u@c) 3(u@c) 6(asz@c)? {ninda}nindax(DU) 
+47. 1(gesz'u@c) 3(u@c) 6(asz@c)? {ninda}nindax(DU)
 #lem: n; n; n; nindan[pole]\abs
 
 48.  zag na du3#-a# {d}szara2-kam
 #lem: zag[side]; na[stone]\abs; du[build//erect]; Šara[1]DN +.
 
-49. naj-{d}nansze-ta 
+49. naj-{d}nansze-ta
 #lem: Naŋnanšek[1]GN
 
 50. id2-gibil-sze3
 #lem: Idgibil[1]WN
- 
+
 51. 2(gesz'u@c) la2 2(u@c) {ninda}nindax(DU)
 #lem: n; lal[small]; n; nindan[pole]\abs
 
@@ -19400,7 +19400,7 @@ $ 3 lines broken
 58.  mur-gu4#-{d}szara2#-sze3
 #lem: Murgušarak[1]GN
 
-59. 1(gesz'u@c) 3(gesz2@c) 1(u@c) {ninda}nindax(DU) 
+59. 1(gesz'u@c) 3(gesz2@c) 1(u@c) {ninda}nindax(DU)
 #lem: n; n; n; nindan[pole]\abs
 
 60. zag# na du3-a {d#}szara2-kam
@@ -19433,7 +19433,7 @@ $ 3 lines broken
 69. [an-za]-gar3-ta
 #lem: Anzagar[1]GN
 
-70. [...] 
+70. [...]
 #lem: u
 
 71. [... {ninda}nindax(DU)]
@@ -19504,59 +19504,59 @@ $ 4 lines missing
 
 
 @m column 1
-1. 	  {d}dumu-zid 
+1. 	  {d}dumu-zid
 #lem: Dumuzid[1]DN
 
-2.    lugal e11-ra 
+2.    lugal e11-ra
 #lem: lugal[king]; E[1]SN\gen\dat
 
-3.    lugal-zag-ge-si 
+3.    lugal-zag-ge-si
 #lem: Lugalzagesi[1]RN
 
-4.    ensi2 umma{ki} 
+4.    ensi2 umma{ki}
 #lem: ensik[ruler]; Umma[1]SN\gen
 
-5.    lu2-mah {d}nisaba-ke4 
+5.    lu2-mah {d}nisaba-ke4
 #lem: lumah[priest]; Nisabak[1]DN\gen\erg
 
-6.    dumu bu11-bu11 
+6.    dumu bu11-bu11
 #lem: dumu[child]; Bubu[1]RN
 
-7.    ensi2 umma{ki} 
+7.    ensi2 umma{ki}
 #lem: ensik[ruler]; Umma[1]SN\gen
 
-8.    lu2-mah {d}nisaba-ke4 
+8.    lu2-mah {d}nisaba-ke4
 #lem: lumah[priest]; Nisabak[1]DN\gen\gen\erg
 
-9.    {d}dumu-zid 
+9.    {d}dumu-zid
 #lem: Dumuzid[1]
 
 @m column 2
-1. 	  lugal e11-ra 
+1. 	  lugal e11-ra
 #lem: lugal[king]; E[1]SN\gen\dat
 
-2.    nam-til3-la-ni-sze3 
+2.    nam-til3-la-ni-sze3
 #lem: namtil[life]
 
-3.    e2-ni mu-na-du3 
+3.    e2-ni mu-na-du3
 #lem: e[house]\abs; !du[build] +.
 
-4.    temen-bi ki-a mi-ni-sig9-sig9 
+4.    temen-bi ki-a mi-ni-sig9-sig9
 #lem: temen[foundation]\abs; ki[place]; sig[put] +.
 
-5.    me-be2 si i3-mi-sa2-sa2 
+5.    me-be2 si i3-mi-sa2-sa2
 #lem: me[being]\n5el3; si[horn]\abs; sa[equal]\v10l3 +.
 
-6.    e2 {d}li9-si4? mu-du3 
+6.    e2 {d}li9-si4? mu-du3
 #lem: e[house]; Lisi[1]DN\gen\abs; du[build] +.
 
-7.    e2 {d}nisaba mu-du3 
+7.    e2 {d}nisaba mu-du3
 #lem: e[house]; Nisabak[1]DN\gen\abs; du[build] +.
 
-8.    e2-jidru umma{ki} mu-du3 
+8.    e2-jidru umma{ki} mu-du3
 #lem: Eŋidruk[2]TN; Umma[1]SN\gen\abs; du[build] +.
 
-9.    [e2]-jidru ki-an{ki} mu-du3 
+9.    [e2]-jidru ki-an{ki} mu-du3
 #lem: Eŋidruk[3]TN; Kian[1]SN\gen\abs; du[build] +.
 
 @translation unitary en project
@@ -19934,7 +19934,7 @@ Ninhurszagának: Aja-Ane-pada, Ur királya, Mes-Ane-padának, Ur királyának gy
 @unit 1
 @span 1 - 5
 To Ninazu, Luduga dedicated this for the well-being of Aya-Ane-pada.
- 
+
 @translation unitary hun project
 @unit 1
 @span 1 - 5
@@ -20079,7 +20079,7 @@ Enkinek, Eridug királyának, Elili, Ur királya, az Abzuját felépítette.
 #lem: nam[fate]; gal[big]; hul[rejoice]
 
 17.	{d}en-lil2 lugal ki aj2-ni
-#lem: Enlil[1]DN; lugal[king]; ki[place]\abs; aj[measure]\dat 
+#lem: Enlil[1]DN; lugal[king]; ki[place]\abs; aj[measure]\dat
 
 18.	nam-til3-la-ni-sze3
 #lem: namtil[life]
@@ -20099,7 +20099,7 @@ In his great happiness Lugal-kiĝeneš-dudu dedicated this (vessel) for his well
 @translation unitary hun project
 @unit 1
 @span 1 - 14
-Miután megáldotta Lugal-kigenes-dudut, Enlil, minden országok ura, egyesítette számára az @en és a királyi cimet: Urukban ezután mint @en, Urban pedig mint király uralkodott. 
+Miután megáldotta Lugal-kigenes-dudut, Enlil, minden országok ura, egyesítette számára az @en és a királyi cimet: Urukban ezután mint @en, Urban pedig mint király uralkodott.
 
 @unit 2
 @span 15 - 19
@@ -20197,7 +20197,7 @@ Annak, minden országok királyának, és Inanának, az E-ana úrnőjének, Luga
 
 @unit 2
 @span 5 - 14
-Miután Inana egyesítette Lugal-kigenes-dudu számára az @en és a királyi címet, (Lugal-kigenes-dudu) Urukban mint @en, Urban pedig mint király uralkodott. 
+Miután Inana egyesítette Lugal-kigenes-dudu számára az @en és a királyi címet, (Lugal-kigenes-dudu) Urukban mint @en, Urban pedig mint király uralkodott.
 
 @unit 3
 @span 15 - 22
@@ -20220,7 +20220,7 @@ Mikor Inana megáldotta Lugal-kigenes-dudut, Lugal-kigenes-dudu az életéért a
 @unit 1
 @span 1 - 3
 To Enlil, Lugal-kiĝeneš-dudu dedicated this.
- 
+
 @translation unitary hun project
 @unit 1
 @span 1 - 3
@@ -20243,7 +20243,7 @@ Enlilnek ajánlotta fel ezt Lugal-kigeneš-dudu.
 @unit 1
 @span 1 - 3
 To Enlil, Lugal-kiĝeneš-dudu dedicated this (disk).
- 
+
 @translation unitary hun project
 @unit 1
 @span 1 - 3
@@ -20325,7 +20325,7 @@ To Nanna, Anuzu, the merchant, dedicated this (vessel) for the well-being of Lug
 @translation unitary hun project
 @unit 1
 @span 1 - 11
-Nannának, Anuzu, a kereskedő, Lugal-kigenes-dudu, Kis királya életéért, Ninbanda életéért és Lugal-kiszale-szi életéért ajánlotta fel ezt (az edényt). 
+Nannának, Anuzu, a kereskedő, Lugal-kigenes-dudu, Kis királya életéért, Ninbanda életéért és Lugal-kiszale-szi életéért ajánlotta fel ezt (az edényt).
 
 &Q003909 = Lugal-kiĝeneš-dudu 7
 @composite
@@ -20414,7 +20414,7 @@ To Enlil, the king of all lands, his master, Lugal-kisale-si, king of Unug, king
 @translation unitary hun project
 @unit 1
 @span 1 - 14
-Enlilnek, minden ország királyának, urának, Lugal-kiszale-szi, Uruk királya, Ur királya, Lugal-kigenes-dudunak, Uruk királyának, Ur királyának elsőszülött gyermeke, az életéért ajánlotta fel ezt (az edényt). 
+Enlilnek, minden ország királyának, urának, Lugal-kiszale-szi, Uruk királya, Ur királya, Lugal-kigenes-dudunak, Uruk királyának, Ur királyának elsőszülött gyermeke, az életéért ajánlotta fel ezt (az edényt).
 
 &Q003669 = Lugal-kisale-si 2 [E1.14.15.2]
 @composite
@@ -20637,7 +20637,7 @@ To Enlil, king of all lands.
 
 @unit 2
 @span 3 - 18
-When the gods commanded him, En-šakuš-ana, lord of Sumer, king of the Land, conquered Kiš, and captured Enbi-Eštar, king of Kiš. The leader of Akšak and the leader Kiš ... the city that he also did conquer ....  
+When the gods commanded him, En-šakuš-ana, lord of Sumer, king of the Land, conquered Kiš, and captured Enbi-Eštar, king of Kiš. The leader of Akšak and the leader Kiš ... the city that he also did conquer ....
 
 @unit 3
 @span 1' - 8'
@@ -21358,24 +21358,24 @@ $ broken
 @translation unitary en project
 @unit 1
 @span i 1' - ii 5'
-..., king of Unug, provider of Inana, the man of Meš-saĝĝa-Unuga, the child born by Nisaba, ...,  
+..., king of Unug, provider of Inana, the man of Meš-saĝĝa-Unuga, the child born by Nisaba, ...,
 ... by Inana, given wisdom by Enki, the servant reared by Ningirim, ....
 
 @translation unitary hun project
 @span i 1' - ii 5'
 ... Uruk királya, Inana ellátója, Mes-sagga-Unuga embere, Niszaba édes gyermeke, ..., Inana ..., akinek Enki adott bölcsességet, a Ningirim által felnevelt szolga, ....
 
-&Q001223 = Anonymous Ešnuna 1 
+&Q001223 = Anonymous Ešnuna 1
 @composite
 #project: etcsri
 #link: source P222720 = FAOS 05/2, AnEshn 1
 
-1'. [nam]-til3#-la#-ni#-[da?] 
+1'. [nam]-til3#-la#-ni#-[da?]
 #lem: namtil[life]
-  
-2'. nam-til3! dam! dumu-ne-ne-[da?] 
+
+2'. nam-til3! dam! dumu-ne-ne-[da?]
 #lem: namtil[life]; dam[spouse]; dumu[child]
-  
+
 3'. a# mu-na-ru
 #lem: a[water]\abs; ru[cvve] +.
 
@@ -21389,7 +21389,7 @@ To ..., ... dedicated this (object) for his own well-being and for the well-bein
 @span 1' - 3'
 ... saját életéért, valamint házastársa és gyermekei életéért ajánlotta fel ezt (a tárgyat).
 
-&Q001224 = Anonymous Ešnuna 2 
+&Q001224 = Anonymous Ešnuna 2
 @composite
 #project: etcsri
 #link: source P222721 = FAOS 05/2, AnEshn 2
@@ -21397,13 +21397,13 @@ To ..., ... dedicated this (object) for his own well-being and for the well-bein
 1.     {d}ab-u2
 #lem: Abu[1]DN\dat
 
-2.    lugal-kisal-si 
+2.    lugal-kisal-si
 #lem: Lugalkisalesi[1]PN
 
 3.    dumu ar3-du2
 #lem: dumu[child]; Ardu[1]PN\gen\erg
 
-4.    a mu-ru 
+4.    a mu-ru
 #lem: a[water]\abs; ru[cvve]\dat +.
 
 @translation unitary en project
@@ -21482,7 +21482,7 @@ Baunak, a jóságos asszonynak, Luma-mesni, a magtár-ellenőr írnoka, az élet
 #project: etcsri
 #link: source P222664 = FAOS 05/1, AnLag 04
 
-$ 	broken 
+$ 	broken
 
 1'. 	{d#}[nin]-jir2-[su]-ra
 #lem: Ninŋirsuk[1]DN
@@ -21493,7 +21493,7 @@ $ 	broken
 @translation unitary en project
 @unit 1
 @span 1' - 2'
-... dedicated this (vessel) for ... to Ninĝirsu. 
+... dedicated this (vessel) for ... to Ninĝirsu.
 
 @translation unitary hun project
 @unit 1
@@ -21537,7 +21537,7 @@ $ broken
 1'.    {d}lugal-urub{ki}-ra
 #lem: Lugalurubak[1]DN
 
-2'.   lugal-mu-da-kusz2? 
+2'.   lugal-mu-da-kusz2?
 #lem: Lugalmudakuš[1]PN\erg
 
 3'.   mu-na-dim2
@@ -21582,14 +21582,14 @@ To Ninĝirsu, Dudu, the scribe, and Aya-anzud dedicated this (statue).
 @translation unitary hun project
 @unit 1
 @span 1 - 5
-Ningirszunak, Dudu, az írnok, és Aya-anzud ajánlotta fel ezt (a szobrot). 
+Ningirszunak, Dudu, az írnok, és Aya-anzud ajánlotta fel ezt (a szobrot).
 
 &Q001181 = Anonymous Lagaš 10
 @composite
 #project: etcsri
 #link: source P222669 = FAOS 05/1, AnLag 10
 
-$ broken 
+$ broken
 
 @m column 1
 1. 	  aszag gu2-eden-na
@@ -21627,7 +21627,7 @@ For ..., he plowed the fields of the Gu-edena. ... @guru ....
 3.    ud-bi-kur-ra
 #lem: Udbikura[1]PN
 
-4.    sukkal 
+4.    sukkal
 #lem: sukkal[secretary]\erg
 
 5.    a mu-na-ru
@@ -21677,7 +21677,7 @@ A Bagara Ningirszujának, ... ajánlotta fel ezt (az edényt).
 
 1. {d}nin-jir2-[su2]
 #lem: Ninŋirsuk[1]DN
- 
+
 2. ba-gara2-[ra]
 #lem: Bagara[1]TN +.
 
@@ -21721,7 +21721,7 @@ To Ninĝirsu of the Bagara, ... the stone-cutter, child of  Ama-abzu-si, the sto
 @translation unitary hun project
 @unit 1
 @span 1 - 8
-... a kőfaragó, Ama-abzu-szinak, a kőfaragónak a gyermeke, ajánlotta fel ezt (a buzogányt) a Bagara Ningirszujának .... 
+... a kőfaragó, Ama-abzu-szinak, a kőfaragónak a gyermeke, ajánlotta fel ezt (a buzogányt) a Bagara Ningirszujának ....
 
 &Q001188 = Anonymous Lagaš 17
 @composite
@@ -21764,8 +21764,8 @@ Az Ebgal Inanájának, ....
 
 @translation unitary hun project
 @unit 1
-@span 1 
-.... 
+@span 1
+....
 
 &Q001190 = Anonymous Lagaš 19
 @composite
@@ -21788,7 +21788,7 @@ $ broken
 2. kug-sig17# [...] x#
 #lem: kugsig[gold]; u; u +.
 
-$ broken 
+$ broken
 
 @translation unitary en project
 @unit 1
@@ -21861,7 +21861,7 @@ $ broken
 2'. [...] {d}nansze
 #lem: u; Nanše[1]DN\gen
 
-3'. [...] x# x# 
+3'. [...] x# x#
 #lem: u; u; u +.
 
 $ broken
@@ -22060,11 +22060,11 @@ To ... dedicated this (vase) ... for the well-being of his spouse and child.
 @translation unitary hun project
 @unit 1
 @span Fragment a, 1' - Fragment a, 3'
-... házastársa és gyermeke életéért ajánlotta fel ezt (az edényt).  
+... házastársa és gyermeke életéért ajánlotta fel ezt (az edényt).
 
 @unit 2
 @span Fragment b, 1' - Fragment b, 3'
-... Aja-barag-ana, házastársa, fogadalmi ajándékként ajánlotta fel ezt (az edényt). 
+... Aja-barag-ana, házastársa, fogadalmi ajándékként ajánlotta fel ezt (az edényt).
 
 &Q001262 = Anonymous Nippur 04
 @composite
@@ -22093,7 +22093,7 @@ For Nintinuga, Nin-ennu dedicated this (vessel) as votive offering.
 @span 1 - 4
 Nintunugának, Nin-ennu ajánlotta fel fogadalmi ajándékként ezt (az edényt).
 
-&Q001263 = Anonymous Nippur 5 
+&Q001263 = Anonymous Nippur 5
 @composite
 #project: etcsri
 #link: source P222760 = FAOS 05/2, AnNip 05
@@ -22225,7 +22225,7 @@ To Ninlil, E-ĝissubi, the field surveyor, dedicated this (vessel) for the well-
 @span 1 - 6
 Ninlilnek, E-gissubi, a földmérő, házastársa és gyermeke életéért ajánlotta fel ezt (az edényt).
 
-&Q001267 = Anonymous Nippur 9 
+&Q001267 = Anonymous Nippur 9
 @composite
 #project: etcsri
 #link: source P222764 = FAOS 05/2, AnNip 09
@@ -22469,7 +22469,7 @@ Inanának.
 #project: etcsri
 #link: source P222777 = FAOS 05/2, AnNip 21
 
-$ broken 
+$ broken
 
 1'.	x#-na-na
 #lem: X-nana[1]PN
@@ -22583,7 +22583,7 @@ Lugal-hursaĝ, the temple administrator of Enlil.
 @span 1 - 2
 Lugal-hurszag, Enlil templomgazdaságának vezetője.
 
-&Q001281 = Anonymous Nippur 26 
+&Q001281 = Anonymous Nippur 26
 @composite
 #project: etcsri
 #link: source P222783 = FAOS 05/2, AnNip 26
@@ -23055,7 +23055,7 @@ Alim-šu.
 @span 1
 Alim-su.
 
-&Q001300 = Anonymous Nippur 46 
+&Q001300 = Anonymous Nippur 46
 @composite
 #project: etcsri
 #link: source P222802 = FAOS 05/2, AnNip 46
@@ -23169,7 +23169,7 @@ $ broken
 #project: etcsri
 #link: source P222809 = FAOS 05/2, AnNip 53
 
-$ broken 
+$ broken
 1'.	[ga]-til3#-la#-sze3#
 #lem: gatil[vow]
 
@@ -23431,7 +23431,7 @@ $     broken
 @translation unitary en project
 @unit 1
 @span 1 - 5
-E-kur, the granary supervisor of Unug, fashioned (the statue of) Damgalnuna, he built her a temple. 
+E-kur, the granary supervisor of Unug, fashioned (the statue of) Damgalnuna, he built her a temple.
 
 @translation unitary hun project
 @unit 1
@@ -23624,7 +23624,7 @@ Aszumnak, Nin-meta-bare, Anbu gyermeke, ajánlotta fel ezt a (tálat).
 #link: source P222867 = FAOS 05/2, AnUr 21
 1.	{d}nanna
 #lem: Nanna[1]DN\dat
- 
+
 2.	nam-til3
 #lem: namtil[life]
 
@@ -23649,7 +23649,7 @@ Nannának, ... életéért ....
 #project: etcsri
 #link: source P222868 = FAOS 05/2, AnUr 22
 
-$ broken 
+$ broken
 
 1'.	x# [...]
 #lem: u; u
@@ -23663,7 +23663,7 @@ $ broken
 4'.	[a] mu-na#-[ru]
 #lem: a[water]\abs; ru[cvve] +.
 
-$ broken 
+$ broken
 
 @translation unitary en project
 @unit 1
@@ -23681,7 +23681,7 @@ $ broken
 #link: source P222869 = FAOS 05/2, AnUr 23
 
 $ broken
- 
+
 1'.	mu# pad3#-da#
 #lem: mu[name]\abs; pad[find]
 

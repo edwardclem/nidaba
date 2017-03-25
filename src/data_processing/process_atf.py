@@ -6,11 +6,20 @@ from sys import argv
 import re
 import json
 
+delete_chars = ['#', '!', '<', '>', '[', ']', '...']
+
 def parse(args):
     parser = ArgumentParser()
     parser.add_argument("--atf", help="source ATF file")
     parser.add_argument("--out", help="output JSON file")
     return parser.parse_args(args)
+
+
+def process_word(word, charlist):
+    for char in charlist:
+        word = word.replace(char, "")
+
+    return word
 
 #input: string containing a single ATF-formatted document.
 #TODO: optional lemmatization?
@@ -26,10 +35,11 @@ def doc2seq(doc):
     all_matches = re.findall(text_pattern, doc)
     for text, lem in all_matches:
         #check if line contains multiple word
-        split_text = [word.strip() for word in text.split()]
+        split_text = [process_word(word.strip(), delete_chars) for word in text.split()]
+
         if len(split_text) > 1: #multiple words
             split_lem = lem.split(';')
-            #remove "+." from
+            #remove "+." from text
             split_lem = [word_lem.replace("+.", "").strip() for word_lem in split_lem]
             zipped = zip(split_text, split_lem) #zip corresponding words + lemmata together
             seq.extend(zipped)
@@ -53,15 +63,10 @@ def run(args):
         #convert to dictionary, save as JSON
         data_dict = {name:document for name, document in all_seq_data}
         #save JSON
-        
+
     with open(args.out, 'w') as outfile:
         json.dump(data_dict, outfile)
-        print "saved to {}".format(outfile)
-
-
-
-
-
+    print "saved to {}".format(args.out)
 
 
 if __name__=="__main__":
