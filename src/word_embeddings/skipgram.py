@@ -13,7 +13,7 @@ def parse(args):
     return parser.parse_args(args)
 
 class SkipGram():
-    def __init__(self, datapath, batch_size=128, embedding_size=128, skip_window=1, nce_samples=64, epochs=5):
+    def __init__(self, datapath, batch_size=128, embedding_size=128, skip_window=1, nce_samples=64, epochs=20):
         '''
         Instantiate SkipGram language model.
         '''
@@ -30,8 +30,6 @@ class SkipGram():
         self.word2id, self.id2word = self.build_vocab(self.documents)
 
         self.vocab_size = len(self.id2word)
-
-
 
         #will create data from each document separately
         #skip is 1 for now
@@ -109,8 +107,10 @@ class SkipGram():
 
     def create_data(self, documents, skip=1):
         data = [] #list of tuples of tokens
+        num_words = 0
         for doc in documents:
             for i, source in enumerate(doc):
+                num_words += 1
                 for skip_ind in range(i - skip, i + skip + 1):
                     #TODO: random sampling of context words
                     if skip_ind < len(doc) and skip_ind != i :
@@ -120,6 +120,7 @@ class SkipGram():
         input_data, labels = zip(*data)
         input_data = np.array(input_data, dtype=np.int32)
         labels = np.array(labels, dtype=np.int32)
+        print "number of words in context: {}".format(num_words)
         return input_data, labels.reshape(labels.shape[0], -1)
 
 

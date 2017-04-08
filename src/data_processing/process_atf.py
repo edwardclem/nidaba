@@ -6,7 +6,7 @@ from sys import argv
 import re
 import json
 
-delete_chars = ['#', '!', '<', '>', '[', ']', '...']
+delete_chars = ['#', '!', '<', '>', '[', ']', '...', '?']
 
 def parse(args):
     parser = ArgumentParser()
@@ -18,7 +18,6 @@ def parse(args):
 def process_word(word, charlist):
     for char in charlist:
         word = word.replace(char, "")
-
     return word
 
 #input: string containing a single ATF-formatted document.
@@ -36,7 +35,6 @@ def doc2seq(doc):
     for text, lem in all_matches:
         #check if line contains multiple word
         split_text = [process_word(word.strip(), delete_chars) for word in text.split()]
-
         if len(split_text) > 1: #multiple words
             split_lem = lem.split(';')
             #remove "+." from text
@@ -44,8 +42,8 @@ def doc2seq(doc):
             zipped = zip(split_text, split_lem) #zip corresponding words + lemmata together
             seq.extend(zipped)
         else:
-            seq.append((text.strip(), lem.strip()))
-
+            seq.append((split_text[0], lem.strip()))
+    
     return name, seq
 
 def run(args):
