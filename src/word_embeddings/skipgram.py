@@ -10,10 +10,11 @@ from sys import argv
 def parse(args):
     parser = ArgumentParser()
     parser.add_argument("--data", help="preprocessed JSON file containing documents.")
+    parser.add_argument("--lemmatized", help="if data is lemmatized.", action="store_true")
     return parser.parse_args(args)
 
 class SkipGram():
-    def __init__(self, datapath, batch_size=128, embedding_size=128, skip_window=1, nce_samples=64, epochs=20):
+    def __init__(self, datapath, lemmatized, batch_size=128, embedding_size=20, skip_window=1, nce_samples=64, epochs=400):
         '''
         Instantiate SkipGram language model.
         '''
@@ -24,7 +25,7 @@ class SkipGram():
         #load data from JSON. JSON is Dictionary where each key is a document name and
         #each value is a document, or a list of tuples (lemmatized sumerian word)
         #function returns a list of lists (stripped lemmas out)
-        self.documents = self.load(datapath)
+        self.documents = self.load(datapath, lemmatized)
 
         #generate tokens for all words
         self.word2id, self.id2word = self.build_vocab(self.documents)
@@ -75,7 +76,7 @@ class SkipGram():
                 curr_loss, batches = curr_loss + loss, batches + 1
             print 'Epoch {} \tAverage Loss: {}\t'.format(e, curr_loss / batches)
 
-    def load(self, datapath, lemmatized=True):
+    def load(self, datapath, lemmatized):
         '''
         Loads JSON file.
         '''
@@ -125,7 +126,7 @@ class SkipGram():
 
 
 def run(args):
-    sg = SkipGram(args.data)
+    sg = SkipGram(args.data, args.lemmatized)
 
     sg.fit() #run training
 

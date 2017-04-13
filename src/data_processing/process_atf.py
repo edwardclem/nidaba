@@ -6,24 +6,23 @@ from sys import argv
 import re
 import json
 
-delete_chars = ['#', '!', '<', '>', '[', ']', '...', '?']
+delete_chars = ['#', '!', '<', '>', '[', ']', '...', '?', "+."]
 
 def parse(args):
     parser = ArgumentParser()
     parser.add_argument("--atf", help="source ATF file")
+    parser.add_argument("--lemmatized", help="true if the document is lemmatized", action="store_true")
     parser.add_argument("--out", help="output JSON file")
     return parser.parse_args(args)
-
 
 def process_word(word, charlist):
     for char in charlist:
         word = word.replace(char, "")
     return word
 
-#input: string containing a single ATF-formatted document.
-#TODO: optional lemmatization?
+#input: string containing a single ATF-formatted document, lemmatized
 #output: name of document, list of tuples, containing words and their lemmatization.
-def doc2seq(doc):
+def doc2seq_lemmatized(doc):
     seq = [] #list of tuples
     #first line in doc should be name
     name = doc.split("\n")[0]
@@ -43,7 +42,27 @@ def doc2seq(doc):
             seq.extend(zipped)
         else:
             seq.append((split_text[0], lem.strip()))
-    
+    return name, seq
+#input: string containing single ATF formatted document.
+#NOTE: removes all lines that don't begin with a numeral (i.e. removes @column and @seal information)
+#NOTE: including "seals" that aren't technically part of the main document might cause confusion.
+#TODO: check language? all documents seem to be in Sumerian though
+def doc2seq(doc):
+    seq = [] #list of strings
+    split = doc.split("\n")
+    name = split[0] #first line of the document
+
+    #removing first line
+    doc = "\n".join(split[1:])
+
+
+    line_pattern = r'\d-?\d?\'?\.\s*(?P<text>.*?)\s*\n' #whitespace at end of the document
+    all_matches = re.findall(line_pattern, doc)
+
+    for text in all_matches:
+        split_text = [process_word(word, delete_chars) for word in text.split()]
+        seq.extend(split_text)
+
     return name, seq
 
 def run(args):
@@ -56,7 +75,10 @@ def run(args):
         #filter out empty documents
         docs = [doc for doc in docs if len(doc) > 0]
 
-        all_seq_data = [doc2seq(doc) for doc in docs]
+        if not args.lemmatized:
+            all_seq_data = [doc2seq(doc) for doc in docs]
+        else:
+            all_seq_data = [doc2seq_lemmatized(doc) for doc in docs]
 
         #convert to dictionary, save as JSON
         data_dict = {name:document for name, document in all_seq_data}
