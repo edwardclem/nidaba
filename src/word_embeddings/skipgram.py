@@ -14,7 +14,7 @@ def parse(args):
     return parser.parse_args(args)
 
 class SkipGram():
-    def __init__(self, datapath, lemmatized, batch_size=128, embedding_size=20, skip_window=1, nce_samples=64, epochs=400):
+    def __init__(self, datapath, lemmatized, batch_size=8, embedding_size=128, skip_window=1, nce_samples=64, epochs=20):
         '''
         Instantiate SkipGram language model.
         '''
@@ -32,9 +32,15 @@ class SkipGram():
 
         self.vocab_size = len(self.id2word)
 
+        print "vocabulary size: {}".format(self.vocab_size)
+
         #will create data from each document separately
         #skip is 1 for now
         self.data, self.labels = self.create_data(self.documents, skip=skip_window)
+
+        #printing some data:
+        for i in range(10):
+            print "{} {} -> {} {}".format(self.data[i], self.id2word[self.data[i]], self.labels[i,0], self.id2word[self.labels[i,0]])
 
         print "number of source, context pairs: {}".format(len(self.data))
 
