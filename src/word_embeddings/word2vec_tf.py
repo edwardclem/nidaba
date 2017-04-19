@@ -149,7 +149,7 @@ with graph.as_default():
   with tf.device('/cpu:0'):
     # Look up embeddings for inputs.
     embeddings = tf.Variable(
-        tf.random_uniform([vocabulary_size, embedding_size], -1.0, 1.0))
+        tf.random_uniform([vocabulary_size, embedding_size], -1.0, 1.0), name='word_embedding')
     embed = tf.nn.embedding_lookup(embeddings, train_inputs)
 
     # Construct the variables for the NCE loss
@@ -182,11 +182,12 @@ with graph.as_default():
 
   # Add variable initializer.
   init = tf.global_variables_initializer()
-
+  saver = tf.train.Saver()
 
 
 # Step 5: Begin training.
-num_steps = 100001
+num_steps = 2001
+LOG_DIR = '/home/edwardwilliams/research/nidaba/results/embed/5k'
 
 with tf.Session(graph=graph) as session:
   # We must initialize all variables before we use them.
@@ -210,29 +211,30 @@ with tf.Session(graph=graph) as session:
       # The average loss is an estimate of the loss over the last 2000 batches.
       print("Average loss at step ", step, ": ", average_loss)
       average_loss = 0
+      saver.save(session, os.path.join(LOG_DIR, "model_5k.ckpt"), step)
 
     # Note that this is expensive (~20% slowdown if computed every 500 steps)
-    if step % 10000 == 0:
-      sim = similarity.eval()
-      for i in xrange(valid_size):
-        valid_word = reverse_dictionary[valid_examples[i]]
-        top_k = 8  # number of nearest neighbors
-        nearest = (-sim[i, :]).argsort()[1:top_k + 1]
-        log_str = "Nearest to %s:" % valid_word
-        for k in xrange(top_k):
-          close_word = reverse_dictionary[nearest[k]]
-          log_str = "%s %s," % (log_str, close_word)
-        print(log_str)
+    # if step % 10000 == 0:
+    #   sim = similarity.eval()
+    #   for i in xrange(valid_size):
+    #     valid_word = reverse_dictionary[valid_examples[i]]
+    #     top_k = 8  # number of nearest neighbors
+    #     nearest = (-sim[i, :]).argsort()[1:top_k + 1]
+    #     log_str = "Nearest to %s:" % valid_word
+    #     for k in xrange(top_k):
+    #       close_word = reverse_dictionary[nearest[k]]
+    #       log_str = "%s %s," % (log_str, close_word)
+    #     print(log_str)
 
-  final_embeddings = normalized_embeddings.eval()
-  #save word embeddings
-  saver = tf.train.Saver()
+#   final_embeddings = normalized_embeddings.eval()
+#   #save word embeddings
 
-
-LOG_DIR = '../../results/embed/'
-
+#
+#
+#
+#
 metadata_path = os.path.join(LOG_DIR, "labels_5k.tsv")
-
+#
 with open(metadata_path, 'w') as f:
     f.write("\n".join([reverse_dictionary[i] for i in range(len(reverse_dictionary))]))
 
@@ -242,18 +244,18 @@ summary_writer = tf.summary.FileWriter(LOG_DIR)
 
 # Format: tensorflow/contrib/tensorboard/plugins/projector/projector_config.proto
 config = projector.ProjectorConfig()
-
+#
 # You can add multiple embeddings. Here we add only one.
-embedding = config.embeddings.add()
-embedding.tensor_name = normalized_embeddings.name
+embedding_info = config.embeddings.add()
+embedding_info.tensor_name = embeddings.name
 # Link this tensor to its metadata file (e.g. labels).
-embedding.metadata_path = os.path.join(metadata_path)
-
+embedding_info.metadata_path = os.path.join(metadata_path)
+#
 # Saves a configuration file that TensorBoard will read during startup.
 projector.visualize_embeddings(summary_writer, config)
-#associate metadata/labels
-#save variables
-saver.save(session, os.path.join(LOG_DIR, "model_5k.ckpt"))
+# #associate metadata/labels
+# #save variables
+#
 
 
 # Step 6: Visualize the embeddings.
