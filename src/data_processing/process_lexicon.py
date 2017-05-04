@@ -5,9 +5,6 @@ import json
 import re
 from sys import argv
 
-#converting the custom POS tags to the universal tagset
-etcsl_to_universal = {'AJ':'ADJ', 'N':'NOUN', 'V/i':'VERB', 'V/t':'VERB', 'IP':'PRON', 'NU':'NUM', 'CNJ':'SCONJ', 'MA':'X', 'XP':'PRON', 'DP':'PRON', 'MOD':'PART'}
-
 def parse(args):
     parser = ArgumentParser()
     parser.add_argument("--lex", help=".glo lexicon document")
