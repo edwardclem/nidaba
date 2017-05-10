@@ -1,0 +1,63 @@
+loaded 15669 lines from data/processed/etcsl/etcsl_train.txt
+71880 words total (18603 unique)
+11 unique tags: ADV NOUN NEG VERB(F) INTJ PRON NUM VERB(NF) CCONJ X ADJ
+loaded 1742 lines from data/processed/etcsl/etcsl_test.txt
+8050 words total (3985 unique)
+11 unique tags: ADV NOUN NEG VERB(F) INTJ PRON NUM VERB(NF) CCONJ X ADJ
+number of word, tag pairs that appear in both train and test: 2687
+training with feature set: context_word+context_tag+morphology
+  ==> Training (50 iterations)
+
+      Iteration    Log Likelihood    Accuracy
+      ---------------------------------------
+             1          -2.39790        0.089
+             2          -0.66500        0.876
+             3          -0.40426        0.918
+             4          -0.30861        0.935
+             5          -0.25750        0.945
+             6          -0.22484        0.951
+             7          -0.20174        0.956
+             8          -0.18433        0.959
+             9          -0.17062        0.962
+            10          -0.15947        0.964
+            11          -0.15017        0.966
+            12          -0.14228        0.968
+            13          -0.13548        0.970
+            14          -0.12954        0.971
+            15          -0.12430        0.972
+            16          -0.11963        0.973
+            17          -0.11544        0.974
+            18          -0.11165        0.975
+            19          -0.10821        0.975
+            20          -0.10506        0.976
+            21          -0.10217        0.977
+            22          -0.09950        0.978
+            23          -0.09703        0.978
+            24          -0.09474        0.979
+            25          -0.09260        0.979
+            26          -0.09060        0.979
+            27          -0.08873        0.980
+            28          -0.08696        0.980
+            29          -0.08530        0.980
+            30          -0.08374        0.980
+            31          -0.08226        0.981
+            32          -0.08085        0.981
+            33          -0.07952        0.981
+            34          -0.07825        0.982
+            35          -0.07704        0.982
+            36          -0.07589        0.982
+            37          -0.07479        0.982
+            38          -0.07374        0.982
+            39          -0.07274        0.982
+            40          -0.07177        0.983
+            41          -0.07085        0.983
+            42          -0.06996        0.983
+            43          -0.06911        0.983
+            44          -0.06829        0.983
+            45          -0.06750        0.983
+            46          -0.06673        0.984
+            47          -0.06600        0.984
+            48          -0.06529        0.984
+            49          -0.06460        0.984
+         Final          -0.06394        0.984
+Accuracy of MaxEnt Tagger with context_word+context_tag+morphology features: 0.954285714286

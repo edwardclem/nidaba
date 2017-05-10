@@ -1,0 +1,63 @@
+loaded 15669 lines from data/processed/etcsl/etcsl_train.txt
+71880 words total (18603 unique)
+11 unique tags: ADV NOUN NEG VERB(F) INTJ PRON NUM VERB(NF) CCONJ X ADJ
+loaded 1742 lines from data/processed/etcsl/etcsl_test.txt
+8050 words total (3985 unique)
+11 unique tags: ADV NOUN NEG VERB(F) INTJ PRON NUM VERB(NF) CCONJ X ADJ
+number of word, tag pairs that appear in both train and test: 2687
+training with feature set: context_word
+  ==> Training (50 iterations)
+
+      Iteration    Log Likelihood    Accuracy
+      ---------------------------------------
+             1          -2.39790        0.089
+             2          -1.40392        0.709
+             3          -1.02054        0.709
+             4          -0.85059        0.709
+             5          -0.76041        0.709
+             6          -0.70625        0.709
+             7          -0.67073        0.709
+             8          -0.64584        0.709
+             9          -0.62747        0.709
+            10          -0.61335        0.709
+            11          -0.60214        0.709
+            12          -0.59301        0.709
+            13          -0.58542        0.709
+            14          -0.57900        0.709
+            15          -0.57351        0.709
+            16          -0.56875        0.709
+            17          -0.56459        0.709
+            18          -0.56091        0.709
+            19          -0.55764        0.709
+            20          -0.55472        0.709
+            21          -0.55209        0.709
+            22          -0.54971        0.709
+            23          -0.54755        0.709
+            24          -0.54558        0.709
+            25          -0.54377        0.709
+            26          -0.54210        0.709
+            27          -0.54057        0.709
+            28          -0.53914        0.709
+            29          -0.53782        0.709
+            30          -0.53660        0.709
+            31          -0.53545        0.709
+            32          -0.53438        0.709
+            33          -0.53337        0.709
+            34          -0.53243        0.709
+            35          -0.53154        0.709
+            36          -0.53070        0.709
+            37          -0.52991        0.709
+            38          -0.52917        0.709
+            39          -0.52846        0.709
+            40          -0.52779        0.709
+            41          -0.52715        0.709
+            42          -0.52654        0.709
+            43          -0.52597        0.709
+            44          -0.52541        0.709
+            45          -0.52489        0.709
+            46          -0.52439        0.709
+            47          -0.52391        0.709
+            48          -0.52345        0.709
+            49          -0.52301        0.709
+         Final          -0.52258        0.709
+Accuracy of MaxEnt Tagger with context_word features: 0.565093167702

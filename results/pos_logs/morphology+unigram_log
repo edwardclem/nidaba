@@ -1,0 +1,63 @@
+loaded 15669 lines from data/processed/etcsl/etcsl_train.txt
+71880 words total (18603 unique)
+11 unique tags: ADV NOUN NEG VERB(F) INTJ PRON NUM VERB(NF) CCONJ X ADJ
+loaded 1742 lines from data/processed/etcsl/etcsl_test.txt
+8050 words total (3985 unique)
+11 unique tags: ADV NOUN NEG VERB(F) INTJ PRON NUM VERB(NF) CCONJ X ADJ
+number of word, tag pairs that appear in both train and test: 2687
+training with feature set: morphology+unigram
+  ==> Training (50 iterations)
+
+      Iteration    Log Likelihood    Accuracy
+      ---------------------------------------
+             1          -2.39790        0.089
+             2          -0.57398        0.966
+             3          -0.29723        0.978
+             4          -0.20549        0.984
+             5          -0.15984        0.986
+             6          -0.13228        0.988
+             7          -0.11371        0.989
+             8          -0.10028        0.990
+             9          -0.09010        0.990
+            10          -0.08210        0.990
+            11          -0.07564        0.991
+            12          -0.07031        0.991
+            13          -0.06585        0.991
+            14          -0.06205        0.991
+            15          -0.05877        0.991
+            16          -0.05592        0.991
+            17          -0.05341        0.991
+            18          -0.05119        0.991
+            19          -0.04921        0.991
+            20          -0.04744        0.991
+            21          -0.04583        0.991
+            22          -0.04438        0.991
+            23          -0.04305        0.991
+            24          -0.04183        0.991
+            25          -0.04072        0.991
+            26          -0.03969        0.991
+            27          -0.03873        0.991
+            28          -0.03785        0.991
+            29          -0.03703        0.991
+            30          -0.03626        0.991
+            31          -0.03554        0.991
+            32          -0.03487        0.991
+            33          -0.03423        0.991
+            34          -0.03364        0.991
+            35          -0.03308        0.991
+            36          -0.03255        0.991
+            37          -0.03204        0.991
+            38          -0.03157        0.991
+            39          -0.03112        0.991
+            40          -0.03069        0.991
+            41          -0.03028        0.991
+            42          -0.02989        0.991
+            43          -0.02952        0.991
+            44          -0.02917        0.991
+            45          -0.02883        0.991
+            46          -0.02851        0.991
+            47          -0.02820        0.991
+            48          -0.02790        0.991
+            49          -0.02762        0.991
+         Final          -0.02734        0.991
+Accuracy of MaxEnt Tagger with morphology+unigram features: 0.965962732919

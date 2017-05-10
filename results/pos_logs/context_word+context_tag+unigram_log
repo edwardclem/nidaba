@@ -1,0 +1,63 @@
+loaded 15669 lines from data/processed/etcsl/etcsl_train.txt
+71880 words total (18603 unique)
+11 unique tags: ADV NOUN NEG VERB(F) INTJ PRON NUM VERB(NF) CCONJ X ADJ
+loaded 1742 lines from data/processed/etcsl/etcsl_test.txt
+8050 words total (3985 unique)
+11 unique tags: ADV NOUN NEG VERB(F) INTJ PRON NUM VERB(NF) CCONJ X ADJ
+number of word, tag pairs that appear in both train and test: 2687
+training with feature set: context_word+context_tag+unigram
+  ==> Training (50 iterations)
+
+      Iteration    Log Likelihood    Accuracy
+      ---------------------------------------
+             1          -2.39790        0.089
+             2          -0.78723        0.900
+             3          -0.48213        0.920
+             4          -0.36667        0.937
+             5          -0.30234        0.961
+             6          -0.25944        0.969
+             7          -0.22804        0.977
+             8          -0.20377        0.981
+             9          -0.18436        0.986
+            10          -0.16845        0.988
+            11          -0.15514        0.991
+            12          -0.14385        0.992
+            13          -0.13414        0.993
+            14          -0.12570        0.994
+            15          -0.11831        0.995
+            16          -0.11177        0.995
+            17          -0.10594        0.996
+            18          -0.10073        0.996
+            19          -0.09602        0.996
+            20          -0.09176        0.996
+            21          -0.08789        0.996
+            22          -0.08435        0.996
+            23          -0.08110        0.996
+            24          -0.07811        0.996
+            25          -0.07534        0.996
+            26          -0.07278        0.996
+            27          -0.07040        0.996
+            28          -0.06819        0.996
+            29          -0.06612        0.996
+            30          -0.06418        0.996
+            31          -0.06236        0.996
+            32          -0.06066        0.996
+            33          -0.05905        0.997
+            34          -0.05753        0.997
+            35          -0.05610        0.997
+            36          -0.05474        0.997
+            37          -0.05346        0.997
+            38          -0.05224        0.997
+            39          -0.05108        0.997
+            40          -0.04998        0.997
+            41          -0.04893        0.997
+            42          -0.04792        0.997
+            43          -0.04697        0.997
+            44          -0.04605        0.997
+            45          -0.04517        0.997
+            46          -0.04434        0.997
+            47          -0.04353        0.997
+            48          -0.04276        0.997
+            49          -0.04202        0.997
+         Final          -0.04131        0.997
+Accuracy of MaxEnt Tagger with context_word+context_tag+unigram features: 0.893540372671

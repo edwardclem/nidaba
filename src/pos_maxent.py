@@ -106,8 +106,8 @@ def run(args):
     #load lexicon and documents
     tagger = POS_MaxEnt(args.train, args.test, feature_set=args.feature_set)
 
-    #tagger.fit()
-    #tagger.eval()
+    tagger.fit()
+    tagger.eval()
 
 
 if __name__=="__main__":
