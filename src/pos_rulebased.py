@@ -92,7 +92,6 @@ class POS_Rulebased:
                 #retag if rules apply
                 if any([re.match(pattern, word) for pattern in self.conjugation_prefixes]):
                     tag = 'VERB(F)'
-
             tags.append(tag)
         return tags
 

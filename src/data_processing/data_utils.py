@@ -9,6 +9,20 @@ etcsl_to_universal = {'AJ':'ADJ', 'N':'NOUN', 'I':'INTJ', 'C':'CCONJ', 'AV':'ADV
                         'V':'VERB', 'V/i':'VERB', 'V/t':'VERB', 'IP':'PRON', 'NU':'NUM',
                         'CNJ':'SCONJ', 'MA':'X', 'XP':'PRON', 'DP':'PRON', 'PD':'PRON', 'MOD':'PART',
                         'NEG':'NEG','X':'X', 'unspecified':'X'}
+#gets statistics of line
+#TODO: more word/tag frequency data
+def data_statistics(lines):
+
+    words = []
+    tags = []
+    for line in lines:
+        for word, tag in line:
+            words.append(word)
+            tags.append(tag)
+
+    outstr = "{} words total ({} unique)\n{} unique tags: {}".format(len(words), len(set(words)), len(set(tags)), " ".join(list(set(tags))))
+
+    return outstr
 
 #loads tagged data into list of list of tuples
 def load_tagged(filename):
@@ -20,6 +34,8 @@ def load_tagged(filename):
             data.append(tuple_list)
 
     print "loaded {} lines from {}".format(len(data), filename)
+
+    print data_statistics(data)
 
     return data
 
