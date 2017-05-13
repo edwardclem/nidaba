@@ -18,7 +18,7 @@ def parse(args):
 
 class POS_Rulebased:
     conjugation_prefixes = [r'mu-.*?$', r'im-ma-.*?', r'ba-.*?$', r'he2-.*?$']
-
+618
     def __init__(self, train_path, test_path):
         '''
         Initializes POS tagger with training and test set.
