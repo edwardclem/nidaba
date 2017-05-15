@@ -22,6 +22,9 @@ def parse_word(word, retag):
         pos_etcsl = word.attrib['pos']
     elif word.text == 'X':
         pos_etcsl = 'X'
+    elif word.text == '[X]': #remove these
+        pos_etcsl = 'X'
+        x = 'X'
     #check for finite vs non-finite verbs
     #if no conjugation prefixes
     #TODO: check irregular verbs?

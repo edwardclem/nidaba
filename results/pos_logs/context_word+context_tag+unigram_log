@@ -1,3 +1,4 @@
+[Found /Users/edwardwilliams/documents/research/megam/megam: /Users/edwardwilliams/documents/research/megam/megam]
 loaded 15669 lines from data/processed/etcsl/etcsl_train.txt
 71880 words total (18603 unique)
 11 unique tags: ADV NOUN NEG VERB(F) INTJ PRON NUM VERB(NF) CCONJ X ADJ
@@ -6,58 +7,209 @@ loaded 1742 lines from data/processed/etcsl/etcsl_test.txt
 11 unique tags: ADV NOUN NEG VERB(F) INTJ PRON NUM VERB(NF) CCONJ X ADJ
 number of word, tag pairs that appear in both train and test: 2687
 training with feature set: context_word+context_tag+unigram
-  ==> Training (50 iterations)
+Accuracy of MaxEnt Tagger with context_word+context_tag+unigram features: 0.721366459627
+randomly sampling 10 feature sets
 
-      Iteration    Log Likelihood    Accuracy
-      ---------------------------------------
-             1          -2.39790        0.089
-             2          -0.78723        0.900
-             3          -0.48213        0.920
-             4          -0.36667        0.937
-             5          -0.30234        0.961
-             6          -0.25944        0.969
-             7          -0.22804        0.977
-             8          -0.20377        0.981
-             9          -0.18436        0.986
-            10          -0.16845        0.988
-            11          -0.15514        0.991
-            12          -0.14385        0.992
-            13          -0.13414        0.993
-            14          -0.12570        0.994
-            15          -0.11831        0.995
-            16          -0.11177        0.995
-            17          -0.10594        0.996
-            18          -0.10073        0.996
-            19          -0.09602        0.996
-            20          -0.09176        0.996
-            21          -0.08789        0.996
-            22          -0.08435        0.996
-            23          -0.08110        0.996
-            24          -0.07811        0.996
-            25          -0.07534        0.996
-            26          -0.07278        0.996
-            27          -0.07040        0.996
-            28          -0.06819        0.996
-            29          -0.06612        0.996
-            30          -0.06418        0.996
-            31          -0.06236        0.996
-            32          -0.06066        0.996
-            33          -0.05905        0.997
-            34          -0.05753        0.997
-            35          -0.05610        0.997
-            36          -0.05474        0.997
-            37          -0.05346        0.997
-            38          -0.05224        0.997
-            39          -0.05108        0.997
-            40          -0.04998        0.997
-            41          -0.04893        0.997
-            42          -0.04792        0.997
-            43          -0.04697        0.997
-            44          -0.04605        0.997
-            45          -0.04517        0.997
-            46          -0.04434        0.997
-            47          -0.04353        0.997
-            48          -0.04276        0.997
-            49          -0.04202        0.997
-         Final          -0.04131        0.997
-Accuracy of MaxEnt Tagger with context_word+context_tag+unigram features: 0.893540372671
+
+  Feature                                             NOUN VERB(NF       X     NUM
+  --------------------------------------------------------------------------------
+  prev_tag=='START' (1)                             12.458
+  prev_word=='START' (1)                            -7.593
+  label is 'NOUN' (1)                                6.233
+  current_word=='cu-ni' (1)                          0.775
+  label is 'VERB(NF)' (1)                                    5.047
+  prev_word=='START' (1)                                     0.584
+  prev_tag=='START' (1)                                      0.567
+  label is 'X' (1)                                                   3.619
+  prev_tag=='START' (1)                                              1.231
+  prev_word=='START' (1)                                             1.211
+  label is 'NUM' (1)                                                         2.126
+  prev_word=='START' (1)                                                     1.897
+  prev_tag=='START' (1)                                                      1.884
+  ---------------------------------------------------------------------------------
+  TOTAL:                                            11.872   6.198   6.061   5.907
+  PROBS:                                             0.909   0.018   0.016   0.015
+
+
+  Feature                                          VERB(F) VERB(NF    NOUN     ADJ
+  --------------------------------------------------------------------------------
+  label is 'VERB(F)' (1)                             7.374
+  prev_word=='pa' (1)                                0.838
+  prev_tag=='NOUN' (1)                              -0.412
+  label is 'VERB(NF)' (1)                                    5.047
+  prev_word=='pa' (1)                                        1.091
+  prev_tag=='NOUN' (1)                                       1.082
+  label is 'NOUN' (1)                                                6.233
+  prev_word=='pa' (1)                                               -1.468
+  prev_tag=='NOUN' (1)                                               1.349
+  label is 'ADJ' (1)                                                         2.030
+  prev_tag=='NOUN' (1)                                                       1.423
+  ---------------------------------------------------------------------------------
+  TOTAL:                                             7.800   7.220   6.114   3.453
+  PROBS:                                             0.472   0.316   0.147   0.023
+
+
+  Feature                                             NOUN VERB(NF       X     NUM
+  --------------------------------------------------------------------------------
+  prev_tag=='START' (1)                             12.458
+  prev_word=='START' (1)                            -7.593
+  label is 'NOUN' (1)                                6.233
+  current_word=='a2' (1)                             3.456
+  label is 'VERB(NF)' (1)                                    5.047
+  prev_word=='START' (1)                                     0.584
+  prev_tag=='START' (1)                                      0.567
+  label is 'X' (1)                                                   3.619
+  prev_tag=='START' (1)                                              1.231
+  prev_word=='START' (1)                                             1.211
+  label is 'NUM' (1)                                                         2.126
+  prev_word=='START' (1)                                                     1.897
+  prev_tag=='START' (1)                                                      1.884
+  ---------------------------------------------------------------------------------
+  TOTAL:                                            14.553   6.198   6.061   5.907
+  PROBS:                                             0.984   0.003   0.003   0.002
+
+
+  Feature                                             NOUN VERB(F) VERB(NF     ADJ
+  --------------------------------------------------------------------------------
+  label is 'NOUN' (1)                                6.233
+  prev_tag=='NOUN' (1)                               1.349
+  current_word=='kalam-ma-ka' (1)                    0.834
+  prev_word=='u3-mun' (1)                           -0.036
+  label is 'VERB(F)' (1)                                     7.374
+  prev_tag=='NOUN' (1)                                      -0.412
+  label is 'VERB(NF)' (1)                                            5.047
+  prev_tag=='NOUN' (1)                                               1.082
+  prev_word=='u3-mun' (1)                                            0.031
+  label is 'ADJ' (1)                                                         2.030
+  prev_tag=='NOUN' (1)                                                       1.423
+  ---------------------------------------------------------------------------------
+  TOTAL:                                             8.381   6.962   6.160   3.453
+  PROBS:                                             0.593   0.222   0.127   0.019
+
+
+  Feature                                             NOUN VERB(F) VERB(NF     ADJ
+  --------------------------------------------------------------------------------
+  label is 'NOUN' (1)                                6.233
+  prev_tag=='NOUN' (1)                               1.349
+  prev_word=='[d]cul-gi-re' (1)                      0.179
+  current_word=='e2-babbar2-ce3' (1)                 0.031
+  label is 'VERB(F)' (1)                                     7.374
+  prev_tag=='NOUN' (1)                                      -0.412
+  label is 'VERB(NF)' (1)                                            5.047
+  prev_tag=='NOUN' (1)                                               1.082
+  label is 'ADJ' (1)                                                         2.030
+  prev_tag=='NOUN' (1)                                                       1.423
+  ---------------------------------------------------------------------------------
+  TOTAL:                                             7.792   6.962   6.129   3.453
+  PROBS:                                             0.494   0.278   0.156   0.024
+
+
+  Feature                                             NOUN VERB(F) VERB(NF     ADJ
+  --------------------------------------------------------------------------------
+  label is 'NOUN' (1)                                6.233
+  current_word=='e2' (1)                             4.108
+  prev_tag=='NOUN' (1)                               1.349
+  prev_word=='us2' (1)                              -0.103
+  label is 'VERB(F)' (1)                                     7.374
+  prev_tag=='NOUN' (1)                                      -0.412
+  prev_word=='us2' (1)                                      -0.063
+  label is 'VERB(NF)' (1)                                            5.047
+  prev_tag=='NOUN' (1)                                               1.082
+  prev_word=='us2' (1)                                              -0.074
+  label is 'ADJ' (1)                                                         2.030
+  prev_tag=='NOUN' (1)                                                       1.423
+  prev_word=='us2' (1)                                                       0.225
+  ---------------------------------------------------------------------------------
+  TOTAL:                                            11.587   6.899   6.056   3.678
+  PROBS:                                             0.933   0.036   0.020   0.004
+
+
+  Feature                                             NOUN VERB(NF       X     NUM
+  --------------------------------------------------------------------------------
+  prev_tag=='START' (1)                             12.458
+  prev_word=='START' (1)                            -7.593
+  label is 'NOUN' (1)                                6.233
+  label is 'VERB(NF)' (1)                                    5.047
+  prev_word=='START' (1)                                     0.584
+  prev_tag=='START' (1)                                      0.567
+  label is 'X' (1)                                                   3.619
+  prev_tag=='START' (1)                                              1.231
+  prev_word=='START' (1)                                             1.211
+  label is 'NUM' (1)                                                         2.126
+  prev_word=='START' (1)                                                     1.897
+  prev_tag=='START' (1)                                                      1.884
+  ---------------------------------------------------------------------------------
+  TOTAL:                                            11.098   6.198   6.061   5.907
+  PROBS:                                             0.853   0.029   0.026   0.023
+
+
+  Feature                                             PRON VERB(F) VERB(NF    NOUN
+  --------------------------------------------------------------------------------
+  current_word=='a-na' (1)                           5.235
+  label is 'PRON' (1)                                3.205
+  prev_tag=='NOUN' (1)                              -0.571
+  label is 'VERB(F)' (1)                                     7.374
+  prev_word=='ki-a' (1)                                      0.429
+  prev_tag=='NOUN' (1)                                      -0.412
+  label is 'VERB(NF)' (1)                                            5.047
+  prev_tag=='NOUN' (1)                                               1.082
+  prev_word=='ki-a' (1)                                              0.116
+  label is 'NOUN' (1)                                                        6.233
+  current_word=='a-na' (1)                                                  -1.797
+  prev_tag=='NOUN' (1)                                                       1.349
+  prev_word=='ki-a' (1)                                                     -0.144
+  ---------------------------------------------------------------------------------
+  TOTAL:                                             7.869   7.391   6.246   5.641
+  PROBS:                                             0.423   0.304   0.137   0.090
+
+
+  Feature                                             NOUN VERB(NF       X     NUM
+  --------------------------------------------------------------------------------
+  prev_tag=='START' (1)                             12.458
+  prev_word=='START' (1)                            -7.593
+  label is 'NOUN' (1)                                6.233
+  current_word=='[d]nin-nisig' (1)                   0.037
+  label is 'VERB(NF)' (1)                                    5.047
+  prev_word=='START' (1)                                     0.584
+  prev_tag=='START' (1)                                      0.567
+  label is 'X' (1)                                                   3.619
+  prev_tag=='START' (1)                                              1.231
+  prev_word=='START' (1)                                             1.211
+  label is 'NUM' (1)                                                         2.126
+  prev_word=='START' (1)                                                     1.897
+  prev_tag=='START' (1)                                                      1.884
+  ---------------------------------------------------------------------------------
+  TOTAL:                                            11.135   6.198   6.061   5.907
+  PROBS:                                             0.856   0.028   0.025   0.023
+
+
+  Feature                                          VERB(NF    NOUN VERB(F)     ADJ
+  --------------------------------------------------------------------------------
+  current_word=='gal' (1)                            5.992
+  label is 'VERB(NF)' (1)                            5.047
+  prev_tag=='NOUN' (1)                               1.082
+  prev_word=='mah' (1)                               0.470
+  label is 'NOUN' (1)                                        6.233
+  prev_tag=='NOUN' (1)                                       1.349
+  prev_word=='mah' (1)                                       0.391
+  label is 'VERB(F)' (1)                                             7.374
+  prev_word=='mah' (1)                                              -0.858
+  prev_tag=='NOUN' (1)                                              -0.412
+  label is 'ADJ' (1)                                                         2.030
+  prev_tag=='NOUN' (1)                                                       1.423
+  prev_word=='mah' (1)                                                       0.328
+  ---------------------------------------------------------------------------------
+  TOTAL:                                            12.592   7.973   6.104   3.781
+  PROBS:                                             0.946   0.038   0.011   0.002
+
+
+  13.004 current_word=='igi' and label is 'NOUN'
+  12.458 prev_tag=='START' and label is 'NOUN'
+  11.423 current_word=='[X]' and label is 'X'
+  10.987 current_word=='X' and label is 'X'
+  -7.593 prev_word=='START' and label is 'NOUN'
+   7.374 label is 'VERB(F)'
+   7.371 current_word=='zid' and label is 'ADJ'
+   7.160 current_word=='kug' and label is 'ADJ'
+   6.251 current_word=='je26-e' and label is 'PRON'
+   6.233 label is 'NOUN'

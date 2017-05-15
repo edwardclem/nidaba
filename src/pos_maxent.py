@@ -5,14 +5,17 @@ import json
 import re
 from sys import argv, stdout
 from data_processing import data_utils as dat
+from nltk.classify import megam
 from nltk.classify import maxent
 from features import feature_map
+import numpy as np
 
 def parse(args):
     parser = ArgumentParser()
     parser.add_argument('--train', help="training data")
     parser.add_argument('--test', help='test data')
     parser.add_argument('--feature_set', help='feature sets separated by \'+\' character')
+    parser.add_argument('--megam', help='location of megam binary for optimized training')
     return parser.parse_args(args)
 
 class POS_MaxEnt:
@@ -81,11 +84,13 @@ class POS_MaxEnt:
 
         #training model
         #TODO: use log-likelihood delta
-        self.classifier = maxent.MaxentClassifier.train(train_toks, algorithm='GIS', max_iter=50)
+        self.classifier = maxent.MaxentClassifier.train(train_toks, algorithm='megam')
 
     def eval(self):
         pred_tags = []
         test_tags = []
+
+        self.test_feats = []
 
         for line in self.test:
             if len(line) > 0: #bypassing this for now
@@ -94,6 +99,7 @@ class POS_MaxEnt:
                     #using predicted tags as history
                     feats = self.gen_features(i, words, pred_tags)
                     #predict tag
+                    self.test_feats.append(feats)
                     pred_tags.append(self.classifier.classify(feats))
                     test_tags.append(tags[i])
 
@@ -102,12 +108,31 @@ class POS_MaxEnt:
 
         print "Accuracy of MaxEnt Tagger with {} features: {}".format(self.feature_string, acc)
 
+    def feature_analysis(self):
+        '''
+        Performs feature analysis.
+        '''
+
+        print "randomly sampling 10 feature sets"
+
+        for i in np.random.choice(len(self.test_feats), 10):
+            print "\n"
+            self.classifier.explain(self.test_feats[i])
+
+        print "\n"
+        self.classifier.show_most_informative_features()
+
 def run(args):
+
+    #set up megam
+    megam.config_megam(args.megam)
+
     #load lexicon and documents
     tagger = POS_MaxEnt(args.train, args.test, feature_set=args.feature_set)
 
     tagger.fit()
     tagger.eval()
+    tagger.feature_analysis()
 
 
 if __name__=="__main__":

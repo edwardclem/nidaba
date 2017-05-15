@@ -1,3 +1,4 @@
+[Found /Users/edwardwilliams/documents/research/megam/megam: /Users/edwardwilliams/documents/research/megam/megam]
 loaded 15669 lines from data/processed/etcsl/etcsl_train.txt
 71880 words total (18603 unique)
 11 unique tags: ADV NOUN NEG VERB(F) INTJ PRON NUM VERB(NF) CCONJ X ADJ
@@ -6,58 +7,152 @@ loaded 1742 lines from data/processed/etcsl/etcsl_test.txt
 11 unique tags: ADV NOUN NEG VERB(F) INTJ PRON NUM VERB(NF) CCONJ X ADJ
 number of word, tag pairs that appear in both train and test: 2687
 training with feature set: context_word
-  ==> Training (50 iterations)
+Accuracy of MaxEnt Tagger with context_word features: 0.595279503106
+randomly sampling 10 feature sets
 
-      Iteration    Log Likelihood    Accuracy
-      ---------------------------------------
-             1          -2.39790        0.089
-             2          -1.40392        0.709
-             3          -1.02054        0.709
-             4          -0.85059        0.709
-             5          -0.76041        0.709
-             6          -0.70625        0.709
-             7          -0.67073        0.709
-             8          -0.64584        0.709
-             9          -0.62747        0.709
-            10          -0.61335        0.709
-            11          -0.60214        0.709
-            12          -0.59301        0.709
-            13          -0.58542        0.709
-            14          -0.57900        0.709
-            15          -0.57351        0.709
-            16          -0.56875        0.709
-            17          -0.56459        0.709
-            18          -0.56091        0.709
-            19          -0.55764        0.709
-            20          -0.55472        0.709
-            21          -0.55209        0.709
-            22          -0.54971        0.709
-            23          -0.54755        0.709
-            24          -0.54558        0.709
-            25          -0.54377        0.709
-            26          -0.54210        0.709
-            27          -0.54057        0.709
-            28          -0.53914        0.709
-            29          -0.53782        0.709
-            30          -0.53660        0.709
-            31          -0.53545        0.709
-            32          -0.53438        0.709
-            33          -0.53337        0.709
-            34          -0.53243        0.709
-            35          -0.53154        0.709
-            36          -0.53070        0.709
-            37          -0.52991        0.709
-            38          -0.52917        0.709
-            39          -0.52846        0.709
-            40          -0.52779        0.709
-            41          -0.52715        0.709
-            42          -0.52654        0.709
-            43          -0.52597        0.709
-            44          -0.52541        0.709
-            45          -0.52489        0.709
-            46          -0.52439        0.709
-            47          -0.52391        0.709
-            48          -0.52345        0.709
-            49          -0.52301        0.709
-         Final          -0.52258        0.709
-Accuracy of MaxEnt Tagger with context_word features: 0.565093167702
+
+  Feature                                             NOUN VERB(F) VERB(NF       X
+  --------------------------------------------------------------------------------
+  label is 'NOUN' (1)                                7.252
+  prev_word=='jiri3-ju10' (1)                        0.091
+  label is 'VERB(F)' (1)                                     6.015
+  prev_word=='jiri3-ju10' (1)                                0.070
+  label is 'VERB(NF)' (1)                                            5.193
+  label is 'X' (1)                                                           4.053
+  ---------------------------------------------------------------------------------
+  TOTAL:                                             7.343   6.085   5.193   4.053
+  PROBS:                                             0.543   0.227   0.122   0.055
+
+
+  Feature                                             NOUN VERB(F) VERB(NF       X
+  --------------------------------------------------------------------------------
+  label is 'NOUN' (1)                                7.252
+  prev_word=='mi-ni-in-il2' (1)                      0.199
+  label is 'VERB(F)' (1)                                     6.015
+  label is 'VERB(NF)' (1)                                            5.193
+  label is 'X' (1)                                                           4.053
+  ---------------------------------------------------------------------------------
+  TOTAL:                                             7.452   6.015   5.193   4.053
+  PROBS:                                             0.567   0.210   0.119   0.054
+
+
+  Feature                                             NOUN VERB(F) VERB(NF       X
+  --------------------------------------------------------------------------------
+  label is 'NOUN' (1)                                7.252
+  prev_word=='gal' (1)                               1.155
+  label is 'VERB(F)' (1)                                     6.015
+  prev_word=='gal' (1)                                       0.396
+  label is 'VERB(NF)' (1)                                            5.193
+  prev_word=='gal' (1)                                               0.087
+  label is 'X' (1)                                                           4.053
+  prev_word=='gal' (1)                                                      -0.351
+  ---------------------------------------------------------------------------------
+  TOTAL:                                             8.407   6.411   5.280   3.702
+  PROBS:                                             0.692   0.173   0.079   0.027
+
+
+  Feature                                             NOUN VERB(F) VERB(NF       X
+  --------------------------------------------------------------------------------
+  label is 'NOUN' (1)                                7.252
+  prev_word=='e2-ju10' (1)                           0.405
+  label is 'VERB(F)' (1)                                     6.015
+  prev_word=='e2-ju10' (1)                                  -0.113
+  label is 'VERB(NF)' (1)                                            5.193
+  prev_word=='e2-ju10' (1)                                          -0.051
+  label is 'X' (1)                                                           4.053
+  ---------------------------------------------------------------------------------
+  TOTAL:                                             7.657   5.902   5.142   4.053
+  PROBS:                                             0.613   0.182   0.107   0.050
+
+
+  Feature                                             NOUN VERB(NF VERB(F)       X
+  --------------------------------------------------------------------------------
+  label is 'NOUN' (1)                                7.252
+  prev_word=='gud' (1)                              -0.389
+  label is 'VERB(NF)' (1)                                    5.193
+  prev_word=='gud' (1)                                       1.298
+  label is 'VERB(F)' (1)                                             6.015
+  prev_word=='gud' (1)                                              -0.888
+  label is 'X' (1)                                                           4.053
+  prev_word=='gud' (1)                                                      -0.060
+  ---------------------------------------------------------------------------------
+  TOTAL:                                             6.863   6.491   5.128   3.993
+  PROBS:                                             0.424   0.327   0.127   0.058
+
+
+  Feature                                             NOUN VERB(NF VERB(F)       X
+  --------------------------------------------------------------------------------
+  label is 'NOUN' (1)                                7.252
+  prev_word=='kug' (1)                               1.120
+  label is 'VERB(NF)' (1)                                    5.193
+  prev_word=='kug' (1)                                       0.754
+  label is 'VERB(F)' (1)                                             6.015
+  prev_word=='kug' (1)                                              -0.836
+  label is 'X' (1)                                                           4.053
+  prev_word=='kug' (1)                                                       0.105
+  ---------------------------------------------------------------------------------
+  TOTAL:                                             8.372   5.947   5.180   4.157
+  PROBS:                                             0.719   0.134   0.079   0.039
+
+
+  Feature                                             NOUN VERB(NF VERB(F)       X
+  --------------------------------------------------------------------------------
+  label is 'NOUN' (1)                                7.252
+  prev_word=='ur-saj' (1)                            0.488
+  label is 'VERB(NF)' (1)                                    5.193
+  prev_word=='ur-saj' (1)                                    0.646
+  label is 'VERB(F)' (1)                                             6.015
+  prev_word=='ur-saj' (1)                                           -1.295
+  label is 'X' (1)                                                           4.053
+  prev_word=='ur-saj' (1)                                                    0.057
+  ---------------------------------------------------------------------------------
+  TOTAL:                                             7.740   5.839   4.720   4.110
+  PROBS:                                             0.645   0.173   0.080   0.052
+
+
+  Feature                                             NOUN VERB(F) VERB(NF       X
+  --------------------------------------------------------------------------------
+  label is 'NOUN' (1)                                7.252
+  label is 'VERB(F)' (1)                                     6.015
+  label is 'VERB(NF)' (1)                                            5.193
+  label is 'X' (1)                                                           4.053
+  ---------------------------------------------------------------------------------
+  TOTAL:                                             7.252   6.015   5.193   4.053
+  PROBS:                                             0.533   0.226   0.128   0.058
+
+
+  Feature                                             NOUN VERB(F) VERB(NF       X
+  --------------------------------------------------------------------------------
+  label is 'NOUN' (1)                                7.252
+  label is 'VERB(F)' (1)                                     6.015
+  label is 'VERB(NF)' (1)                                            5.193
+  label is 'X' (1)                                                           4.053
+  ---------------------------------------------------------------------------------
+  TOTAL:                                             7.252   6.015   5.193   4.053
+  PROBS:                                             0.533   0.226   0.128   0.058
+
+
+  Feature                                             NOUN VERB(F) VERB(NF       X
+  --------------------------------------------------------------------------------
+  label is 'NOUN' (1)                                7.252
+  prev_word=='50' (1)                               -0.013
+  label is 'VERB(F)' (1)                                     6.015
+  prev_word=='50' (1)                                       -0.036
+  label is 'VERB(NF)' (1)                                            5.193
+  label is 'X' (1)                                                           4.053
+  prev_word=='50' (1)                                                        0.067
+  ---------------------------------------------------------------------------------
+  TOTAL:                                             7.239   5.979   5.193   4.120
+  PROBS:                                             0.532   0.222   0.129   0.061
+
+
+   7.252 label is 'NOUN'
+   6.015 label is 'VERB(F)'
+   5.388 prev_word=='mu' and label is 'NUM'
+   5.193 label is 'VERB(NF)'
+   4.828 prev_word=='START' and label is 'ADV'
+  -4.625 label is 'NEG'
+   4.422 prev_word=='X' and label is 'X'
+   4.053 label is 'X'
+  -3.963 prev_word=='START' and label is 'VERB(F)'
+   3.758 prev_word=='START' and label is 'CCONJ'

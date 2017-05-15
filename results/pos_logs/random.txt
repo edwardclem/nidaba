@@ -4,9 +4,9 @@ loaded 15669 lines from data/processed/etcsl/etcsl_train.txt
 loaded 1742 lines from data/processed/etcsl/etcsl_test.txt
 8050 words total (3985 unique)
 11 unique tags: ADV NOUN NEG VERB(F) INTJ PRON NUM VERB(NF) CCONJ X ADJ
-tag distributions:
+tag distributions: 
 ['ADJ' 'ADV' 'CCONJ' 'INTJ' 'NEG' 'NOUN' 'NUM' 'PRON' 'VERB(F)' 'VERB(NF)'
  'X']
 [ 0.02162  0.00259  0.00142  0.00111  0.00014  0.5541   0.01359  0.01643
   0.17476  0.12507  0.08916]
-Accuracy of Random Tagger: 0.365217391304
+Accuracy of Random Tagger: 0.360869565217

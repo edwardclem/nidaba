@@ -1,7 +1,5 @@
 #features for POS taggers.
 
-
-
 def morphology(i, words, tag_history):
     chars = words[i].split('-')
 

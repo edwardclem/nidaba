@@ -1,3 +1,4 @@
+[Found /Users/edwardwilliams/documents/research/megam/megam: /Users/edwardwilliams/documents/research/megam/megam]
 loaded 15669 lines from data/processed/etcsl/etcsl_train.txt
 71880 words total (18603 unique)
 11 unique tags: ADV NOUN NEG VERB(F) INTJ PRON NUM VERB(NF) CCONJ X ADJ
@@ -6,58 +7,228 @@ loaded 1742 lines from data/processed/etcsl/etcsl_test.txt
 11 unique tags: ADV NOUN NEG VERB(F) INTJ PRON NUM VERB(NF) CCONJ X ADJ
 number of word, tag pairs that appear in both train and test: 2687
 training with feature set: morphology+unigram
-  ==> Training (50 iterations)
+Accuracy of MaxEnt Tagger with morphology+unigram features: 0.949689440994
+randomly sampling 10 feature sets
 
-      Iteration    Log Likelihood    Accuracy
-      ---------------------------------------
-             1          -2.39790        0.089
-             2          -0.57398        0.966
-             3          -0.29723        0.978
-             4          -0.20549        0.984
-             5          -0.15984        0.986
-             6          -0.13228        0.988
-             7          -0.11371        0.989
-             8          -0.10028        0.990
-             9          -0.09010        0.990
-            10          -0.08210        0.990
-            11          -0.07564        0.991
-            12          -0.07031        0.991
-            13          -0.06585        0.991
-            14          -0.06205        0.991
-            15          -0.05877        0.991
-            16          -0.05592        0.991
-            17          -0.05341        0.991
-            18          -0.05119        0.991
-            19          -0.04921        0.991
-            20          -0.04744        0.991
-            21          -0.04583        0.991
-            22          -0.04438        0.991
-            23          -0.04305        0.991
-            24          -0.04183        0.991
-            25          -0.04072        0.991
-            26          -0.03969        0.991
-            27          -0.03873        0.991
-            28          -0.03785        0.991
-            29          -0.03703        0.991
-            30          -0.03626        0.991
-            31          -0.03554        0.991
-            32          -0.03487        0.991
-            33          -0.03423        0.991
-            34          -0.03364        0.991
-            35          -0.03308        0.991
-            36          -0.03255        0.991
-            37          -0.03204        0.991
-            38          -0.03157        0.991
-            39          -0.03112        0.991
-            40          -0.03069        0.991
-            41          -0.03028        0.991
-            42          -0.02989        0.991
-            43          -0.02952        0.991
-            44          -0.02917        0.991
-            45          -0.02883        0.991
-            46          -0.02851        0.991
-            47          -0.02820        0.991
-            48          -0.02790        0.991
-            49          -0.02762        0.991
-         Final          -0.02734        0.991
-Accuracy of MaxEnt Tagger with morphology+unigram features: 0.965962732919
+
+  Feature                                             NOUN VERB(NF       X     ADJ
+  --------------------------------------------------------------------------------
+  label is 'NOUN' (1)                                2.954
+  second_char=='gin7' (1)                           -0.668
+  last_char=='gin7' (1)                             -0.564
+  first_char=='bir5' (1)                             0.153
+  second_char=='gin7' (1)                                   -0.941
+  label is 'VERB(NF)' (1)                                   -0.895
+  last_char=='gin7' (1)                                      0.611
+  label is 'X' (1)                                                  -3.635
+  last_char=='gin7' (1)                                              0.605
+  second_char=='gin7' (1)                                            0.302
+  label is 'ADJ' (1)                                                        -3.760
+  last_char=='gin7' (1)                                                      0.295
+  second_char=='gin7' (1)                                                    0.225
+  ---------------------------------------------------------------------------------
+  TOTAL:                                             1.875  -1.225  -2.728  -3.240
+  PROBS:                                             0.819   0.095   0.034   0.024
+
+
+  Feature                                             NOUN VERB(F) VERB(NF       X
+  --------------------------------------------------------------------------------
+  label is 'NOUN' (1)                                2.954
+  current_word=='um-ma' (1)                          1.939
+  second_char=='ma' (1)                              0.286
+  last_char=='ma' (1)                                0.098
+  first_char=='um' (1)                               0.090
+  first_char=='um' (1)                                       4.021
+  last_char=='ma' (1)                                       -2.811
+  second_char=='ma' (1)                                      2.507
+  label is 'VERB(F)' (1)                                    -0.336
+  second_char=='ma' (1)                                              1.721
+  label is 'VERB(NF)' (1)                                           -0.895
+  last_char=='ma' (1)                                                0.183
+  label is 'X' (1)                                                          -3.635
+  second_char=='ma' (1)                                                      1.018
+  last_char=='ma' (1)                                                        0.539
+  first_char=='um' (1)                                                       0.492
+  ---------------------------------------------------------------------------------
+  TOTAL:                                             5.366   3.381   1.009  -1.587
+  PROBS:                                             0.762   0.192   0.037   0.006
+
+
+  Feature                                          VERB(F)    NOUN VERB(NF       X
+  --------------------------------------------------------------------------------
+  first_char=='im' (1)                               6.157
+  second_char=='ma' (1)                              2.507
+  last_char=='be2' (1)                               1.794
+  label is 'VERB(F)' (1)                            -0.336
+  label is 'NOUN' (1)                                        2.954
+  last_char=='be2' (1)                                      -1.779
+  second_char=='ma' (1)                                      0.286
+  first_char=='im' (1)                                      -0.054
+  first_char=='im' (1)                                              -2.723
+  second_char=='ma' (1)                                              1.721
+  label is 'VERB(NF)' (1)                                           -0.895
+  last_char=='be2' (1)                                               0.271
+  label is 'X' (1)                                                          -3.635
+  second_char=='ma' (1)                                                      1.018
+  first_char=='im' (1)                                                       0.120
+  last_char=='be2' (1)                                                       0.102
+  ---------------------------------------------------------------------------------
+  TOTAL:                                            10.122   1.407  -1.626  -2.396
+  PROBS:                                             0.997   0.002   0.000   0.000
+
+
+  Feature                                             NOUN VERB(F) VERB(NF       X
+  --------------------------------------------------------------------------------
+  label is 'NOUN' (1)                                2.954
+  first_char=='[d]cu' (1)                            0.604
+  last_char=='na' (1)                                0.576
+  current_word=='[d]cu-zi-an-na' (1)                 0.044
+  second_char=='zi' (1)                              0.031
+  second_char=='zi' (1)                                      1.763
+  last_char=='na' (1)                                       -1.548
+  label is 'VERB(F)' (1)                                    -0.336
+  label is 'VERB(NF)' (1)                                           -0.895
+  last_char=='na' (1)                                                0.040
+  label is 'X' (1)                                                          -3.635
+  last_char=='na' (1)                                                        0.265
+  second_char=='zi' (1)                                                      0.122
+  ---------------------------------------------------------------------------------
+  TOTAL:                                             4.208  -0.121  -0.855  -3.248
+  PROBS:                                             0.918   0.046   0.027   0.005
+
+
+  Feature                                             NOUN     ADJ       X     NUM
+  --------------------------------------------------------------------------------
+  second_char=='' (1)                              -10.127
+  first_char=='saj' (1)                              3.444
+  last_char=='saj' (1)                               3.065
+  label is 'NOUN' (1)                                2.954
+  current_word=='saj' (1)                            1.478
+  second_char=='' (1)                                       -8.753
+  label is 'ADJ' (1)                                        -3.760
+  first_char=='saj' (1)                                      2.977
+  second_char=='' (1)                                               -6.112
+  label is 'X' (1)                                                  -3.635
+  label is 'NUM' (1)                                                        -5.984
+  second_char=='' (1)                                                       -4.369
+  ---------------------------------------------------------------------------------
+  TOTAL:                                             0.813  -9.536  -9.747 -10.353
+  PROBS:                                             0.998   0.001   0.001   0.000
+
+
+  Feature                                             NOUN VERB(F)       X VERB(NF
+  --------------------------------------------------------------------------------
+  current_word=='mu-bi' (1)                          3.474
+  first_char=='mu' (1)                               3.152
+  label is 'NOUN' (1)                                2.954
+  second_char=='bi' (1)                             -0.710
+  last_char=='bi' (1)                               -0.374
+  first_char=='mu' (1)                                       9.234
+  second_char=='bi' (1)                                     -2.271
+  last_char=='bi' (1)                                       -1.886
+  label is 'VERB(F)' (1)                                    -0.336
+  first_char=='mu' (1)                                               3.927
+  label is 'X' (1)                                                  -3.635
+  second_char=='bi' (1)                                              1.388
+  last_char=='bi' (1)                                                0.153
+  label is 'VERB(NF)' (1)                                                   -0.895
+  second_char=='bi' (1)                                                     -0.479
+  last_char=='bi' (1)                                                        0.424
+  ---------------------------------------------------------------------------------
+  TOTAL:                                             8.496   4.740   1.833  -0.950
+  PROBS:                                             0.921   0.068   0.009   0.001
+
+
+  Feature                                             NOUN       X     NUM VERB(NF
+  --------------------------------------------------------------------------------
+  second_char=='' (1)                              -10.127
+  label is 'NOUN' (1)                                2.954
+  first_char=='itid' (1)                             2.029
+  current_word=='itid' (1)                           1.197
+  last_char=='itid' (1)                              1.197
+  second_char=='' (1)                                       -6.112
+  label is 'X' (1)                                          -3.635
+  label is 'NUM' (1)                                                -5.984
+  second_char=='' (1)                                               -4.369
+  second_char=='' (1)                                                       -9.955
+  label is 'VERB(NF)' (1)                                                   -0.895
+  ---------------------------------------------------------------------------------
+  TOTAL:                                            -2.751  -9.747 -10.353 -10.850
+  PROBS:                                             0.981   0.008   0.005   0.004
+
+
+  Feature                                          VERB(NF    NOUN VERB(F)       X
+  --------------------------------------------------------------------------------
+  first_char=='mu2' (1)                              3.196
+  label is 'VERB(NF)' (1)                           -0.895
+  second_char=='mu2' (1)                             0.834
+  last_char=='a' (1)                                -0.118
+  label is 'NOUN' (1)                                        2.954
+  first_char=='mu2' (1)                                     -0.998
+  last_char=='a' (1)                                        -0.243
+  second_char=='mu2' (1)                                     0.208
+  last_char=='a' (1)                                                -1.404
+  second_char=='mu2' (1)                                            -0.570
+  label is 'VERB(F)' (1)                                            -0.336
+  label is 'X' (1)                                                          -3.635
+  last_char=='a' (1)                                                        -0.527
+  ---------------------------------------------------------------------------------
+  TOTAL:                                             3.017   1.921  -2.310  -4.162
+  PROBS:                                             0.662   0.310   0.017   0.005
+
+
+  Feature                                             NOUN    PRON VERB(F)     NUM
+  --------------------------------------------------------------------------------
+  label is 'NOUN' (1)                                2.954
+  second_char=='a' (1)                              -2.497
+  first_char=='a' (1)                                1.692
+  current_word=='a-a-ju10' (1)                       1.676
+  last_char=='ju10' (1)                             -0.110
+  label is 'PRON' (1)                                       -6.097
+  first_char=='a' (1)                                        4.293
+  second_char=='a' (1)                                       0.696
+  last_char=='ju10' (1)                                      0.522
+  last_char=='ju10' (1)                                             -2.238
+  second_char=='a' (1)                                              -1.695
+  first_char=='a' (1)                                                1.003
+  label is 'VERB(F)' (1)                                            -0.336
+  label is 'NUM' (1)                                                        -5.984
+  second_char=='a' (1)                                                       1.891
+  last_char=='ju10' (1)                                                      0.770
+  ---------------------------------------------------------------------------------
+  TOTAL:                                             3.715  -0.585  -3.266  -3.322
+  PROBS:                                             0.932   0.047   0.007   0.007
+
+
+  Feature                                          VERB(NF    NOUN VERB(F)     ADJ
+  --------------------------------------------------------------------------------
+  first_char=='ri' (1)                               4.275
+  last_char=='ni' (1)                                0.906
+  label is 'VERB(NF)' (1)                           -0.895
+  current_word=='ri-da-ni' (1)                       0.600
+  second_char=='da' (1)                             -0.315
+  label is 'NOUN' (1)                                        2.954
+  second_char=='da' (1)                                     -1.890
+  last_char=='ni' (1)                                        0.495
+  last_char=='ni' (1)                                               -2.049
+  first_char=='ri' (1)                                               1.416
+  label is 'VERB(F)' (1)                                            -0.336
+  second_char=='da' (1)                                             -0.031
+  label is 'ADJ' (1)                                                        -3.760
+  second_char=='da' (1)                                                      0.723
+  last_char=='ni' (1)                                                        0.594
+  ---------------------------------------------------------------------------------
+  TOTAL:                                             4.571   1.558  -1.000  -2.442
+  PROBS:                                             0.861   0.107   0.018   0.007
+
+
+-115.331 label is 'NEG'
+ -38.213 first_char=='igi' and label is 'ADV'
+ -18.488 label is 'INTJ'
+ -16.278 second_char=='' and label is 'VERB(F)'
+  11.148 first_char=='zid' and label is 'ADJ'
+ -10.630 second_char=='' and label is 'PRON'
+ -10.157 label is 'CCONJ'
+ -10.127 second_char=='' and label is 'NOUN'
+  -9.955 second_char=='' and label is 'VERB(NF)'
+   9.934 first_char=='dili' and label is 'ADJ'
