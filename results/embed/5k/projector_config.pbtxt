@@ -1,4 +1,0 @@
-embeddings {
-  tensor_name: "word_embedding:0"
-  metadata_path: "../../results/embed/5k/labels_5k.tsv"
-}
