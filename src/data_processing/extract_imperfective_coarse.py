@@ -5,6 +5,7 @@ from argparse import ArgumentParser
 from sys import argv
 from lxml import etree
 from copy import deepcopy
+import re
 
 def parse(args):
     parser = ArgumentParser()
@@ -39,10 +40,9 @@ def is_possible_imperfective(line):
             if 'pos' in word.attrib and word.attrib['pos'] == 'V':
                 if 'form-type' in word.attrib and word.attrib['form-type'] == 'RR':
                     return True
-                #this is the hacky way of handling -be2 kind of symbols
-                if len(word.attrib['form']) >= 2:
-                    if word.attrib['form'][-1] == "e" or word.attrib['form'][-2] == "e":
-                        return True
+                #using regex
+                if re.match(r'^.*e\d?$', word.attrib['form'], flags=0):
+                    return True
     return False
 
 
@@ -98,6 +98,8 @@ def run(args):
 
     root = tree.getroot()
     lines = parse_xml_tree(root)
+
+    print "{} lines extracted".format(len(lines))
 
     save_lines(lines, args.out)
 
