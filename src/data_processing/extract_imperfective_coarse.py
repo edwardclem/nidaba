@@ -39,9 +39,10 @@ def is_possible_imperfective(line):
             if 'pos' in word.attrib and word.attrib['pos'] == 'V':
                 if 'form-type' in word.attrib and word.attrib['form-type'] == 'RR':
                     return True
-                #TODO: handle cases like -be2, with a regex instead
-                elif word.attrib['form'].endswith('e'):
-                    return True
+                #this is the hacky way of handling -be2 kind of symbols
+                if len(word.attrib['form']) >= 2:
+                    if word.attrib['form'][-1] == "e" or word.attrib['form'][-2] == "e":
+                        return True
     return False
 
 
