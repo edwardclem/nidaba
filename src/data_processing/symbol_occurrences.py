@@ -161,16 +161,24 @@ def run(args):
 
     print "extracted {} verbs from dataset".format(len(verbs))
 
+    #creating and saving feather files
+
     inst_info = vb_instance_info(verbs, line_ids)
+
+    inst_info.to_feather("{}/inst_info.feather".format(args.out))
 
     occ_info = occurrance_info(verbs)
 
-    with open("{}/instance_info.json".format(args.out), 'w') as inst_json:
-        inst_json.write(inst_info.to_json())
+    occ_info.to_feather("{}/occ_info.feather".format(args.out))
 
 
-    with open("{}/occ_info.csv".format(args.out), 'w') as occ_json:
-        occ_json.write(occ_info.to_json())
+
+    # with open("{}/instance_info.json".format(args.out), 'w') as inst_json:
+    #     inst_json.write(inst_info.to_json())
+    #
+    #
+    # with open("{}/occ_info.json".format(args.out), 'w') as occ_json:
+    #     occ_json.write(occ_info.to_json())
 
 
 if __name__=="__main__":
