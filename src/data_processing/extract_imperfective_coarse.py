@@ -27,7 +27,6 @@ def parse_body(body):
             for line in child:
                 if line.tag == 'l' and is_possible_imperfective(line):
                     lines.append(line)
-
     return lines
 
 def is_possible_imperfective(line):
@@ -44,8 +43,6 @@ def is_possible_imperfective(line):
                 if re.match(r'^.*e\d?$', word.attrib['form'], flags=0):
                     return True
     return False
-
-
 
 def parse_xml_tree(root, ignore=['0', '6'], prefix="c"):
     '''
